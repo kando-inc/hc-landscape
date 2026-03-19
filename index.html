@@ -201,9 +201,11 @@ nav{position:sticky;top:0;z-index:100;background:rgba(250,249,247,.95);backdrop-
 .ca.a1{color:var(--purple)}.ca.a2{color:var(--teal)}.ca.a3{color:var(--blue)}.ca.a4{color:var(--pink)}.ca.a5{color:var(--green)}
 .cd{font-size:14px;color:var(--text2);line-height:2;max-width:720px;margin-bottom:28px}
 .cg{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
-.cc{background:var(--white);border:1px solid var(--border);border-radius:10px;padding:20px 22px;transition:all .2s}
-.cc:hover{border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.04)}
-.cc h4{font-size:14px;font-weight:700;margin-bottom:4px}
+.cc{background:var(--white);border:1px solid var(--border);border-radius:10px;padding:20px 22px;transition:all .2s;text-decoration:none;display:block;color:inherit;cursor:pointer}
+.cc:hover{border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.04);transform:translateY(-1px)}
+.cc h4{font-size:14px;font-weight:700;margin-bottom:4px;display:flex;align-items:center;justify-content:space-between}
+.cc-ext{font-size:13px;color:var(--text4);font-weight:400;transition:color .2s;flex-shrink:0;margin-left:8px}
+.cc:hover .cc-ext{color:var(--accent)}
 .cc .ct{font-size:11px;font-weight:600;margin-bottom:8px;letter-spacing:.02em}
 .cc .ct.t1{color:var(--purple)}.cc .ct.t2{color:var(--teal)}.cc .ct.t3{color:var(--blue)}.cc .ct.t4{color:var(--pink)}.cc .ct.t5{color:var(--green)}.cc .ct.t6{color:var(--accent-dk)}
 .cc .cb{font-size:13px;color:var(--text2);line-height:1.75}
@@ -560,86 +562,87 @@ const D=[
   // Cat 1 — 戦略コンサル (top band, spanning deep-to-explore)
   {n:"マーサージャパン",t:"c",s:1,tg:"世界最大の組織人事コンサル",
    b:"グローバル報酬データベースと職務評価メソドロジーを基盤に、人材ポートフォリオ設計・報酬制度・M&A後の組織統合を支援。既存事業の最適化が主軸だが、事業ポートフォリオ転換に伴う人材再配置にも対応。",
-   v:"経営戦略から逆算した人材ポートフォリオを描く",x:28,y:14},
+   v:"経営戦略から逆算した人材ポートフォリオを描く",u:"https://www.mercer.com/ja-jp/",x:28,y:14},
   {n:"デロイト トーマツ",t:"c",s:1,tg:"BIG4。イノベーション支援に最も積極的",
    b:"グループ内にベンチャーサポート法人・イノベーションパークを持ち、Morning Pitch（週次ピッチイベント）を運営。5,000社超のスタートアップネットワークで大企業のオープンイノベーションを推進しつつ、既存事業の人材戦略・組織変革も手がける。BIG4の中で最も探索側に軸足がある。",
-   v:"深化と探索の両面で、人材戦略からイノベーション支援まで一貫対応する",x:48,y:16},
+   v:"深化と探索の両面で、人材戦略からイノベーション支援まで一貫対応する",u:"https://www2.deloitte.com/jp/ja.html",x:48,y:16},
   {n:"PwCコンサルティング",t:"c",s:1,tg:"BIG4。新規事業開発支援に独自サービスライン",
    b:"「戦略的新規事業」を独立サービスラインとして持ち、アイデア創出からGTM戦略・スケール化まで包括支援。Future Design Lab、スタートアップ・ディール・アドバイザリーも展開。既存事業のM&A後チェンジマネジメントにも強い。",
-   v:"既存事業の変革と新規事業開発の両面を戦略的に設計する",x:42,y:10},
+   v:"既存事業の変革と新規事業開発の両面を戦略的に設計する",u:"https://www.pwc.com/jp/ja/services/consulting.html",x:42,y:10},
   {n:"EY",t:"c",s:1,tg:"BIG4。サステナビリティ×イノベーション戦略",
    b:"サステナビリティ経営と人的資本を接続し、事業ポートフォリオの長期転換を支援。GX・SX領域での新規事業創出にも注力し、イノベーション戦略と既存事業の人材投資計画を統合的に設計する。",
-   v:"10年先の事業転換を見据えた人材投資の全体像を描く",x:44,y:24},
+   v:"10年先の事業転換を見据えた人材投資の全体像を描く",u:"https://www.ey.com/ja_jp",x:44,y:24},
   {n:"KPMG",t:"c",s:1,tg:"BIG4。グローバル組織変革×新市場対応",
    b:"ピープル＆チェンジ部門がグローバル規模の組織・人事変革を推進。既存事業の最適化に加え、新市場参入・クロスボーダーM&Aに伴う組織設計や新規事業体制構築も支援。",
-   v:"グローバルで統一された人材基準を設計し、新市場への展開を支援する",x:40,y:20},
+   v:"グローバルで統一された人材基準を設計し、新市場への展開を支援する",u:"https://kpmg.com/jp/ja.html",x:40,y:20},
   {n:"三菱総合研究所",t:"c",s:1,tg:"シンクタンク。政策×経営の架け橋",
    b:"人的資本経営コンソーシアム事務局運営。政策動向を踏まえたエビデンスベースの人材戦略フレームを提供。企業と政府の間で人的資本経営の実践を橋渡しする。",
-   v:"政策と経営の接点で人的資本の全体像を示す",x:34,y:12},
+   v:"政策と経営の接点で人的資本の全体像を示す",u:"https://www.mri.co.jp/",x:34,y:12},
   {n:"コーン・フェリー",t:"c",s:1,tg:"世界最大級の組織・人事コンサル",
    b:"50年超のリーダーシップアセスメント実績を基盤に、科学的人材評価・後継者育成・報酬制度設計を提供。Talent Suite（2025年発表）で組織設計からジョブ管理・人材評価までを統合化。トヨタ・IBM等との長期パートナーシップ。",
-   v:"科学的アセスメントで次世代リーダーを見極め、育成計画を設計する",x:26,y:18},
+   v:"科学的アセスメントで次世代リーダーを見極め、育成計画を設計する",u:"https://www.kornferry.com/ja/",x:26,y:18},
 
   // Cat 2 — HR Tech (middle band, left)
   {n:"カオナビ",t:"s",s:2,tg:"人材管理システムシェアNo.1",
    b:"約4,500社導入。既存社員のスキル・経験をデータベース化し、配置最適化・育成計画をデータドリブンで実現。",
-   v:"既存人材の力を可視化し配置を最適化する",x:18,y:44},
+   v:"既存人材の力を可視化し配置を最適化する",u:"https://www.kaonavi.jp/",x:18,y:44},
   {n:"タレントパレット",t:"s",s:2,tg:"科学的人事データ分析",
    b:"採用から育成・評価・配置まで一元管理。データ駆動の人事意思決定を支援。継続率99.6%。",
-   v:"データで人材の適性を見極める",x:22,y:40},
+   v:"データで人材の適性を見極める",u:"https://www.talent-palette.com/",x:22,y:40},
   {n:"SmartHR",t:"s",s:2,tg:"労務管理からタレントマネジメントへ",
    b:"労務手続きで蓄積される社員データを配置シミュレーション・育成計画に展開。現場負担なくデータ基盤を構築。",
-   v:"正確な人材データの基盤を負担なく構築する",x:14,y:48},
+   v:"正確な人材データの基盤を負担なく構築する",u:"https://smarthr.jp/",x:14,y:48},
 
   // Cat 3 — 研修 (bottom band, left-center)
   {n:"グロービス",t:"t",s:3,tg:"経営大学院発のリーダー育成",
    b:"ヒト・モノ・カネ全領域カバーのMBA型プログラム。既存事業のリーダー育成に加え、新規事業リーダー向けプログラムも提供。支援実績3,400社以上。",
-   v:"経営視点で考えるリーダーの土台をつくる",x:30,y:74},
+   v:"経営視点で考えるリーダーの土台をつくる",u:"https://gce.globis.co.jp/",x:30,y:74},
   {n:"リクルートMS",t:"t",s:3,tg:"「個と組織を生かす」プロファーム",
    b:"人材開発・組織開発・制度構築・採用の4領域を包括支援。アセスメントから研修、コンサルティングまでワンストップ。",
-   v:"一人ひとりの強みを測定し育成計画を設計する",x:24,y:78},
+   v:"一人ひとりの強みを測定し育成計画を設計する",u:"https://www.recruit-ms.co.jp/",x:24,y:78},
   {n:"JMAM",t:"t",s:3,tg:"行動変容型の階層別研修",
    b:"「対話」による行動変容を重視。ハーバード大学・CCLのリーダーシップ研究を研修設計に導入。",
-   v:"「知っている」から「やってみる」への転換を促す",x:20,y:84},
+   v:"「知っている」から「やってみる」への転換を促す",u:"https://www.jmam.co.jp/",x:20,y:84},
   {n:"インソース",t:"t",s:3,tg:"年間30万人超の研修プロバイダー",
    b:"業種・職種別カスタマイズ研修を最短1週間で提供。大企業から官公庁まで。コストパフォーマンスに優れる。",
-   v:"必要なスキルを必要な人数に迅速に届ける",x:16,y:90},
+   v:"必要なスキルを必要な人数に迅速に届ける",u:"https://www.insource.co.jp/",x:16,y:90},
 
   // Cat 4 — 組織変革 (middle band, left)
   {n:"リンクアンドモチベーション",t:"u",s:4,tg:"モチベーションエンジニアリング",
    b:"心理学・行動経済学を応用し、既存組織のエンゲージメントを向上。組織診断から風土改革まで一貫支援。日本初ISO 30414認証取得。",
-   v:"既存組織のエンゲージメントを高め自走する風土をつくる",x:26,y:52},
+   v:"既存組織のエンゲージメントを高め自走する風土をつくる",u:"https://www.lmi.ne.jp/",x:26,y:52},
   {n:"船井総研",t:"u",s:4,tg:"中堅・中小企業の経営伴走",
    b:"業種特化の専門コンサルタント950名超。既存事業の成長戦略と人材を月次支援で伴走。新規事業開発コンサルティングも提供。",
-   v:"業種を知る専門家が経営と人材を同時に伴走する",x:34,y:58},
+   v:"業種を知る専門家が経営と人材を同時に伴走する",u:"https://www.funaisoken.co.jp/",x:34,y:58},
 
   // Cat 5 — 新規事業開発支援 (right side, top-middle)
   {n:"アルファドライブ",t:"v",s:5,tg:"大企業の社内新規事業を仕組みで生み出す",
    b:"230社超で新規事業創出を支援。社内公募制度の設計・運営からアイデア評価・事業化判断まで、新規事業が生まれ続けるプラットフォームを構築。23,000件超のアイデアから210件超を事業化した実績。",
-   v:"新規事業が生まれ続ける仕組み・制度を大規模に構築する",x:70,y:46},
+   v:"新規事業が生まれ続ける仕組み・制度を大規模に構築する",u:"https://www.alphadrive.co.jp/",x:70,y:46},
   {n:"ドリームインキュベータ",t:"v",s:5,tg:"ビジネスプロデュース×事業投資",
    b:"業界の枠を超えた新規事業の構想・プロデュースに特化。自己資金による事業投資も行い、構想から実現まで一貫コミット。",
-   v:"産業構造を変えるレベルの新規事業を構想・推進する",x:72,y:18},
+   v:"産業構造を変えるレベルの新規事業を構想・推進する",u:"https://www.dreamincubator.co.jp/",x:72,y:18},
   {n:"デロイト トーマツ\nベンチャーサポート",t:"v",s:5,tg:"BIG4系イノベーション特化法人",
    b:"デロイトグループのイノベーション専門法人。国内外5,000社超のスタートアップネットワークで大企業の新規事業をオープンイノベーションで支援。",
-   v:"スタートアップ連携で大企業のイノベーションを加速する",x:66,y:24},
+   v:"スタートアップ連携で大企業のイノベーションを加速する",u:"https://www.deloitte.com/jp/ja/services/deloitte-private.html",x:66,y:24},
   {n:"アビームコンサルティング",t:"v",s:5,tg:"新規事業の構想から黒字化まで伴走",
    b:"総合コンサルのサービスラインで、新規事業のアイデア創出からM&A・JV設立を含む黒字化まで包括支援。",
-   v:"新規事業を構想から黒字化までトータルで支援する",x:62,y:36},
+   v:"新規事業を構想から黒字化までトータルで支援する",u:"https://www.abeam.com/jp/ja",x:62,y:36},
 
   // Cat 6 — 価値創造（ゼロイチ）人材育成支援 (right-bottom)
   {n:"KANDO",t:"k",s:6,tg:"Roles®️ — 世界初の価値創造チームマネジメントメソッド",
    b:"世界初の価値創造に特化したチームマネジメントメソッド「Roles®️」を基盤に、実践型ゼロイチ人材育成を展開。研修・実習パッケージも用意し、人と組織に「価値創造の思考のOS」をインストールする。産官学金での豊富な実績を持つ。",
-   v:"人と組織の思考OSを価値創造型に転換し、ゼロイチ推進役を実践で育てる",x:82,y:86}
+   v:"人と組織の思考OSを価値創造型に転換し、ゼロイチ推進役を実践で育てる",u:"https://kando-inc.jp/",x:82,y:86}
 ];
 
 // Cards
 const cm={c:'t1',s:'t2',t:'t3',u:'t4',v:'t5',k:'t6'};
 D.forEach(d=>{
   const g=document.getElementById('g'+d.s);if(!g)return;
-  const c=document.createElement('div');c.className='cc';
+  const c=document.createElement('a');c.className='cc';
+  c.href=d.u;c.target='_blank';c.rel='noopener';
   const vLine=d.v?`<div class="cv">この目指す姿への貢献：${d.v}</div>`:'';
-  c.innerHTML=`<h4>${d.n.replace('\n',' ')}</h4><div class="ct ${cm[d.t]}">${d.tg}</div><div class="cb">${d.b}</div>${vLine}`;
+  c.innerHTML=`<h4>${d.n.replace('\n',' ')}<span class="cc-ext">↗</span></h4><div class="ct ${cm[d.t]}">${d.tg}</div><div class="cb">${d.b}</div>${vLine}`;
   g.appendChild(c);
 });
 
