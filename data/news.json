@@ -1,5 +1,30 @@
 {
-  "last_updated": "2026-03-19T16:00:00+09:00",
-  "total": 0,
-  "articles": []
+  "last_updated": "2026-03-19T08:41:32+09:00",
+  "total": 3,
+  "articles": [
+    {
+      "date": "2026-03-18",
+      "title": "昇進の空きがない時、優秀な部下をどう支援するか 人材流出を防ぐための6つの戦略",
+      "summary": "昇進機会が限られる中で優秀人材を引き留める6つの戦略。流動性低下時代のタレントリテンション実践論",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13335"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "賛同できない経営判断を実行する時のリーダーシップ戦略",
+      "summary": "経営陣の決定に反対でもチームを導く4つの行動指針。目的意識と共感で組織の誠実性を保つ方法",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13307"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "2026年に企業が直面する、AI時代の9つのトレンド 人員削減からデジタル分身まで",
+      "summary": "2026年のAI時代に企業が直面する9つのトレンド。人員削減の前倒しや組織文化への影響を分析",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13489"
+    }
+  ]
 }
