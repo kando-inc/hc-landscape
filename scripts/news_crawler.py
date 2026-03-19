@@ -281,6 +281,7 @@ def curate_with_claude(articles):
                         'summary': r.get('summary', a['raw_summary'][:80]),
                         'cat': r.get('category', a['hint']),
                         'source': a['source'],
+                        'url': a['url'],
                     })
             print(f"  → Claude厳選: {len(curated)}件（候補{len(articles)}件から）")
             return curated
@@ -305,6 +306,8 @@ def fallback_classify(articles):
             'date': a['date'], 'title': a['title'],
             'summary': a['raw_summary'][:80],
             'cat': cat, 'source': a['source'],
+            'url': a.get('url', ''),
+                        'url': a['url'],
         })
     return result
 

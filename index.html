@@ -248,8 +248,10 @@ footer{background:var(--text);color:rgba(255,255,255,.45);padding:48px 2rem}
 .news-filter:hover{border-color:var(--text3);color:var(--text2)}
 .news-filter.active{background:var(--text);color:var(--white);border-color:var(--text)}
 .news-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
-.news-card{background:var(--white);border:1px solid var(--border);border-radius:10px;padding:20px 22px;transition:all .2s;display:block;color:inherit}
-.news-card:hover{border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.04)}
+.news-card{background:var(--white);border:1px solid var(--border);border-radius:10px;padding:20px 22px;transition:all .2s;display:block;color:inherit;text-decoration:none;position:relative}
+.news-card:hover{border-color:var(--border2);box-shadow:0 4px 16px rgba(0,0,0,.04);transform:translateY(-1px)}
+a.news-card::after{content:"↗";position:absolute;top:16px;right:16px;font-size:13px;color:var(--text4);transition:color .2s}
+a.news-card:hover::after{color:var(--accent)}
 .news-date{font-size:11px;color:var(--text4);font-weight:500;margin-bottom:6px}
 .news-card h3{font-size:14px;font-weight:700;line-height:1.6;margin-bottom:8px;color:var(--text)}
 .news-card p{font-size:12px;color:var(--text3);line-height:1.7}
@@ -711,8 +713,12 @@ function renderNews(filter){
     </div>`;
     return;
   }
-  grid.innerHTML=filtered.map(n=>`
-    <div class="news-card" data-cat="${n.cat}">
+  grid.innerHTML=filtered.map(n=>{
+    const hasUrl=n.url&&n.url!=='#';
+    const tag=hasUrl?'a':'div';
+    const attrs=hasUrl?` href="${n.url}" target="_blank" rel="noopener"`:'';
+    return `
+    <${tag}${attrs} class="news-card" data-cat="${n.cat}">
       <div class="news-date">${n.date}</div>
       <h3>${n.title}</h3>
       <p>${n.summary}</p>
@@ -720,7 +726,8 @@ function renderNews(filter){
         <span class="news-tag ${n.cat}">${catLabels[n.cat]}</span>
       </div>
       <div class="news-source">出典：${n.source}</div>
-    </div>`).join('');
+    </${tag}>`;
+  }).join('');
 }
 renderNews('all');
 
