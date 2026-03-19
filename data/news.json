@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-03-19T08:41:32+09:00",
-  "total": 3,
+  "last_updated": "2026-03-19T23:06:39+09:00",
+  "total": 6,
   "articles": [
+    {
+      "date": "2026-03-19",
+      "title": "テクノロジーが組織構造とマネジャー役割に与える変革インパクト",
+      "summary": "テクノロジーを「ツール」から「自律的役割」へ転換する企業観の差が競争力を決定。中国2社比較で組織変革の具体例を解説。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13407"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "昇進機会不足時の優秀人材リテンション戦略6選",
+      "summary": "組織流動性低下で昇進困難な状況での人材流出防止策。優秀な部下にキャリア前進を実感させる具体的アプローチを提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13335"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "反対する決定を実行するリーダーの4つの行動戦略",
+      "summary": "経営陣の決定に賛同できない場合のリーダー対応法。チーム士気維持しながら誠実性と影響力を保つ実行手法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13307"
+    },
     {
       "date": "2026-03-18",
       "title": "昇進の空きがない時、優秀な部下をどう支援するか 人材流出を防ぐための6つの戦略",
