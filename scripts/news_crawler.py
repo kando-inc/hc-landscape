@@ -19,6 +19,8 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 import feedparser
+import socket
+socket.setdefaulttimeout(15)  # 15秒で各RSS取得を打ち切り
 import requests
 from bs4 import BeautifulSoup
 
@@ -161,7 +163,7 @@ def fetch_articles():
     cutoff = datetime.now() - timedelta(days=DAYS_BACK)
     for source in SOURCES:
         try:
-            feed = feedparser.parse(source["url"])
+            feed = feedparser.parse(source["url"], request_headers={"User-Agent":"HC-Landscape-Bot/1.0"})
             count = 0
             for entry in feed.entries[:30]:
                 pub_date = None
