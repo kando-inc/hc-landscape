@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
 """
-HC Landscape — 人的資本経営ニュース自動収集スクリプト
-=====================================================
+HC Landscape — 人的資本経営ニュース自動収集スクリプト（v2）
+============================================================
 
-GitHub Actionsで毎朝8時(JST)に自動実行し、
-人的資本経営関連ニュースを収集→Claude APIで分類・要約→JSONに出力する。
+品質方針：
+  Google Newsのような集約サイトは使わない。
+  一次情報源（官公庁・コンサルファーム・HR専門機関・質の高いビジネスメディア）
+  のみをソースとし、経営層・人事部長が読む価値のある情報だけを選定する。
 
-セットアップ:
-  pip install feedparser requests anthropic beautifulsoup4
-
-環境変数:
-  ANTHROPIC_API_KEY: Claude API キー
-
-出力:
-  data/news.json — フロントエンドが読み込むJSONファイル
+ソースカテゴリ：
+  1. 官公庁・政策機関（経産省、金融庁）
+  2. コンサルファーム Insights（デロイト、PwC、コーン・フェリー）
+  3. HR専門機関・シンクタンク（リクルートワークス研究所、パーソル総研）
+  4. 質の高いビジネスメディア（HRpro）
+  5. HR Tech プレスリリース（カオナビ、SmartHR）
 """
 
 import json
@@ -26,67 +26,92 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-# ── 設定 ──────────────────────────────────────────
 OUTPUT_DIR = Path("data")
 OUTPUT_FILE = OUTPUT_DIR / "news.json"
-MAX_ARTICLES = 30  # 保持する最大記事数
-DAYS_BACK = 7       # 過去何日分を取得するか
+MAX_ARTICLES = 15
+DAYS_BACK = 14
 
-# 収集対象のRSSフィード / ニュースソース
-RSS_FEEDS = [
-    # Google News — 主要キーワード
-    "https://news.google.com/rss/search?q=%E4%BA%BA%E7%9A%84%E8%B3%87%E6%9C%AC%E7%B5%8C%E5%96%B6&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=%E4%BA%BA%E6%9D%90%E6%88%A6%E7%95%A5+%E4%BC%81%E6%A5%AD&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=%E4%B8%A1%E5%8A%B9%E3%81%8D%E3%81%AE%E7%B5%8C%E5%96%B6+%E4%BA%BA%E6%9D%90&hl=ja&gl=JP&ceid=JP:ja",
-    "https://news.google.com/rss/search?q=%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD+%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90&hl=ja&gl=JP&ceid=JP:ja",
+SOURCES = [
+    # ═══ 官公庁・政策機関 ═══
+    {"name": "経済産業省",
+     "url": "https://www.meti.go.jp/press/index.rdf",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人的資本", "人材", "経営", "開示", "伊藤レポート", "リスキリング"]},
+    {"name": "金融庁",
+     "url": "https://www.fsa.go.jp/news/index.rdf",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人的資本", "開示", "有価証券", "ガバナンス", "サステナビリティ"]},
 
-    # 専門メディア
-    "https://www.hrpro.co.jp/rss/",                    # HRプロ
-    "https://jinjijyuku.com/feed/",                      # 人事塾
+    # ═══ コンサルファーム Insights ═══
+    {"name": "デロイト トーマツ",
+     "url": "https://www2.deloitte.com/jp/ja/pages/human-capital/articles/hcm.rss.xml",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材", "組織", "リーダーシップ", "イノベーション", "新規事業"]},
+    {"name": "PwC Japan",
+     "url": "https://www.pwc.com/jp/ja/knowledge/rss.xml",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材", "新規事業", "組織変革", "タレント", "リスキリング"]},
+    {"name": "コーン・フェリー",
+     "url": "https://www.kornferry.com/ja/insights.rss",
+     "trust": 4, "hint": "deep",
+     "keywords": ["リーダーシップ", "人材", "アセスメント", "組織", "報酬", "タレント"]},
+
+    # ═══ HR専門機関・シンクタンク ═══
+    {"name": "リクルートワークス研究所",
+     "url": "https://www.works-i.com/research/feed/",
+     "trust": 5, "hint": "deep",
+     "keywords": ["人材", "働き方", "組織", "雇用", "人的資本", "リーダー"]},
+    {"name": "パーソル総合研究所",
+     "url": "https://rc.persol-group.co.jp/rss.xml",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材", "組織", "エンゲージメント", "リスキリング", "タレント"]},
+
+    # ═══ 質の高いビジネスメディア ═══
+    {"name": "HRpro",
+     "url": "https://www.hrpro.co.jp/rss/",
+     "trust": 3, "hint": "deep",
+     "keywords": ["人的資本経営", "タレントマネジメント", "組織開発", "エンゲージメント", "新規事業 人材"]},
+
+    # ═══ HR Tech 企業プレスリリース ═══
+    {"name": "カオナビ",
+     "url": "https://corp.kaonavi.jp/press/feed/",
+     "trust": 4, "hint": "tech",
+     "keywords": ["タレントマネジメント", "人材", "配置", "AI", "機能"]},
+    {"name": "SmartHR",
+     "url": "https://smarthr.jp/feed/",
+     "trust": 4, "hint": "tech",
+     "keywords": ["人事", "労務", "タレント", "サーベイ", "エンゲージメント"]},
 ]
 
-# キーワード（いずれかを含む記事のみ採用）
-KEYWORDS = [
-    "人的資本", "人材戦略", "人材育成", "タレントマネジメント",
-    "リーダーシップ開発", "組織変革", "人事制度", "エンゲージメント",
-    "新規事業 人材", "両効きの経営", "人的資本開示",
-    "HR Tech", "ジョブ型", "リスキリング", "サクセッション",
-]
 
-# ── RSS取得 ─────────────────────────────────────
-def fetch_rss_articles():
-    """全RSSフィードから記事を取得"""
+def fetch_articles():
     articles = []
     cutoff = datetime.now() - timedelta(days=DAYS_BACK)
 
-    for feed_url in RSS_FEEDS:
+    for source in SOURCES:
         try:
-            feed = feedparser.parse(feed_url)
-            for entry in feed.entries[:20]:
-                # 日付パース
+            feed = feedparser.parse(source["url"])
+            count = 0
+            for entry in feed.entries[:30]:
                 pub_date = None
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    pub_date = datetime(*entry.published_parsed[:6])
-                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                    pub_date = datetime(*entry.updated_parsed[:6])
-                else:
+                for attr in ['published_parsed', 'updated_parsed']:
+                    parsed = getattr(entry, attr, None)
+                    if parsed:
+                        pub_date = datetime(*parsed[:6])
+                        break
+                if not pub_date:
                     pub_date = datetime.now()
-
                 if pub_date < cutoff:
                     continue
 
-                title = entry.get('title', '')
+                title = entry.get('title', '').strip()
                 link = entry.get('link', '')
                 summary = entry.get('summary', '')
-
-                # HTMLタグを除去
                 if summary:
-                    summary = BeautifulSoup(summary, 'html.parser').get_text()[:300]
+                    summary = BeautifulSoup(summary, 'html.parser').get_text()[:500]
 
-                # キーワードフィルタ
                 text = f"{title} {summary}"
-                if not any(kw in text for kw in KEYWORDS):
+                if not any(kw in text for kw in source["keywords"]):
                     continue
 
                 articles.append({
@@ -94,12 +119,18 @@ def fetch_rss_articles():
                     'url': link,
                     'date': pub_date.strftime('%Y-%m-%d'),
                     'raw_summary': summary,
-                    'source': feed.feed.get('title', 'Unknown'),
+                    'source': source["name"],
+                    'trust': source["trust"],
+                    'hint': source["hint"],
                 })
-        except Exception as e:
-            print(f"RSS取得エラー ({feed_url}): {e}")
+                count += 1
+                if count >= 5:
+                    break
 
-    # 重複除去（タイトルベース）
+            print(f"  ✓ {source['name']}: {count}件")
+        except Exception as e:
+            print(f"  ✗ {source['name']}: エラー ({e})")
+
     seen = set()
     unique = []
     for a in articles:
@@ -108,19 +139,15 @@ def fetch_rss_articles():
             seen.add(key)
             unique.append(a)
 
-    # 日付順にソート
     unique.sort(key=lambda x: x['date'], reverse=True)
-    return unique[:MAX_ARTICLES]
+    return unique[:MAX_ARTICLES * 2]
 
 
-# ── Claude APIで分類・要約 ─────────────────────
-def classify_with_claude(articles):
-    """Claude APIで記事を分類・要約する"""
+def curate_with_claude(articles):
     api_key = os.environ.get('ANTHROPIC_API_KEY')
     if not api_key:
-        print("ANTHROPIC_API_KEY が設定されていません。分類をスキップします。")
-        # フォールバック: キーワードベースの簡易分類
-        return classify_by_keywords(articles)
+        print("  ANTHROPIC_API_KEY未設定。キーワードベースで分類します。")
+        return fallback_classify(articles)
 
     headers = {
         "x-api-key": api_key,
@@ -128,166 +155,162 @@ def classify_with_claude(articles):
         "anthropic-version": "2023-06-01",
     }
 
-    # バッチ処理（10記事ずつ）
-    classified = []
-    for i in range(0, len(articles), 10):
-        batch = articles[i:i+10]
-        articles_text = "\n\n".join([
-            f"[{j+1}] タイトル: {a['title']}\n要約: {a['raw_summary'][:200]}"
-            for j, a in enumerate(batch)
-        ])
+    articles_text = "\n\n".join([
+        f"[{i+1}] 出典: {a['source']}（信頼度{a['trust']}）\nタイトル: {a['title']}\n概要: {a['raw_summary'][:200]}"
+        for i, a in enumerate(articles)
+    ])
 
-        prompt = f"""以下の人的資本経営関連ニュース記事を分類・要約してください。
+    prompt = f"""あなたは「HC Landscape」という人的資本経営の業界ガイドサイトの編集者です。
+以下の記事候補から、大企業の役員・経営企画部長・人事部長（CHRO）が読む価値のある記事だけを厳選してください。
+
+選定基準（厳格に適用）:
+- 人的資本経営の「実践」に直結する情報であること
+- 政策変更、法規制、開示基準の変更など経営判断に影響する情報
+- 大手コンサルファームや研究機関の調査・レポートの新規発表
+- HR Techの重要な機能アップデートや業界動向
+- 単なるイベント告知、セミナー案内、採用情報、広告記事は除外
+- 個別企業の導入事例は、業界全体への示唆がある場合のみ採用
 
 {articles_text}
 
-各記事について、以下のJSON配列で返してください（他の文字列は不要）:
+以下のJSON配列で返してください（他の文字列は一切不要）:
 [
   {{
-    "index": 1,
-    "category": "deep|explore|policy|tech のいずれか",
-    "summary": "80文字以内の要約"
+    "index": 記事番号,
+    "category": "deep|explore|policy|tech",
+    "title_edit": "必要なら編集部視点でタイトルを改善（不要ならnull）",
+    "summary": "80文字以内。経営層が30秒で要点を掴める要約。数字や固有名詞を含めて具体的に。"
   }}
 ]
 
-カテゴリの判定基準:
-- deep（知の深化）: 既存事業の人材最適化、リーダーシップ開発、研修、評価制度、エンゲージメント向上
-- explore（知の探索）: 新規事業人材育成、イノベーション、ゼロイチ、価値創造、事業開発
-- policy（政策・開示）: 法規制、開示義務、伊藤レポート、経産省、金融庁、ISO30414
-- tech（HR Tech）: SaaS、AI人事、タレマネシステム、データ分析、HRテクノロジー"""
+カテゴリ判定基準:
+- policy: 法規制・開示基準・政策動向（経産省、金融庁、ISO30414等）
+- deep（知の深化）: 既存事業の人材最適化、リーダーシップ開発、研修、評価制度、エンゲージメント
+- explore（知の探索）: 新規事業人材、イノベーション、ゼロイチ、価値創造、事業開発
+- tech: HR SaaS、AIタレマネ、人事データ分析
 
-        try:
-            response = requests.post(
-                "https://api.anthropic.com/v1/messages",
-                headers=headers,
-                json={
-                    "model": "claude-sonnet-4-20250514",
-                    "max_tokens": 2000,
-                    "messages": [{"role": "user", "content": prompt}]
-                },
-                timeout=30,
-            )
-            data = response.json()
-            text = data['content'][0]['text']
+最大{MAX_ARTICLES}件まで。質が低い候補しかなければ、少数でも構いません。"""
 
-            # JSON部分を抽出
-            json_match = re.search(r'\[[\s\S]*\]', text)
-            if json_match:
-                results = json.loads(json_match.group())
-                for r in results:
-                    idx = r['index'] - 1
-                    if 0 <= idx < len(batch):
-                        batch[idx]['cat'] = r.get('category', 'deep')
-                        batch[idx]['summary'] = r.get('summary', batch[idx]['raw_summary'][:80])
+    try:
+        response = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers=headers,
+            json={
+                "model": "claude-sonnet-4-20250514",
+                "max_tokens": 3000,
+                "messages": [{"role": "user", "content": prompt}]
+            },
+            timeout=60,
+        )
+        data = response.json()
+        text = data['content'][0]['text']
 
-        except Exception as e:
-            print(f"Claude API エラー: {e}")
+        json_match = re.search(r'\[[\s\S]*\]', text)
+        if json_match:
+            results = json.loads(json_match.group())
+            curated = []
+            for r in results:
+                idx = r['index'] - 1
+                if 0 <= idx < len(articles):
+                    a = articles[idx]
+                    curated.append({
+                        'date': a['date'],
+                        'title': r.get('title_edit') or a['title'],
+                        'summary': r.get('summary', a['raw_summary'][:80]),
+                        'cat': r.get('category', a['hint']),
+                        'source': a['source'],
+                    })
+            print(f"  → Claude厳選: {len(curated)}件（候補{len(articles)}件から）")
+            return curated
+    except Exception as e:
+        print(f"  Claude APIエラー: {e}")
 
-        classified.extend(batch)
-
-    # summaryがないものにフォールバック
-    for a in classified:
-        if 'cat' not in a:
-            a['cat'] = classify_single_by_keywords(a)
-        if 'summary' not in a:
-            a['summary'] = a['raw_summary'][:80]
-
-    return classified
-
-
-def classify_by_keywords(articles):
-    """キーワードベースの簡易分類（APIなしフォールバック）"""
-    for a in articles:
-        a['cat'] = classify_single_by_keywords(a)
-        a['summary'] = a['raw_summary'][:80]
-    return articles
+    return fallback_classify(articles)
 
 
-def classify_single_by_keywords(article):
-    """1記事をキーワードで分類"""
-    text = f"{article['title']} {article.get('raw_summary','')}"
-    if any(kw in text for kw in ['経産省', '金融庁', '開示', '伊藤レポート', 'ISO', '法制', 'ガイドライン']):
-        return 'policy'
-    if any(kw in text for kw in ['SaaS', 'AI', 'テック', 'Tech', 'システム', 'プラットフォーム', 'データ']):
-        return 'tech'
-    if any(kw in text for kw in ['新規事業', 'イノベーション', 'ゼロイチ', '価値創造', '探索', '起業']):
-        return 'explore'
-    return 'deep'
+def fallback_classify(articles):
+    result = []
+    for a in articles[:MAX_ARTICLES]:
+        text = f"{a['title']} {a.get('raw_summary','')}"
+        if any(kw in text for kw in ['経産省', '金融庁', '開示', '伊藤レポート', 'ガイドライン']):
+            cat = 'policy'
+        elif any(kw in text for kw in ['SaaS', 'AI', 'テック', 'Tech', 'システム', 'データ分析']):
+            cat = 'tech'
+        elif any(kw in text for kw in ['新規事業', 'イノベーション', 'ゼロイチ', '価値創造']):
+            cat = 'explore'
+        else:
+            cat = a.get('hint', 'deep')
+        result.append({
+            'date': a['date'],
+            'title': a['title'],
+            'summary': a['raw_summary'][:80],
+            'cat': cat,
+            'source': a['source'],
+        })
+    return result
 
 
-# ── JSON出力 ─────────────────────────────────────
 def save_json(articles):
-    """news.json に出力"""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
     output = {
         "last_updated": datetime.now().strftime('%Y-%m-%dT%H:%M:%S+09:00'),
         "total": len(articles),
-        "articles": [
-            {
-                "date": a['date'],
-                "title": a['title'],
-                "summary": a.get('summary', ''),
-                "cat": a.get('cat', 'deep'),
-                "source": a.get('source', ''),
-                "url": a.get('url', '#'),
-            }
-            for a in articles
-        ]
+        "articles": articles
     }
-
-    # 既存ファイルとマージ（重複除去）
     if OUTPUT_FILE.exists():
         try:
             existing = json.loads(OUTPUT_FILE.read_text(encoding='utf-8'))
-            existing_titles = {a['title'] for a in existing.get('articles', [])}
-            for a in output['articles']:
-                if a['title'] not in existing_titles:
-                    existing['articles'].insert(0, a)
-            existing['articles'] = existing['articles'][:MAX_ARTICLES]
-            existing['last_updated'] = output['last_updated']
-            existing['total'] = len(existing['articles'])
-            output = existing
+            existing_titles = {re.sub(r'\s+', '', a['title'])[:30] for a in existing.get('articles', [])}
+            new_titles = {re.sub(r'\s+', '', a['title'])[:30] for a in articles}
+            merged = list(articles)
+            for a in existing.get('articles', []):
+                key = re.sub(r'\s+', '', a['title'])[:30]
+                if key not in new_titles:
+                    merged.append(a)
+            merged = merged[:MAX_ARTICLES]
+            output['articles'] = merged
+            output['total'] = len(merged)
         except Exception:
             pass
-
     OUTPUT_FILE.write_text(
         json.dumps(output, ensure_ascii=False, indent=2),
         encoding='utf-8'
     )
-    print(f"✅ {len(output['articles'])}件の記事を {OUTPUT_FILE} に保存しました")
+    print(f"\n💾 {len(output['articles'])}件を {OUTPUT_FILE} に保存")
 
 
-# ── メイン ───────────────────────────────────────
 def main():
-    print("=" * 50)
-    print("HC Landscape — ニュース自動収集")
+    print("=" * 56)
+    print("HC Landscape — ニュース自動収集（v2: 一次情報源厳選版）")
     print(f"実行日時: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print("=" * 50)
+    print(f"対象期間: 過去{DAYS_BACK}日間")
+    print("=" * 56)
 
-    print("\n📡 RSSフィードを取得中...")
-    articles = fetch_rss_articles()
-    print(f"  → {len(articles)}件の記事を取得")
+    print(f"\n📡 {len(SOURCES)}件の一次情報源からRSS取得中...")
+    candidates = fetch_articles()
+    print(f"\n  候補記事: {len(candidates)}件")
 
-    if not articles:
+    if not candidates:
         print("⚠️ 新しい記事が見つかりませんでした")
         return
 
-    print("\n🤖 Claude APIで分類・要約中...")
-    classified = classify_with_claude(articles)
-    print(f"  → {len(classified)}件を分類完了")
+    print("\n🤖 Claude APIで厳選・分類・要約中...")
+    curated = curate_with_claude(candidates)
 
-    # カテゴリ別カウント
+    if not curated:
+        print("⚠️ 選定基準を満たす記事がありませんでした")
+        return
+
     cats = {}
-    for a in classified:
+    for a in curated:
         c = a.get('cat', 'deep')
         cats[c] = cats.get(c, 0) + 1
-    cat_names = {'deep':'知の深化','explore':'知の探索','policy':'政策・開示','tech':'HR Tech'}
+    cat_names = {'deep': '知の深化', 'explore': '知の探索', 'policy': '政策・開示', 'tech': 'HR Tech'}
+    print("\n📊 カテゴリ別:")
     for c, count in sorted(cats.items()):
-        print(f"    {cat_names.get(c,c)}: {count}件")
+        print(f"    {cat_names.get(c, c)}: {count}件")
 
-    print("\n💾 JSONファイルを出力中...")
-    save_json(classified)
+    save_json(curated)
     print("\n✅ 完了！")
 
 
