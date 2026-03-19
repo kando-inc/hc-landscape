@@ -1,19 +1,15 @@
 #!/usr/bin/env python3
 """
-HC Landscape — 人的資本経営ニュース自動収集スクリプト（v3）
+HC Landscape — 人的資本経営ニュース自動収集スクリプト（v4）
 ============================================================
 
 ソース方針：
   一次情報源＋質の高いビジネスメディア・専門メディアから取得。
   Google Newsのような集約サイトは使わない。
 
-ソースカテゴリ：
-  1. 官公庁・政策機関（経産省、金融庁）
-  2. コンサルファーム Insights（デロイト、PwC、EY、コーン・フェリー）
-  3. HR専門機関・シンクタンク（リクルートワークス研究所、パーソル総研）
-  4. HR専門メディア（HRpro、日本の人事部、@人事）
-  5. ビジネス誌・新聞（日経ビジネス、東洋経済、ダイヤモンド、日経電子版）
-  6. HR Tech 企業プレスリリース（カオナビ、SmartHR、タレントパレット）
+全28ソース体制：
+  官公庁5 / コンサル4 / シンクタンク7 / 経済団体1 /
+  HR専門メディア3 / ビジネス誌5 / HR Tech3
 """
 
 import json
@@ -32,7 +28,7 @@ MAX_ARTICLES = 15
 DAYS_BACK = 14
 
 SOURCES = [
-    # ═══ 官公庁・政策機関 ═══
+    # ═══ 官公庁・政策機関（5） ═══
     {"name": "経済産業省",
      "url": "https://www.meti.go.jp/press/index.rdf",
      "trust": 5, "hint": "policy",
@@ -41,8 +37,20 @@ SOURCES = [
      "url": "https://www.fsa.go.jp/news/index.rdf",
      "trust": 5, "hint": "policy",
      "keywords": ["人的資本", "開示", "有価証券", "ガバナンス", "サステナビリティ"]},
+    {"name": "厚生労働省",
+     "url": "https://www.mhlw.go.jp/stf/news.rdf",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人材", "リスキリング", "人的資本", "雇用", "賃金", "労働", "キャリア", "人材開発"]},
+    {"name": "内閣官房",
+     "url": "https://www.cas.go.jp/jp/rss/index.xml",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人的資本", "新しい資本主義", "人材", "リスキリング", "賃上げ"]},
+    {"name": "JILPT（労働政策研究・研修機構）",
+     "url": "https://www.jil.go.jp/kokunai/blt/index.rdf",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人的資本", "人材", "雇用", "労働", "人への投資", "リスキリング", "キャリア"]},
 
-    # ═══ コンサルファーム Insights ═══
+    # ═══ コンサルファーム Insights（4） ═══
     {"name": "デロイト トーマツ",
      "url": "https://www2.deloitte.com/jp/ja/pages/human-capital/articles/hcm.rss.xml",
      "trust": 4, "hint": "deep",
@@ -60,7 +68,7 @@ SOURCES = [
      "trust": 4, "hint": "deep",
      "keywords": ["リーダーシップ", "人材", "アセスメント", "組織", "報酬", "タレント"]},
 
-    # ═══ HR専門機関・シンクタンク ═══
+    # ═══ シンクタンク（7） ═══
     {"name": "リクルートワークス研究所",
      "url": "https://www.works-i.com/research/feed/",
      "trust": 5, "hint": "deep",
@@ -69,7 +77,6 @@ SOURCES = [
      "url": "https://rc.persol-group.co.jp/rss.xml",
      "trust": 4, "hint": "deep",
      "keywords": ["人的資本", "人材", "組織", "エンゲージメント", "リスキリング", "タレント"]},
-
     {"name": "日本総合研究所",
      "url": "https://www.jri.co.jp/MediaLibrary/file/report/rss.xml",
      "trust": 5, "hint": "policy",
@@ -91,7 +98,13 @@ SOURCES = [
      "trust": 4, "hint": "policy",
      "keywords": ["人的資本", "人材", "開示", "ガバナンス", "ESG", "サステナビリティ"]},
 
-    # ═══ HR専門メディア ═══
+    # ═══ 経済団体（1） ═══
+    {"name": "経団連",
+     "url": "https://www.keidanren.or.jp/rss.xml",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人材", "人的資本", "雇用", "教育", "リスキリング", "イノベーション"]},
+
+    # ═══ HR専門メディア（3） ═══
     {"name": "HRpro",
      "url": "https://www.hrpro.co.jp/rss/",
      "trust": 4, "hint": "deep",
@@ -105,7 +118,7 @@ SOURCES = [
      "trust": 3, "hint": "deep",
      "keywords": ["人的資本経営", "人材戦略", "組織変革", "エンゲージメント", "タレントマネジメント"]},
 
-    # ═══ ビジネス誌・新聞 ═══
+    # ═══ ビジネス誌・新聞・経営誌（5） ═══
     {"name": "日経ビジネス",
      "url": "https://business.nikkei.com/rss/sns/nb.rdf",
      "trust": 5, "hint": "deep",
@@ -122,8 +135,12 @@ SOURCES = [
      "url": "https://www.nikkei.com/rss/index.rdf",
      "trust": 5, "hint": "policy",
      "keywords": ["人的資本", "人材投資", "人的資本開示", "タレントマネジメント", "リスキリング"]},
+    {"name": "Harvard Business Review 日本版",
+     "url": "https://dhbr.diamond.jp/list/feed/rss",
+     "trust": 5, "hint": "deep",
+     "keywords": ["リーダーシップ", "人材", "組織", "イノベーション", "マネジメント", "人的資本"]},
 
-    # ═══ HR Tech 企業プレスリリース ═══
+    # ═══ HR Tech 企業プレスリリース（3） ═══
     {"name": "カオナビ",
      "url": "https://corp.kaonavi.jp/press/feed/",
      "trust": 4, "hint": "tech",
@@ -132,13 +149,16 @@ SOURCES = [
      "url": "https://smarthr.jp/feed/",
      "trust": 4, "hint": "tech",
      "keywords": ["人事", "労務", "タレント", "サーベイ", "エンゲージメント"]},
+    {"name": "タレントパレット",
+     "url": "https://www.talent-palette.com/news/feed/",
+     "trust": 4, "hint": "tech",
+     "keywords": ["タレントマネジメント", "人材", "AI", "データ分析", "配置", "育成"]},
 ]
 
 
 def fetch_articles():
     articles = []
     cutoff = datetime.now() - timedelta(days=DAYS_BACK)
-
     for source in SOURCES:
         try:
             feed = feedparser.parse(source["url"])
@@ -154,20 +174,16 @@ def fetch_articles():
                     pub_date = datetime.now()
                 if pub_date < cutoff:
                     continue
-
                 title = entry.get('title', '').strip()
                 link = entry.get('link', '')
                 summary = entry.get('summary', '')
                 if summary:
                     summary = BeautifulSoup(summary, 'html.parser').get_text()[:500]
-
                 text = f"{title} {summary}"
                 if not any(kw in text for kw in source["keywords"]):
                     continue
-
                 articles.append({
-                    'title': title,
-                    'url': link,
+                    'title': title, 'url': link,
                     'date': pub_date.strftime('%Y-%m-%d'),
                     'raw_summary': summary,
                     'source': source["name"],
@@ -177,11 +193,9 @@ def fetch_articles():
                 count += 1
                 if count >= 5:
                     break
-
             print(f"  ✓ {source['name']}: {count}件")
         except Exception as e:
             print(f"  ✗ {source['name']}: エラー ({e})")
-
     seen = set()
     unique = []
     for a in articles:
@@ -189,7 +203,6 @@ def fetch_articles():
         if key not in seen:
             seen.add(key)
             unique.append(a)
-
     unique.sort(key=lambda x: x['date'], reverse=True)
     return unique[:MAX_ARTICLES * 3]
 
@@ -199,18 +212,15 @@ def curate_with_claude(articles):
     if not api_key:
         print("  ANTHROPIC_API_KEY未設定。キーワードベースで分類します。")
         return fallback_classify(articles)
-
     headers = {
         "x-api-key": api_key,
         "content-type": "application/json",
         "anthropic-version": "2023-06-01",
     }
-
     articles_text = "\n\n".join([
         f"[{i+1}] 出典: {a['source']}（信頼度{a['trust']}）\nタイトル: {a['title']}\n概要: {a['raw_summary'][:200]}"
         for i, a in enumerate(articles)
     ])
-
     prompt = f"""あなたは「HC Landscape」という人的資本経営の業界ガイドサイトの編集者です。
 以下の記事候補から、大企業の役員・経営企画部長・人事部長（CHRO）が読む価値のある記事だけを厳選してください。
 
@@ -242,7 +252,6 @@ def curate_with_claude(articles):
 - tech: HR SaaS、AIタレマネ、人事データ分析
 
 最大{MAX_ARTICLES}件まで。質が低い候補しかなければ、少数でも構いません。"""
-
     try:
         response = requests.post(
             "https://api.anthropic.com/v1/messages",
@@ -256,7 +265,6 @@ def curate_with_claude(articles):
         )
         data = response.json()
         text = data['content'][0]['text']
-
         json_match = re.search(r'\[[\s\S]*\]', text)
         if json_match:
             results = json.loads(json_match.group())
@@ -276,7 +284,6 @@ def curate_with_claude(articles):
             return curated
     except Exception as e:
         print(f"  Claude APIエラー: {e}")
-
     return fallback_classify(articles)
 
 
@@ -293,11 +300,9 @@ def fallback_classify(articles):
         else:
             cat = a.get('hint', 'deep')
         result.append({
-            'date': a['date'],
-            'title': a['title'],
+            'date': a['date'], 'title': a['title'],
             'summary': a['raw_summary'][:80],
-            'cat': cat,
-            'source': a['source'],
+            'cat': cat, 'source': a['source'],
         })
     return result
 
@@ -332,27 +337,21 @@ def save_json(articles):
 
 def main():
     print("=" * 60)
-    print("HC Landscape — ニュース自動収集 v3")
-    print("（一次情報源＋ビジネス誌・HR専門メディア厳選版）")
+    print("HC Landscape — ニュース自動収集 v4（全28ソース体制）")
     print(f"実行日時: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"対象期間: 過去{DAYS_BACK}日間 / ソース: {len(SOURCES)}件")
     print("=" * 60)
-
     print(f"\n📡 RSS取得中...")
     candidates = fetch_articles()
     print(f"\n  候補記事: {len(candidates)}件")
-
     if not candidates:
         print("⚠️ 新しい記事が見つかりませんでした")
         return
-
     print("\n🤖 Claude APIで厳選・分類・要約中...")
     curated = curate_with_claude(candidates)
-
     if not curated:
         print("⚠️ 選定基準を満たす記事がありませんでした")
         return
-
     cats = {}
     for a in curated:
         c = a.get('cat', 'deep')
@@ -361,7 +360,6 @@ def main():
     print("\n📊 カテゴリ別:")
     for c, count in sorted(cats.items()):
         print(f"    {cat_names.get(c, c)}: {count}件")
-
     save_json(curated)
     print("\n✅ 完了！")
 
