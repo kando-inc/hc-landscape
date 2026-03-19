@@ -1,0 +1,47 @@
+name: Daily News Crawler
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests anthropic beautifulsoup4
+
+      - name: Run news crawler
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/news_crawler.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'HC Landscape Bot'
+          git config --global user.email 'bot@hc-landscape.jp'
+          git add data/news.json
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📰 ニュース自動更新: $(date +%Y-%m-%d)"
+            git push
+          fi
