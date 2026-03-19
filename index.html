@@ -743,7 +743,7 @@ document.querySelectorAll('.news-filter').forEach(btn=>{
 // 本番用: news.json から読み込み（データがあればサンプルを置き換え）
 async function loadNews() {
   try {
-    const res = await fetch('data/news.json');
+    const res = await fetch('data/news.json?t=' + Date.now());
     const data = await res.json();
     if (data.articles && data.articles.length > 0) {
       sampleNews.length = 0;
@@ -751,6 +751,7 @@ async function loadNews() {
       renderNews('all');
     }
   } catch(e) {
+    console.log('News feed: ' + e.message);
     // news.jsonがない or 空の場合はサンプルデータのまま表示
   }
 }
