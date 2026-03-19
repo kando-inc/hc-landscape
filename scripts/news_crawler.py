@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
 """
-HC Landscape — 人的資本経営ニュース自動収集スクリプト（v2）
+HC Landscape — 人的資本経営ニュース自動収集スクリプト（v3）
 ============================================================
 
-品質方針：
+ソース方針：
+  一次情報源＋質の高いビジネスメディア・専門メディアから取得。
   Google Newsのような集約サイトは使わない。
-  一次情報源（官公庁・コンサルファーム・HR専門機関・質の高いビジネスメディア）
-  のみをソースとし、経営層・人事部長が読む価値のある情報だけを選定する。
 
 ソースカテゴリ：
   1. 官公庁・政策機関（経産省、金融庁）
-  2. コンサルファーム Insights（デロイト、PwC、コーン・フェリー）
+  2. コンサルファーム Insights（デロイト、PwC、EY、コーン・フェリー）
   3. HR専門機関・シンクタンク（リクルートワークス研究所、パーソル総研）
-  4. 質の高いビジネスメディア（HRpro）
-  5. HR Tech プレスリリース（カオナビ、SmartHR）
+  4. HR専門メディア（HRpro、日本の人事部、@人事）
+  5. ビジネス誌・新聞（日経ビジネス、東洋経済、ダイヤモンド、日経電子版）
+  6. HR Tech 企業プレスリリース（カオナビ、SmartHR、タレントパレット）
 """
 
 import json
@@ -51,6 +51,10 @@ SOURCES = [
      "url": "https://www.pwc.com/jp/ja/knowledge/rss.xml",
      "trust": 4, "hint": "deep",
      "keywords": ["人的資本", "人材", "新規事業", "組織変革", "タレント", "リスキリング"]},
+    {"name": "EY Japan",
+     "url": "https://www.ey.com/ja_jp/rss-feeds/news",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材", "サステナビリティ", "イノベーション", "組織"]},
     {"name": "コーン・フェリー",
      "url": "https://www.kornferry.com/ja/insights.rss",
      "trust": 4, "hint": "deep",
@@ -66,11 +70,37 @@ SOURCES = [
      "trust": 4, "hint": "deep",
      "keywords": ["人的資本", "人材", "組織", "エンゲージメント", "リスキリング", "タレント"]},
 
-    # ═══ 質の高いビジネスメディア ═══
+    # ═══ HR専門メディア ═══
     {"name": "HRpro",
      "url": "https://www.hrpro.co.jp/rss/",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本経営", "タレントマネジメント", "組織開発", "エンゲージメント", "新規事業 人材", "リーダーシップ"]},
+    {"name": "日本の人事部",
+     "url": "https://jinjibu.jp/rss/index.xml",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材育成", "組織開発", "エンゲージメント", "タレント", "リスキリング", "サクセッション"]},
+    {"name": "@人事",
+     "url": "https://at-jinji.jp/feed",
      "trust": 3, "hint": "deep",
-     "keywords": ["人的資本経営", "タレントマネジメント", "組織開発", "エンゲージメント", "新規事業 人材"]},
+     "keywords": ["人的資本経営", "人材戦略", "組織変革", "エンゲージメント", "タレントマネジメント"]},
+
+    # ═══ ビジネス誌・新聞 ═══
+    {"name": "日経ビジネス",
+     "url": "https://business.nikkei.com/rss/sns/nb.rdf",
+     "trust": 5, "hint": "deep",
+     "keywords": ["人的資本", "人材戦略", "CHRO", "リスキリング", "新規事業 人材", "組織変革", "タレント", "エンゲージメント"]},
+    {"name": "東洋経済オンライン",
+     "url": "https://toyokeizai.net/list/feed/rss",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材育成", "リーダーシップ", "新規事業", "組織改革", "CHRO", "タレント"]},
+    {"name": "ダイヤモンド・オンライン",
+     "url": "https://diamond.jp/feed/index.xml",
+     "trust": 4, "hint": "deep",
+     "keywords": ["人的資本", "人材戦略", "リスキリング", "新規事業", "組織", "CHRO", "タレントマネジメント"]},
+    {"name": "日経電子版",
+     "url": "https://www.nikkei.com/rss/index.rdf",
+     "trust": 5, "hint": "policy",
+     "keywords": ["人的資本", "人材投資", "人的資本開示", "タレントマネジメント", "リスキリング"]},
 
     # ═══ HR Tech 企業プレスリリース ═══
     {"name": "カオナビ",
@@ -140,7 +170,7 @@ def fetch_articles():
             unique.append(a)
 
     unique.sort(key=lambda x: x['date'], reverse=True)
-    return unique[:MAX_ARTICLES * 2]
+    return unique[:MAX_ARTICLES * 3]
 
 
 def curate_with_claude(articles):
@@ -167,9 +197,10 @@ def curate_with_claude(articles):
 - 人的資本経営の「実践」に直結する情報であること
 - 政策変更、法規制、開示基準の変更など経営判断に影響する情報
 - 大手コンサルファームや研究機関の調査・レポートの新規発表
-- HR Techの重要な機能アップデートや業界動向
-- 単なるイベント告知、セミナー案内、採用情報、広告記事は除外
-- 個別企業の導入事例は、業界全体への示唆がある場合のみ採用
+- ビジネス誌の深い取材記事（経営者インタビュー、先進事例の分析等）
+- HR Techの重要な機能アップデートや市場動向レポート
+- 以下は除外: 単なるイベント告知、セミナー案内、採用情報、広告記事、書籍紹介、個別企業のPR記事
+- 同じ話題の重複記事がある場合は、最も信頼度が高い出典の1件だけを選ぶ
 
 {articles_text}
 
@@ -178,7 +209,7 @@ def curate_with_claude(articles):
   {{
     "index": 記事番号,
     "category": "deep|explore|policy|tech",
-    "title_edit": "必要なら編集部視点でタイトルを改善（不要ならnull）",
+    "title_edit": "必要なら編集部視点で簡潔に改善。出典名やPR TIMES等のサイト名は削除。不要ならnull",
     "summary": "80文字以内。経営層が30秒で要点を掴める要約。数字や固有名詞を含めて具体的に。"
   }}
 ]
@@ -232,9 +263,9 @@ def fallback_classify(articles):
     result = []
     for a in articles[:MAX_ARTICLES]:
         text = f"{a['title']} {a.get('raw_summary','')}"
-        if any(kw in text for kw in ['経産省', '金融庁', '開示', '伊藤レポート', 'ガイドライン']):
+        if any(kw in text for kw in ['経産省', '金融庁', '開示', '伊藤レポート', 'ガイドライン', 'SSBJ']):
             cat = 'policy'
-        elif any(kw in text for kw in ['SaaS', 'AI', 'テック', 'Tech', 'システム', 'データ分析']):
+        elif any(kw in text for kw in ['SaaS', 'AI', 'テック', 'Tech', 'システム', 'データ分析', 'タレマネ']):
             cat = 'tech'
         elif any(kw in text for kw in ['新規事業', 'イノベーション', 'ゼロイチ', '価値創造']):
             cat = 'explore'
@@ -260,7 +291,6 @@ def save_json(articles):
     if OUTPUT_FILE.exists():
         try:
             existing = json.loads(OUTPUT_FILE.read_text(encoding='utf-8'))
-            existing_titles = {re.sub(r'\s+', '', a['title'])[:30] for a in existing.get('articles', [])}
             new_titles = {re.sub(r'\s+', '', a['title'])[:30] for a in articles}
             merged = list(articles)
             for a in existing.get('articles', []):
@@ -280,13 +310,14 @@ def save_json(articles):
 
 
 def main():
-    print("=" * 56)
-    print("HC Landscape — ニュース自動収集（v2: 一次情報源厳選版）")
+    print("=" * 60)
+    print("HC Landscape — ニュース自動収集 v3")
+    print("（一次情報源＋ビジネス誌・HR専門メディア厳選版）")
     print(f"実行日時: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print(f"対象期間: 過去{DAYS_BACK}日間")
-    print("=" * 56)
+    print(f"対象期間: 過去{DAYS_BACK}日間 / ソース: {len(SOURCES)}件")
+    print("=" * 60)
 
-    print(f"\n📡 {len(SOURCES)}件の一次情報源からRSS取得中...")
+    print(f"\n📡 RSS取得中...")
     candidates = fetch_articles()
     print(f"\n  候補記事: {len(candidates)}件")
 
