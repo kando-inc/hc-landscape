@@ -4,7 +4,7 @@
 
 人的資本経営を支える国内主要21社を「既存事業の深化 × 価値創造」の2軸で独自にマッピングした業界ガイドサイトです。
 
-🔗 **公開URL**: https://hc-landscape.jp （GitHub Pages）
+🔗 **公開URL**: [https://kando-inc.github.io/hc-landscape/] （GitHub Pages）
 
 ---
 
