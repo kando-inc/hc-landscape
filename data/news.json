@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-03-19T07:44:08+09:00",
-  "total": 7,
+  "last_updated": "2026-03-19T07:50:04+09:00",
+  "total": 9,
   "articles": [
+    {
+      "date": "2026-03-19",
+      "title": "労働安全衛生規則の一部改正省令の施行について（令和7年5月20日付け基発0520第6号）",
+      "summary": "労働安全衛生規則の改正が施行。企業の安全衛生管理体制に影響する可能性があり、コンプライアンス対応が必要。",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000116133.html"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "SHIFT、障害者がAI活用で対人スキル向上　年間1800時間削減・生産性1.7倍実現",
+      "summary": "SHIFTが生成AI活用で障害者雇用領域の業務効率化を実現。年間1800時間削減、生産性1.7倍向上の具体事例。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00607/031100084/"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "昇進の空きがない時、優秀な部下をどう支援するか 人材流出を防ぐための6つの戦略",
+      "summary": "昇進機会が限られる中で優秀な人材流出を防ぐ6つの戦略。組織の流動性低下時代の人材マネジメント手法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13335"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "賛同できない決定を実行する時にリーダーが取るべき4つの戦略 チームの士気を下げずに導く",
+      "summary": "組織方針に反対でも実行すべき時のリーダーシップ戦略4選。チーム士気を保ちながら誠実に導く具体的手法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13307"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "2026年に企業が直面する、AI時代の9つのトレンド 人員削減からデジタル分身まで",
+      "summary": "AI投資の成果不足が引き起こす9つの組織リスク。人員削減前倒しや企業文化の不協和など2026年の課題を予測。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13489"
+    },
     {
       "date": "2026-03-19",
       "title": "労働安全衛生規則の一部を改正する省令の施行等について（令和７年５月20日付け基発0520第６号）",
@@ -17,30 +57,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00607/031100084/"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "昇進の空きがない時、優秀な部下をどう支援するか 人材流出を防ぐための6つの戦略",
-      "summary": "昇進機会不足による優秀人材流出対策として、キャリア前進を実感させる6つの戦略をハーバード大が提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13335"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "賛同できない決定を実行する時にリーダーが取るべき4つの戦略 チームの士気を下げずに導く",
-      "summary": "経営陣の決定に反対でも実行が必要な場合のリーダー行動指針。目的意識と共感を持った4つの戦略を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13307"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "2026年に企業が直面する、AI時代の9つのトレンド 人員削減からデジタル分身まで",
-      "summary": "2026年のAI時代に企業が直面する9つのトレンド。投資対効果の課題から人員削減、ガバナンス問題まで予測。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13489"
     },
     {
       "date": "2026-03-19",
