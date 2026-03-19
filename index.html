@@ -697,41 +697,20 @@ D.forEach(d=>{
 // [4] フロントエンドが fetch('/data/news.json') で読み込み
 //     → 下記の renderNews() で描画
 
-const sampleNews = [
-  {date:"2026-03-18",title:"経産省、人的資本経営コンソーシアム第4回総会を開催——「開示から実践へ」のフェーズ移行を確認",
-   summary:"経産省は人的資本経営コンソーシアムの第4回総会を開催。参加企業数は前年比30%増の450社超に。伊藤邦雄座長は「開示の質は向上したが、実践フェーズへの移行が次の課題」と総括。",
-   cat:"policy",source:"経済産業省"},
-  {date:"2026-03-17",title:"カオナビ、AIタレントインテリジェンス機能を正式リリース——人材配置の提案を自動化",
-   summary:"カオナビは「タレントインテリジェンス」機能を正式リリース。AIが社員データを分析し、最適な配置案を自動提案する。既存事業の人材活用効率化を加速する動き。",
-   cat:"tech",source:"カオナビ プレスリリース"},
-  {date:"2026-03-15",title:"デロイト調査：日本企業の78%が「新規事業人材の育成」を最重要課題と回答",
-   summary:"デロイト トーマツが国内大手企業300社を対象に実施した調査で、78%が「新規事業を推進できる人材の育成」を人的資本経営の最重要課題と回答。一方で「具体的な育成手法がない」とする回答も62%に。",
-   cat:"explore",source:"デロイト トーマツ"},
-  {date:"2026-03-14",title:"リクルートMS、次世代リーダー選抜プログラムを刷新——アセスメント×研修の一体型へ",
-   summary:"リクルートマネジメントソリューションズは次世代リーダー選抜プログラムを改定。アセスメントと研修を一体化し、既存事業のマネジメント力強化を目指す新パッケージを発表。",
-   cat:"deep",source:"リクルートMS"},
-  {date:"2026-03-13",title:"金融庁、有価証券報告書における人的資本開示のガイドライン改定案を公表",
-   summary:"金融庁は有報における人的資本情報開示のガイドライン改定案を公表。「人材育成投資のROI」の記載を推奨項目に追加し、定量的な効果測定を求める方向性を示した。",
-   cat:"policy",source:"金融庁"},
-  {date:"2026-03-12",title:"アルファドライブ、社内新規事業プログラムの導入企業が250社を突破",
-   summary:"アルファドライブは社内新規事業創出プログラムの導入企業が250社を超えたと発表。累計事業化件数は220件超に。新たに技術起点の事業開発支援メニューも拡充。",
-   cat:"explore",source:"アルファドライブ"},
-  {date:"2026-03-11",title:"グロービス、生成AI時代のリーダーシップ研修プログラムを4月開講",
-   summary:"グロービスは「AI時代のリーダーシップ」をテーマにした企業内研修プログラムを4月に開講。AIを活用した意思決定や組織マネジメントのスキルを体系的にインプットする。",
-   cat:"deep",source:"グロービス"},
-  {date:"2026-03-10",title:"SmartHR、従業員サーベイ機能を強化——エンゲージメントデータと人事データの統合分析が可能に",
-   summary:"SmartHRは従業員サーベイ機能を大幅強化。労務データとエンゲージメントデータを統合分析し、離職予測や最適配置の示唆を提供する新機能を実装。",
-   cat:"tech",source:"SmartHR"},
-  {date:"2026-03-08",title:"コーン・フェリー、日本企業向け「タレント・スイート」を正式展開——ジョブ型人事の導入を包括支援",
-   summary:"コーン・フェリー・ジャパンは組織設計から職務管理、人材評価までを統合する「タレント・スイート」を正式展開。ジョブ型人事制度の導入を検討する大手企業からの問い合わせが急増。",
-   cat:"deep",source:"コーン・フェリー"},
-];
+const sampleNews = [];
 
 const catLabels={deep:"知の深化",explore:"知の探索",policy:"政策・開示",tech:"HR Tech"};
 const grid=document.getElementById('newsGrid');
 
 function renderNews(filter){
   const filtered=filter==='all'?sampleNews:sampleNews.filter(n=>n.cat===filter);
+  if(filtered.length===0){
+    grid.innerHTML=`<div style="grid-column:1/-1;text-align:center;padding:48px 20px;color:var(--text3)">
+      <div style="font-size:14px;font-weight:500;margin-bottom:8px">ニュースを収集中です</div>
+      <div style="font-size:12px;line-height:1.7">人的資本経営に関する最新情報を、官公庁・コンサルファーム・HR専門機関などの<br>一次情報源からAIが自動収集・分類しています。まもなく配信を開始します。</div>
+    </div>`;
+    return;
+  }
   grid.innerHTML=filtered.map(n=>`
     <div class="news-card" data-cat="${n.cat}">
       <div class="news-date">${n.date}</div>
