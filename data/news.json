@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-03-19T23:06:39+09:00",
-  "total": 6,
+  "last_updated": "2026-03-20T23:06:18+09:00",
+  "total": 9,
   "articles": [
+    {
+      "date": "2026-03-20",
+      "title": "AI導入を成功させるために、組織と人材の壁を乗り越えよ",
+      "summary": "2026年調査で企業幹部のほぼ全員がAIを最優先事項と位置づけ。組織文化とリスキリングが導入阻害要因に。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13366"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "企業の「テクノロジー観」が競争力を左右する",
+      "summary": "テクノロジーを効率化ツールか組織変革の主導役かで捉え方が分かれ、競争力格差が拡大する実態を分析。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13407"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "昇進の空きがない時、優秀な部下をどう支援するか",
+      "summary": "組織流動性低下で昇進機会が限られる中、優秀人材の流出を防ぐ6つの戦略を具体的に提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13335"
+    },
     {
       "date": "2026-03-19",
       "title": "テクノロジーが組織構造とマネジャー役割に与える変革インパクト",
