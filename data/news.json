@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-20T23:06:18+09:00",
-  "total": 9,
+  "last_updated": "2026-03-21T23:04:38+09:00",
+  "total": 12,
   "articles": [
+    {
+      "date": "2026-03-21",
+      "title": "キャリア・家庭両立型女性管理職のメリットと育成・活用対策",
+      "summary": "人材確保の観点から女性登用は急務。女性のライフサイクルを考慮したキャリア・家庭両立型管理職の活用戦略を提案。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13663"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "AI導入成功のカギは組織・人材課題の解決",
+      "summary": "2026年調査で企業幹部のほぼ全員がAIを最優先事項に位置づけ。組織文化・リスキリングが導入阻害要因として浮上。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13366"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "管理者の技術マネジメント5原則",
+      "summary": "技術力を競争優位に昇華させる管理職の役割。技術とビジネスを結ぶマネジメント原則を5つのポイントで解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13656"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "企業の「テクノロジー観」が競争力を左右する",
+      "summary": "技術を「ツール」から「役割」へ転換する認識変化が競争力を決定。中国企業2社の比較で組織変革への影響を分析。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13407"
+    },
     {
       "date": "2026-03-20",
       "title": "AI導入を成功させるために、組織と人材の壁を乗り越えよ",
@@ -9,14 +41,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13366"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "企業の「テクノロジー観」が競争力を左右する",
-      "summary": "テクノロジーを効率化ツールか組織変革の主導役かで捉え方が分かれ、競争力格差が拡大する実態を分析。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13407"
     },
     {
       "date": "2026-03-18",
