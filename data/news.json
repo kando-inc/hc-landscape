@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-21T23:04:38+09:00",
-  "total": 12,
+  "last_updated": "2026-03-22T23:05:35+09:00",
+  "total": 15,
   "articles": [
+    {
+      "date": "2026-03-22",
+      "title": "全社一体型の組織運営を成功に導く「従業員シャドーイング」の成果",
+      "summary": "ノルウェー金融大手DNBの事例を交え、部門間のサイロ化克服に向けた従業員シャドーイング実装の6つのステップを解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13367"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "誰もやりたがらない仕事を部下に受け入れてもらう方法 コミットメントを引き出す3つの条件",
+      "summary": "望まない業務への真のコミットメント獲得には「受容」が重要。裁量感・確定性・プロセス正当性の3要因で解決",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13460"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "キャリア・家庭両立型女性管理職の育成・活用戦略",
+      "summary": "人材確保の急務として女性登用が必須。女性のライフサイクルを考慮したキャリア・家庭両立型管理職活用を提案",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13663"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "AI導入成功の鍵は組織・人材課題の解決にあり",
+      "summary": "2026年調査で企業幹部のほぼ全員がAI最優先と回答。大規模実装段階で組織文化とリスキリングが主要障壁に",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13366"
+    },
     {
       "date": "2026-03-21",
       "title": "キャリア・家庭両立型女性管理職のメリットと育成・活用対策",
@@ -89,14 +121,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13307"
-    },
-    {
-      "date": "2026-03-16",
-      "title": "2026年に企業が直面する、AI時代の9つのトレンド 人員削減からデジタル分身まで",
-      "summary": "2026年のAI時代に企業が直面する9つのトレンド。人員削減の前倒しや組織文化への影響を分析",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13489"
     }
   ]
 }
