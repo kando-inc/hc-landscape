@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-22T23:05:35+09:00",
-  "total": 15,
+  "last_updated": "2026-03-23T23:07:51+09:00",
+  "total": 19,
   "articles": [
+    {
+      "date": "2026-03-23",
+      "title": "AI時代のリーダーに求められるテクノロジー観と組織運営の要諦",
+      "summary": "生成AI普及で競争環境が一変する中、AI導入・技術観・リーダーシップ・人材マネジメントの主要論点を整理し組織運営の要点を提示",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13777"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "「従業員シャドーイング」で実現する全社一体型組織運営",
+      "summary": "ノルウェー金融大手DNBの変革事例から、部門サイロを解消し共感・コラボレーションを促進する6つの実装ステップを紹介",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13367"
+    },
+    {
+      "date": "2026-03-22",
+      "title": "困難な業務への部下のコミットメントを引き出すマネジメント手法",
+      "summary": "裁量感・確定性・プロセス正当性の3要因でアクセプタンス（受容）を促し、強制ではなく真のコミットメントを生む方法を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13460"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "キャリア・家庭両立型女性管理職の戦略的活用",
+      "summary": "人材確保の観点から女性登用が急務となる中、ライフサイクルを考慮した女性管理職の育成・活用対策の具体的アプローチを提案",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13663"
+    },
     {
       "date": "2026-03-22",
       "title": "全社一体型の組織運営を成功に導く「従業員シャドーイング」の成果",
