@@ -257,8 +257,15 @@ a.news-card:hover::after{color:var(--accent)}
 .news-tag.tech{background:var(--blue-lt);color:var(--blue)}
 .news-source{font-size:12px;color:var(--text4);margin-top:8px}
 .news-loading{text-align:center;padding:40px;color:var(--text3);font-size:14px}
-.news-more{display:block;text-align:center;margin-top:24px;font-size:13px;color:var(--text3);text-decoration:none;padding:12px;border:1px solid var(--border);border-radius:8px;transition:all .2s}
+.news-more{display:block;text-align:center;margin-top:24px;font-size:14px;color:var(--text3);text-decoration:none;padding:12px;border:1px solid var(--border);border-radius:8px;transition:all .2s}
 .news-more:hover{border-color:var(--text3);color:var(--text2)}
+.news-pager{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:24px}
+.news-pager button{width:36px;height:36px;border-radius:8px;border:1px solid var(--border);background:var(--white);color:var(--text3);font-size:14px;font-weight:600;cursor:pointer;transition:all .2s;font-family:var(--sans)}
+.news-pager button:hover{border-color:var(--text3);color:var(--text2)}
+.news-pager button.active{background:var(--text);color:var(--white);border-color:var(--text)}
+.news-pager button:disabled{opacity:.3;cursor:default}
+.news-pager .pager-arrow{width:auto;padding:0 12px;font-size:13px}
+.news-pager-info{font-size:12px;color:var(--text4);margin:0 8px}
 .news-auto{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text4)}
 .news-auto .dot{width:6px;height:6px;border-radius:50%;background:var(--teal);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
@@ -310,7 +317,7 @@ a.news-card:hover::after{color:var(--accent)}
   <div class="news-grid" id="newsGrid">
     <div class="news-loading">最新ニュースを読み込み中...</div>
   </div>
-  <div class="news-more" style="cursor:default;opacity:.6">ニュース自動収集を準備中です。近日中に過去のニュース一覧を公開予定。</div>
+  <div id="newsPager" class="news-pager"></div>
 </section>
 
 <!-- MAP -->
@@ -685,16 +692,31 @@ const sampleNews = [];
 const catLabels={deep:"知の深化",explore:"知の探索",policy:"政策・開示",tech:"HR Tech"};
 const grid=document.getElementById('newsGrid');
 
-function renderNews(filter){
-  const filtered=filter==='all'?sampleNews:sampleNews.filter(n=>n.cat===filter);
+const PAGE_SIZE = 6;
+let currentPage = 1;
+let currentFilter = 'all';
+
+function getFiltered(){
+  return currentFilter==='all'?sampleNews:sampleNews.filter(n=>n.cat===currentFilter);
+}
+
+function renderNews(){
+  const filtered = getFiltered();
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  if(currentPage > totalPages) currentPage = totalPages;
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page = filtered.slice(start, start + PAGE_SIZE);
+
   if(filtered.length===0){
     grid.innerHTML=`<div style="grid-column:1/-1;text-align:center;padding:48px 20px;color:var(--text3)">
-      <div style="font-size:14px;font-weight:500;margin-bottom:8px">ニュースを収集中です</div>
-      <div style="font-size:12px;line-height:1.7">人的資本経営に関する最新情報を、官公庁・コンサルファーム・HR専門機関などの<br>一次情報源からAIが自動収集・分類しています。まもなく配信を開始します。</div>
+      <div style="font-size:15px;font-weight:500;margin-bottom:8px">ニュースを収集中です</div>
+      <div style="font-size:13px;line-height:1.7">人的資本経営に関する最新情報を、官公庁・コンサルファーム・HR専門機関などの<br>一次情報源からAIが自動収集・分類しています。</div>
     </div>`;
+    document.getElementById('newsPager').innerHTML='';
     return;
   }
-  grid.innerHTML=filtered.map(n=>{
+
+  grid.innerHTML=page.map(n=>{
     const hasUrl=n.url&&n.url!=='#';
     const tag=hasUrl?'a':'div';
     const attrs=hasUrl?` href="${n.url}" target="_blank" rel="noopener"`:'';
@@ -709,15 +731,36 @@ function renderNews(filter){
       <div class="news-source">出典：${n.source}</div>
     </${tag}>`;
   }).join('');
+
+  // Pager
+  const pager = document.getElementById('newsPager');
+  if(totalPages <= 1){ pager.innerHTML=''; return; }
+  let html = `<button class="pager-arrow" onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>← 前へ</button>`;
+  for(let i=1;i<=totalPages;i++){
+    html += `<button class="${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  html += `<button class="pager-arrow" onclick="goPage(${currentPage+1})" ${currentPage===totalPages?'disabled':''}>次へ →</button>`;
+  pager.innerHTML = html;
 }
-renderNews('all');
+
+function goPage(p){
+  const totalPages = Math.ceil(getFiltered().length / PAGE_SIZE);
+  if(p < 1 || p > totalPages) return;
+  currentPage = p;
+  renderNews();
+  document.getElementById('news').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+renderNews();
 
 // Filter buttons
 document.querySelectorAll('.news-filter').forEach(btn=>{
   btn.addEventListener('click',()=>{
     document.querySelectorAll('.news-filter').forEach(b=>b.classList.remove('active'));
     btn.classList.add('active');
-    renderNews(btn.dataset.filter);
+    currentFilter = btn.dataset.filter;
+    currentPage = 1;
+    renderNews();
   });
 });
 
@@ -729,7 +772,8 @@ async function loadNews() {
     if (data.articles && data.articles.length > 0) {
       sampleNews.length = 0;
       sampleNews.push(...data.articles);
-      renderNews('all');
+      currentPage = 1;
+      renderNews();
     }
   } catch(e) {
     console.log('News feed: ' + e.message);

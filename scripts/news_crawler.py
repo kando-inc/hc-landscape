@@ -26,7 +26,7 @@ from bs4 import BeautifulSoup
 
 OUTPUT_DIR = Path("data")
 OUTPUT_FILE = OUTPUT_DIR / "news.json"
-MAX_ARTICLES = 15
+MAX_ARTICLES = 30
 DAYS_BACK = 14
 
 SOURCES = [
