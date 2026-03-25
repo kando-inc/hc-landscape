@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-24T23:07:11+09:00",
-  "total": 24,
+  "last_updated": "2026-03-25T23:09:25+09:00",
+  "total": 28,
   "articles": [
+    {
+      "date": "2026-03-24",
+      "title": "製薬業界MRの役割変革　医師・患者の声を開発につなぐスキルが競争力に",
+      "summary": "創薬競争が激化する製薬業界で、MRの「ソフト力」向上が成長の最重要課題。医師・患者の声を開発に活かす人材戦略が競争優位を決定する。",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/030300026/"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "有能なリーダーがCEO転身で失敗しないための鉄則　事前評価プロセスの重要性",
+      "summary": "CEO転身失敗の原因は能力不足でなく適性ミスマッチ。6つの落とし穴と4つの事前確認質問で、次世代経営人材の登用リスクを軽減。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13359"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "組織文化変革を実現する行動科学4Tモデル　研修効果を業績向上に直結",
+      "summary": "従業員研修の大半が業績に結びつかない現状を打破。アストラゼネカ等で実証済みの「4Tモデル」で組織文化変革と採用成果を劇的改善。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13405"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "AI時代のリーダーシップと人材マネジメント　テクノロジー観が競争力を左右",
+      "summary": "生成AI普及で競争環境が一変。AI導入、技術観、リーダーシップ、人材マネジメントの論点整理でAI時代の組織運営要諦を提示。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13777"
+    },
     {
       "date": "2026-03-24",
       "title": "製薬業界のMR変革　医師・患者の声を開発につなぐ「ソフト力」が競争力の源泉に",
