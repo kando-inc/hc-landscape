@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-03-25T23:09:25+09:00",
-  "total": 28,
+  "last_updated": "2026-03-26T23:05:49+09:00",
+  "total": 30,
   "articles": [
+    {
+      "date": "2026-03-24",
+      "title": "有能なリーダーがCEOへの転身で失敗しないための鉄則",
+      "summary": "CEO就任で失敗する原因は個人能力より組織とのミスマッチ。6つの落とし穴と4つの事前確認質問を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13359"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "組織文化変革を実現する行動科学に基づく4つのステップ",
+      "summary": "研修の大半が業績向上に結びつかない現状に対し、行動科学の4Tモデルでアストラゼネカ等が成果。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13405"
+    },
     {
       "date": "2026-03-24",
       "title": "製薬業界MRの役割変革　医師・患者の声を開発につなぐスキルが競争力に",
