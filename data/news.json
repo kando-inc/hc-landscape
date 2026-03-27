@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-26T23:05:49+09:00",
+  "last_updated": "2026-03-27T23:08:24+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-03-27",
+      "title": "AI活用で事務業務55％代替、管理部門は作業型から提言型組織への転換が急務",
+      "summary": "KPMG調査でAIが事務作業の55％を代替可能と判明。管理部門は守りの業務から戦略提言型への組織変革が生存の鍵となる。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "AI期待先行の人材戦略は失敗する、経営者1000人調査が示す現実とのギャップ",
+      "summary": "AI効果への過度な期待による先行的人員削減が横行。実際の技術進歩は予測より緩やかで、現実的な人材戦略策定が必要。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13493"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "有能幹部のCEO転身失敗を防ぐ4つの事前検証項目",
+      "summary": "CEO就任失敗の主因は能力不足でなくミスマッチ。候補者が陥る6つの落とし穴と事前確認すべき4つの質問を体系化。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13359"
+    },
+    {
+      "date": "2026-03-24",
+      "title": "行動科学4Tモデルで組織文化変革、アストラゼネカ等で実証済み",
+      "summary": "従業員研修の大半が業績向上に寄与せず。4T（ターゲット・変容理論・タイミング・検証）モデルで組織文化変革を実現。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13405"
+    },
     {
       "date": "2026-03-24",
       "title": "有能なリーダーがCEOへの転身で失敗しないための鉄則",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13407"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "昇進機会不足時の優秀人材リテンション戦略6選",
-      "summary": "組織流動性低下で昇進困難な状況での人材流出防止策。優秀な部下にキャリア前進を実感させる具体的アプローチを提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13335"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "反対する決定を実行するリーダーの4つの行動戦略",
-      "summary": "経営陣の決定に賛同できない場合のリーダー対応法。チーム士気維持しながら誠実性と影響力を保つ実行手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13307"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "昇進の空きがない時、優秀な部下をどう支援するか 人材流出を防ぐための6つの戦略",
-      "summary": "昇進機会が限られる中で優秀人材を引き留める6つの戦略。流動性低下時代のタレントリテンション実践論",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13335"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "賛同できない経営判断を実行する時のリーダーシップ戦略",
-      "summary": "経営陣の決定に反対でもチームを導く4つの行動指針。目的意識と共感で組織の誠実性を保つ方法",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13307"
     }
   ]
 }
