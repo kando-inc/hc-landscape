@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-03-27T23:08:24+09:00",
+  "last_updated": "2026-03-28T23:06:40+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-03-27",
+      "title": "AIが事務仕事の55％を代替、管理部門は作業型から提言型への転換が急務",
+      "summary": "AIにより事務業務55％が代替される中、管理部門の生き残りには「守りの管理」から「提言型」組織への転換が必要とKPMGが提言。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "AIへの過度な期待が人材戦略を歪める、経営者1000人調査が示す現実",
+      "summary": "AI効果への期待先行で人員削減する企業が後悔するリスク。経営者1000人調査で、実際の雇用変化は予測より緩やかと判明。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13493"
+    },
     {
       "date": "2026-03-27",
       "title": "AI活用で事務業務55％代替、管理部門は作業型から提言型組織への転換が急務",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13366"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "昇進の空きがない時、優秀な部下をどう支援するか",
-      "summary": "組織流動性低下で昇進機会が限られる中、優秀人材の流出を防ぐ6つの戦略を具体的に提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13335"
-    },
-    {
-      "date": "2026-03-19",
-      "title": "テクノロジーが組織構造とマネジャー役割に与える変革インパクト",
-      "summary": "テクノロジーを「ツール」から「自律的役割」へ転換する企業観の差が競争力を決定。中国2社比較で組織変革の具体例を解説。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13407"
     }
   ]
 }
