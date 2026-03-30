@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-03-29T23:07:35+09:00",
+  "last_updated": "2026-03-30T23:09:39+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-03-30",
+      "title": "中高年社員の生産性課題：50代「働かないおじさん」問題への対処法",
+      "summary": "50～60代社員のモチベーション・生産性低下が企業経営の重要課題。再雇用制度より深刻な問題への戦略的対応が必要。",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/937683?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "リーダーが弱さや強さをさらけ出す最適なバランス 自己開示のスキル",
+      "summary": "リーダーの自己開示が信頼構築に与える影響を実証分析。弱さを適切にさらけ出すことで温かさと能力評価が向上する。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13640"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "AI期待先行の人材戦略は危険：経営者1000人調査が示すリアル",
+      "summary": "AIによる雇用影響は実効性より期待が先行。経営者1000人調査で判明した先行的人員削減の実態と戦略見直しの必要性。",
+      "cat": "policy",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13493"
+    },
     {
       "date": "2026-03-27",
       "title": "AIが事務仕事の55％を代替、管理部門は作業から提言型への転換が急務",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13366"
-    },
-    {
-      "date": "2026-03-21",
-      "title": "キャリア・家庭両立型女性管理職のメリットと育成・活用対策",
-      "summary": "人材確保の観点から女性登用は急務。女性のライフサイクルを考慮したキャリア・家庭両立型管理職の活用戦略を提案。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13663"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "AI導入成功のカギは組織・人材課題の解決",
-      "summary": "2026年調査で企業幹部のほぼ全員がAIを最優先事項に位置づけ。組織文化・リスキリングが導入阻害要因として浮上。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13366"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "管理者の技術マネジメント5原則",
-      "summary": "技術力を競争優位に昇華させる管理職の役割。技術とビジネスを結ぶマネジメント原則を5つのポイントで解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13656"
     }
   ]
 }
