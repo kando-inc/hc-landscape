@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-30T23:09:39+09:00",
+  "last_updated": "2026-03-31T23:08:11+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-03-31",
+      "title": "正論より「物語」がリーダーに必要な決定的な理由",
+      "summary": "ロジックだけでは限界。共感重視の時代にリーダーが身につけるべきストーリーテリング手法を解説。",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938315?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "編集部が厳選、今週の必読記事11選：2026年3月22日〜3月28日公開 人間の意思決定や関係性をいかに扱うか",
+      "summary": "生成AI導入で成果を分ける要因は技術でなく人と組織の設計。人間の意思決定と関係性設計がカギ。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13823"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "階層組織とネットワーク組織を共存させる新しい組織進化論",
+      "summary": "変化対応力と運用効率を両立。階層組織を維持しつつネットワーク組織を共存させる組織設計手法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/1633"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "リーダーが弱さをさらけ出す最適なバランス",
+      "summary": "完璧な自信を装うより思慮深い弱さの開示が信頼を強化。何を、いつ、どう語るかの実践的枠組み。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13640"
+    },
     {
       "date": "2026-03-30",
       "title": "中高年社員の生産性課題：50代「働かないおじさん」問題への対処法",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13663"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "全社一体型の組織運営を成功に導く「従業員シャドーイング」の成果",
-      "summary": "ノルウェー金融大手DNBの事例を交え、部門間のサイロ化克服に向けた従業員シャドーイング実装の6つのステップを解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13367"
-    },
-    {
-      "date": "2026-03-22",
-      "title": "誰もやりたがらない仕事を部下に受け入れてもらう方法 コミットメントを引き出す3つの条件",
-      "summary": "望まない業務への真のコミットメント獲得には「受容」が重要。裁量感・確定性・プロセス正当性の3要因で解決",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13460"
-    },
-    {
-      "date": "2026-03-21",
-      "title": "キャリア・家庭両立型女性管理職の育成・活用戦略",
-      "summary": "人材確保の急務として女性登用が必須。女性のライフサイクルを考慮したキャリア・家庭両立型管理職活用を提案",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13663"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "AI導入成功の鍵は組織・人材課題の解決にあり",
-      "summary": "2026年調査で企業幹部のほぼ全員がAI最優先と回答。大規模実装段階で組織文化とリスキリングが主要障壁に",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13366"
     }
   ]
 }
