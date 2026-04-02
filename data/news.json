@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-01T23:11:18+09:00",
+  "last_updated": "2026-04-02T23:08:00+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-02",
+      "title": "自己申告型報酬制度で連続赤字を脱却した製罐会社の事例",
+      "summary": "自己申告型給与制度により従業員エンゲージメント向上と業績回復を実現。報酬制度設計の実践例として参考価値。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/033100083/"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "AI時代のリーダー判断力育成：組織的リスクへの対応",
+      "summary": "生成AIが既存判断力を増幅する一方、試行錯誤機会の減少で判断力低下のパラドックス。次世代リーダー育成の課題。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13495"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "AI導入成功のプロダクト思考：生産性向上の4つのスキル",
+      "summary": "生成AI導入にはプロダクト思考が不可欠。従業員の価値創造プロセス可視化と試行錯誤支援環境の整備がカギ。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13491"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "第12次職業能力開発基本計画を策定しました",
+      "summary": "第12次職業能力開発基本計画策定。リスキリング・人材開発の国家政策動向として経営戦略への影響を把握。",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_72145.html"
+    },
     {
       "date": "2026-04-01",
       "title": "マネジャーの本質的役割：気配り重視から成果創出への転換",
@@ -25,14 +57,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/151"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "第12次職業能力開発基本計画を策定しました",
-      "summary": "厚労省が第12次職業能力開発基本計画を策定。国の人材開発政策の新方針が企業の人材戦略に与える影響を把握可能。",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_72145.html"
     },
     {
       "date": "2026-03-31",
@@ -217,30 +241,6 @@
       "cat": "explore",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00614/030300026/"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "西武・プリンス、ホテル従業員給与を資格連動制に　専門性評価で大幅賃上げ実現",
-      "summary": "宿泊業界で人手不足対策として待遇改善が進展。資格手当で専門性を評価する大手や、個性重視文化で離職率0％実現の高級ホテル事例も登場。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/031800082/"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "有能なリーダーがCEO転身で失敗しないための鉄則　事前の厳格な評価プロセスが成否を分ける",
-      "summary": "CEO就任失敗の原因は能力不足でなく状況とのミスマッチ。6つの落とし穴と事前確認すべき4つの決定的質問で失敗回避が可能。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13359"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "組織文化変革を実現する行動科学に基づく4つのステップ　巨額研修投資を業績向上に結びつける手法",
-      "summary": "従業員研修の大半が業績向上に結びつかない現状を打破。行動科学の「4Tモデル」でアストラゼネカ等が組織文化変革と採用で劇的成果を実現。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13405"
     }
   ]
 }
