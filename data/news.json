@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-02T23:08:00+09:00",
+  "last_updated": "2026-04-03T23:08:11+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-02",
+      "title": "自己申告型報酬制度で連続赤字から脱却した製罐会社の人事変革",
+      "summary": "自己申告型給与制度により従業員エンゲージメント向上と業績回復を実現。年収500万円申告など本人のアピール次第で賃上げ可能な革新的評価制度事例",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/033100083/"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "企業内エキスパートの評価と処遇 潜在化した社内知的資源の活性化",
+      "summary": "分析力と直観力を持つエキスパート人材は代替困難な組織資産。彼らを正しく評価・処遇し組織の知的資源を最大化する具体的手法を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13717"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "AI時代のリーダー判断力育成 組織的リスクと対策",
+      "summary": "生成AIが定型業務代替により人間の判断力育成機会を奪うパラドックス。次世代リーダーが不確実状況で意思決定能力を維持する方法を考察",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13495"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "AI導入成功に導くプロダクトマネジメント思考 4つの核心スキル",
+      "summary": "生成AI導入にはプロダクト思考が不可欠。従業員が課題定義し実験改善を繰り返す環境整備で真の生産性向上を実現する価値創造プロセス",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13491"
+    },
     {
       "date": "2026-04-02",
       "title": "自己申告型報酬制度で連続赤字を脱却した製罐会社の事例",
@@ -206,38 +238,6 @@
       "date": "2026-03-24",
       "title": "製薬業界MRの役割変革　医師・患者の声を開発につなぐスキルが競争力に",
       "summary": "創薬競争が激化する製薬業界で、MRの「ソフト力」向上が成長の最重要課題。医師・患者の声を開発に活かす人材戦略が競争優位を決定する。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/030300026/"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "有能なリーダーがCEO転身で失敗しないための鉄則　事前評価プロセスの重要性",
-      "summary": "CEO転身失敗の原因は能力不足でなく適性ミスマッチ。6つの落とし穴と4つの事前確認質問で、次世代経営人材の登用リスクを軽減。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13359"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "組織文化変革を実現する行動科学4Tモデル　研修効果を業績向上に直結",
-      "summary": "従業員研修の大半が業績に結びつかない現状を打破。アストラゼネカ等で実証済みの「4Tモデル」で組織文化変革と採用成果を劇的改善。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13405"
-    },
-    {
-      "date": "2026-03-23",
-      "title": "AI時代のリーダーシップと人材マネジメント　テクノロジー観が競争力を左右",
-      "summary": "生成AI普及で競争環境が一変。AI導入、技術観、リーダーシップ、人材マネジメントの論点整理でAI時代の組織運営要諦を提示。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13777"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "製薬業界のMR変革　医師・患者の声を開発につなぐ「ソフト力」が競争力の源泉に",
-      "summary": "創薬に長期間・多額投資が必要な製薬業界で、MRの「ソフト力」向上が将来成長の最重要課題。医師や患者の声を開発に活かすスキルが競争優位性を決定する。",
       "cat": "explore",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00614/030300026/"
