@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-04-03T23:08:11+09:00",
+  "last_updated": "2026-04-04T23:06:48+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-04",
+      "title": "優秀な部下に「耳の痛い話」が届かない本当の理由",
+      "summary": "世界の一流上司は健全な衝突や建設的批判を前提としたチーム設計を実践。組織構造がパフォーマンス向上の鍵",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939009?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "「人間の認知バイアス」がAIの判断をゆがめる",
+      "summary": "確証バイアスや便宜性バイアスがAI判断を歪める。組織がAI潜在能力を引き出すには批判的思考の仕組みが不可欠",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13461"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "自律型・独立型フォロアーの育成",
+      "summary": "企業活性化は優れたフォロアーがいて初めて実現。リーダー育成偏重から脱却し自律型人材の育成が競争力強化の鍵",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13730"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "自己申告型報酬制度で連続赤字から脱却した製罐会社",
+      "summary": "年収500万円を自己申告する報酬制度で従業員エンゲージメント向上。働き方とアピール次第で賃上げが決まる仕組み",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/033100083/"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "企業内エキスパートの評価と処遇",
+      "summary": "分析力と直観力を併せ持つエキスパートは代替困難な知的資源。潜在化した社内専門人材を活性化する評価・処遇手法",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13717"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "AI時代、私たちは「判断力」をどう育めばよいのか",
+      "summary": "AIが定型業務を代替し人間の試行錯誤機会が減少。次世代リーダーの判断力育成が組織的リスクとなる",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13495"
+    },
     {
       "date": "2026-04-02",
       "title": "自己申告型報酬制度で連続赤字から脱却した製罐会社の人事変革",
@@ -193,54 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AI期待先行の人材戦略は失敗する、経営者1000人調査が示す現実とのギャップ",
-      "summary": "AI効果への過度な期待による先行的人員削減が横行。実際の技術進歩は予測より緩やかで、現実的な人材戦略策定が必要。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13493"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "有能幹部のCEO転身失敗を防ぐ4つの事前検証項目",
-      "summary": "CEO就任失敗の主因は能力不足でなくミスマッチ。候補者が陥る6つの落とし穴と事前確認すべき4つの質問を体系化。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13359"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "行動科学4Tモデルで組織文化変革、アストラゼネカ等で実証済み",
-      "summary": "従業員研修の大半が業績向上に寄与せず。4T（ターゲット・変容理論・タイミング・検証）モデルで組織文化変革を実現。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13405"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "有能なリーダーがCEOへの転身で失敗しないための鉄則",
-      "summary": "CEO就任で失敗する原因は個人能力より組織とのミスマッチ。6つの落とし穴と4つの事前確認質問を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13359"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "組織文化変革を実現する行動科学に基づく4つのステップ",
-      "summary": "研修の大半が業績向上に結びつかない現状に対し、行動科学の4Tモデルでアストラゼネカ等が成果。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13405"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "製薬業界MRの役割変革　医師・患者の声を開発につなぐスキルが競争力に",
-      "summary": "創薬競争が激化する製薬業界で、MRの「ソフト力」向上が成長の最重要課題。医師・患者の声を開発に活かす人材戦略が競争優位を決定する。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/030300026/"
     }
   ]
 }
