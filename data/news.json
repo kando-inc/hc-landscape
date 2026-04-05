@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-04T23:06:48+09:00",
+  "last_updated": "2026-04-05T23:07:42+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-05",
+      "title": "先端技術導入時の組織変革：製造業のデジタル化を成功に導く組織設計",
+      "summary": "CAD・FMS等先端技術活用には従来のトップダウン型意思決定を排除した新組織への変革が不可欠。製造業DXの組織論。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13732"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "AIバイアスの根源は人間の認知バイアス：組織的な対策と仕組みづくり",
+      "summary": "AI判断の歪みはデータではなく人間の確証・便宜性バイアスが原因。批判的思考を促す組織的仕組みが必要。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13461"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "自律型フォロアーの育成がリーダーシップを強化する",
+      "summary": "企業活性化は優れたフォロアーがいてこそ実現。リーダー育成偏重から脱却し、自律・独立型フォロアー育成が鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13730"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "企業内エキスパート人材の評価・処遇設計",
+      "summary": "分析力と直観力を併せ持つエキスパートは代替困難な知的資源。彼らを正しく評価・処遇する手法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13717"
+    },
     {
       "date": "2026-04-04",
       "title": "優秀な部下に「耳の痛い話」が届かない本当の理由",
@@ -206,38 +238,6 @@
       "date": "2026-03-27",
       "title": "AIが事務仕事の55％を代替、管理部門は作業から提言型への転換が急務",
       "summary": "AIにより事務業務55％が代替可能となる中、管理部門は「守りの管理」から戦略的提言型組織への転換が生存の鍵とKPMGが指摘。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AIへの過度な期待による人材戦略は危険、経営者1000人調査が示す現実",
-      "summary": "経営者1000人調査でAI関連レイオフの多くは実効果でなく「期待」先行と判明。雇用変化は予測より緩やか、性急な人員削減に警鐘。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13493"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AIが事務仕事の55％を代替、管理部門は作業型から提言型への転換が急務",
-      "summary": "AIにより事務業務55％が代替される中、管理部門の生き残りには「守りの管理」から「提言型」組織への転換が必要とKPMGが提言。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AIへの過度な期待が人材戦略を歪める、経営者1000人調査が示す現実",
-      "summary": "AI効果への期待先行で人員削減する企業が後悔するリスク。経営者1000人調査で、実際の雇用変化は予測より緩やかと判明。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13493"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AI活用で事務業務55％代替、管理部門は作業型から提言型組織への転換が急務",
-      "summary": "KPMG調査でAIが事務作業の55％を代替可能と判明。管理部門は守りの業務から戦略提言型への組織変革が生存の鍵となる。",
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
