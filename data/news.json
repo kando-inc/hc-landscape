@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-04-05T23:07:42+09:00",
+  "last_updated": "2026-04-06T23:10:14+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-06",
+      "title": "V字回復のアシックス廣田CEO、躍進のSHIFT丹下社長　一流経営者の言葉に学ぶ",
+      "summary": "逆風下で人的資本強化や新規事業展開を実現したアシックス廣田CEO、SHIFT丹下社長ら一流経営者7人の手腕を分析",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00081/040300933/"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "｢配慮｣が裏目に出ないフィードバックの技術3つ | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
+      "summary": "部下の行動改善を促す適切なフィードバック技術3つを解説。配慮が裏目に出ない実践的なリーダーシップスキル",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/939010?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "富士フイルムはデータを起点に組織の「稼げる力」を高める",
+      "summary": "富士フイルムの後藤CEO、古森前CEOが語る写真フィルム事業からの事業転換とDXによる再成長戦略",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13813"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "先端技術対応型組織への脱却 製造技術革新のメリットを最大限に生かす",
+      "summary": "CAD・FMS等先端技術活用のため、トップダウン型意思決定を排除し従来の製造組織を超えた新組織導入が必要",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13732"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "「人間の認知バイアス」がAIの判断をゆがめる 悪影響を最小限に抑える実践的な方策",
+      "summary": "AIの判断を歪める人間の確証バイアス・便宜性バイアスの正体と、批判的思考を促す組織の仕組みづくり",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13461"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "自律型・独立型\"フォロアー\"の育成 リーダーシップを強化し企業活性化を促進する",
+      "summary": "企業活性化は優れたフォロアーがいてこそ実現。自律型・独立型フォロアー育成でリーダーシップ強化を図る",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13730"
+    },
     {
       "date": "2026-04-05",
       "title": "先端技術導入時の組織変革：製造業のデジタル化を成功に導く組織設計",
@@ -193,54 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13823"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "階層組織とネットワーク組織を共存させる新しい組織進化論",
-      "summary": "変化対応力と運用効率を両立。階層組織を維持しつつネットワーク組織を共存させる組織設計手法。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/1633"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "リーダーが弱さをさらけ出す最適なバランス",
-      "summary": "完璧な自信を装うより思慮深い弱さの開示が信頼を強化。何を、いつ、どう語るかの実践的枠組み。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13640"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "中高年社員の生産性課題：50代「働かないおじさん」問題への対処法",
-      "summary": "50～60代社員のモチベーション・生産性低下が企業経営の重要課題。再雇用制度より深刻な問題への戦略的対応が必要。",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/937683?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "リーダーが弱さや強さをさらけ出す最適なバランス 自己開示のスキル",
-      "summary": "リーダーの自己開示が信頼構築に与える影響を実証分析。弱さを適切にさらけ出すことで温かさと能力評価が向上する。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13640"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AI期待先行の人材戦略は危険：経営者1000人調査が示すリアル",
-      "summary": "AIによる雇用影響は実効性より期待が先行。経営者1000人調査で判明した先行的人員削減の実態と戦略見直しの必要性。",
-      "cat": "policy",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13493"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "AIが事務仕事の55％を代替、管理部門は作業から提言型への転換が急務",
-      "summary": "AIにより事務業務55％が代替可能となる中、管理部門は「守りの管理」から戦略的提言型組織への転換が生存の鍵とKPMGが指摘。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00795/032600009/"
     }
   ]
 }
