@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-06T23:10:14+09:00",
+  "last_updated": "2026-04-07T23:11:36+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-07",
+      "title": "AI時代の意思決定における人間の判断力と組織設計の本質",
+      "summary": "生成AI進展で意思決定の前提が変化する中、本質はAI自体ではなく人間の判断力と組織設計にあることを認知バイアスやリーダーシップの観点から解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13862"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "変化適応時代のリーダーシップ新原則",
+      "summary": "変化する事業環境で組織が生き残るための6つのリーダーシップ原則。ブリティッシュ・エアウェイズ等の事例から社員の自律的変化適応を導く手法を提示",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11201"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "富士フイルム事業転換を支えた組織の「稼げる力」向上戦略",
+      "summary": "写真フィルム事業衰退危機から再成長を果たした富士フイルム。古森・後藤両CEOによる構造改革とDX推進で模倣困難な強みを活かした組織変革事例",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13813"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "先端技術活用のための製造組織変革",
+      "summary": "CAD・FMS等先端技術のメリット最大化には従来のトップダウン型製造組織からの脱却が必要。技術革新に対応する新組織設計の要件を提示",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13732"
+    },
     {
       "date": "2026-04-06",
       "title": "V字回復のアシックス廣田CEO、躍進のSHIFT丹下社長　一流経営者の言葉に学ぶ",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13738"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "リーダーシップとマネジメントの本質的違いと補完関係",
-      "summary": "ザレズニック論文以降のリーダーシップ論を整理。複雑なビジネス環境でリーダーシップとマネジメント両方が必要と提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/151"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "生成AI時代の人と組織の設計：意思決定と関係性への着眼",
-      "summary": "生成AI導入で技術より人材戦略が成果を分ける。AI時代の人間の意思決定と組織内関係性の設計が競争優位の源泉。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13823"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "正論より「物語」がリーダーに必要な決定的な理由",
-      "summary": "ロジックだけでは限界。共感重視の時代にリーダーが身につけるべきストーリーテリング手法を解説。",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938315?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "編集部が厳選、今週の必読記事11選：2026年3月22日〜3月28日公開 人間の意思決定や関係性をいかに扱うか",
-      "summary": "生成AI導入で成果を分ける要因は技術でなく人と組織の設計。人間の意思決定と関係性設計がカギ。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13823"
     }
   ]
 }
