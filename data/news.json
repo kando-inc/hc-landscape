@@ -1,14 +1,38 @@
 {
-  "last_updated": "2026-04-07T23:11:36+09:00",
+  "last_updated": "2026-04-08T23:12:50+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-04-08",
+      "title": "グレート・カンパニーの経営論「制度の論理」による長期価値創造",
+      "summary": "株主価値最大化とは異なる「制度の論理」で社会目的と経済価値を両立し、長期志向経営を実践するグレート・カンパニーの経営原則を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/93"
+    },
+    {
       "date": "2026-04-07",
       "title": "AI時代の意思決定における人間の判断力と組織設計の本質",
-      "summary": "生成AI進展で意思決定の前提が変化する中、本質はAI自体ではなく人間の判断力と組織設計にあることを認知バイアスやリーダーシップの観点から解説",
+      "summary": "生成AI進展で変化する意思決定の前提。本質はAI自体でなく人間の判断力と組織設計にあり、認知バイアスやリーダーシップが重要",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13862"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "変化適応時代のリーダーシップ新原則：社員の自律的変化を促す6つの指針",
+      "summary": "変化適応組織のリーダーは解決策提示でなく社員の自律的責任を促すべき。BA、スカンジナビア航空、KPMG事例で6原則を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11201"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "富士フイルムのDX経営：データ起点で組織の稼げる力を高める変革戦略",
+      "summary": "写真フィルム事業衰退から構造改革で再生した富士フイルム。後藤CEO下でDXを軸に模倣困難な強みを活かした新事業創出を推進",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13813"
     },
     {
       "date": "2026-04-07",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13491"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "第12次職業能力開発基本計画を策定しました",
-      "summary": "第12次職業能力開発基本計画策定。リスキリング・人材開発の国家政策動向として経営戦略への影響を把握。",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_72145.html"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "マネジャーの本質的役割：気配り重視から成果創出への転換",
-      "summary": "経営管理者が組織内の心理的配慮に偏重し、本来の目標・業績達成を軽視する問題を指摘。成果志向への転換を提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13712"
-    },
-    {
-      "date": "2026-04-01",
-      "title": "成人発達理論の源流と人材育成への応用【前編】",
-      "summary": "キーガン理論を含む成人発達理論の歴史的背景を解説。大人の「器」と「能力」の発達プロセスを人材育成に活用する知見。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13738"
     }
   ]
 }
