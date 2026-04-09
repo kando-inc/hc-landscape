@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-08T23:12:50+09:00",
+  "last_updated": "2026-04-09T23:14:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-08",
+      "title": "グレート・カンパニーの経営論：「制度の論理」による価値創造",
+      "summary": "株主価値経営とは異なる「制度の論理」で社会目的と経済価値を両立し、長期志向経営を実践するグレート・カンパニーの人材戦略論",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/93"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "AI時代の意思決定：人間の判断力と組織設計の本質",
+      "summary": "生成AI時代における意思決定の本質は技術ではなく人間の判断力と組織設計。認知バイアスとリーダーシップが交差する変革論",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13862"
+    },
+    {
+      "date": "2026-04-07",
+      "title": "変化適応時代のリーダーシップ：6つの原則と組織変革",
+      "summary": "変化適応におけるリーダーの使命は解決策提示ではなく社員の自律的変化を促すこと。ブリティッシュ・エアウェイズ等の事例で解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11201"
+    },
     {
       "date": "2026-04-08",
       "title": "グレート・カンパニーの経営論「制度の論理」による長期価値創造",
@@ -215,30 +239,6 @@
       "title": "AI導入成功に導くプロダクトマネジメント思考 4つの核心スキル",
       "summary": "生成AI導入にはプロダクト思考が不可欠。従業員が課題定義し実験改善を繰り返す環境整備で真の生産性向上を実現する価値創造プロセス",
       "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13491"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "自己申告型報酬制度で連続赤字を脱却した製罐会社の事例",
-      "summary": "自己申告型給与制度により従業員エンゲージメント向上と業績回復を実現。報酬制度設計の実践例として参考価値。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/033100083/"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "AI時代のリーダー判断力育成：組織的リスクへの対応",
-      "summary": "生成AIが既存判断力を増幅する一方、試行錯誤機会の減少で判断力低下のパラドックス。次世代リーダー育成の課題。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13495"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "AI導入成功のプロダクト思考：生産性向上の4つのスキル",
-      "summary": "生成AI導入にはプロダクト思考が不可欠。従業員の価値創造プロセス可視化と試行錯誤支援環境の整備がカギ。",
-      "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13491"
     }
