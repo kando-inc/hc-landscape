@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-09T23:14:09+09:00",
+  "last_updated": "2026-04-10T23:10:21+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-10",
+      "title": "外部登用リーダーが既存組織で早期に成果を出す3つの方法",
+      "summary": "外部登用が増える中、新参リーダーが大企業の既存文化で影響力を構築する手法。意思決定の仕組み観察、目的共有による信頼構築、戦略的な問いかけが鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13406"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "テンポラリー人材配置 モラールを高め組織をスリム化する",
+      "summary": "高報酬・高付加価値を求める人材を活用し、変化する組織ニーズに対応する一時的人材配置でモラール向上と組織最適化を実現する施策。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13746"
+    },
     {
       "date": "2026-04-08",
       "title": "グレート・カンパニーの経営論：「制度の論理」による価値創造",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13717"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "AI時代のリーダー判断力育成 組織的リスクと対策",
-      "summary": "生成AIが定型業務代替により人間の判断力育成機会を奪うパラドックス。次世代リーダーが不確実状況で意思決定能力を維持する方法を考察",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13495"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "AI導入成功に導くプロダクトマネジメント思考 4つの核心スキル",
-      "summary": "生成AI導入にはプロダクト思考が不可欠。従業員が課題定義し実験改善を繰り返す環境整備で真の生産性向上を実現する価値創造プロセス",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13491"
     }
   ]
 }
