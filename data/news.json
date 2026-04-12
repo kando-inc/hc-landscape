@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-11T23:07:35+09:00",
+  "last_updated": "2026-04-12T23:09:00+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-12",
+      "title": "状況即応型マネジャーの7つのリーダーシップスタイル",
+      "summary": "幌馬車隊長の事例から学ぶ、状況に応じて7つのタイプを使い分ける実践的マネジャー育成手法を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13752"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "プロジェクト主導型組織に適したKPI構築法",
+      "summary": "変革期の組織で旧来型KPIを脱却し、価値・スピード・整合性・チーム健全性を軸とした新指標体系を構築",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13497"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "外部登用リーダーの早期価値創出戦略",
+      "summary": "大企業のレガシー文化で新参リーダーが成功する3つの方法：意思決定観察・目的共有・戦略的問いかけ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13406"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "テンポラリー人材配置による組織最適化",
+      "summary": "高報酬・やりがいある仕事を求める人材を活用し、組織変化に対応しながらモラール向上とスリム化を実現",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13746"
+    },
     {
       "date": "2026-04-11",
       "title": "プロジェクト主導型組織における新たなKPI設計手法",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/939009?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "「人間の認知バイアス」がAIの判断をゆがめる",
-      "summary": "確証バイアスや便宜性バイアスがAI判断を歪める。組織がAI潜在能力を引き出すには批判的思考の仕組みが不可欠",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13461"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "自律型・独立型フォロアーの育成",
-      "summary": "企業活性化は優れたフォロアーがいて初めて実現。リーダー育成偏重から脱却し自律型人材の育成が競争力強化の鍵",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13730"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "自己申告型報酬制度で連続赤字から脱却した製罐会社",
-      "summary": "年収500万円を自己申告する報酬制度で従業員エンゲージメント向上。働き方とアピール次第で賃上げが決まる仕組み",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/033100083/"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "企業内エキスパートの評価と処遇",
-      "summary": "分析力と直観力を併せ持つエキスパートは代替困難な知的資源。潜在化した社内専門人材を活性化する評価・処遇手法",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13717"
     }
   ]
 }
