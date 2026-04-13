@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-12T23:09:00+09:00",
+  "last_updated": "2026-04-13T23:15:07+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-13",
+      "title": "マネジャー職に不向きな人を昇進させるのはもうやめよう",
+      "summary": "ガートナー調査でマネジャーの25%が職務に後ろ向き。優秀なプレイヤーの安易な昇進がミスマッチを生む現状と適性評価手法を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13529"
+    },
+    {
+      "date": "2026-04-12",
+      "title": "7タイプを使いわける状況即応型マネジャー",
+      "summary": "変化する環境でリーダーが発揮すべき7つのマネジメントスタイル。状況に応じた使い分けで組織の適応力を高める手法",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13752"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "旧来型のKPIが企業変革を阻害する",
+      "summary": "安定志向のKPIでは戦略進捗を正しく測定不可。価値・スピード・整合性・チーム健全性の4軸でプロジェクト主導型指標を構築",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13497"
+    },
     {
       "date": "2026-04-12",
       "title": "状況即応型マネジャーの7つのリーダーシップスタイル",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13461"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "自律型フォロアーの育成がリーダーシップを強化する",
-      "summary": "企業活性化は優れたフォロアーがいてこそ実現。リーダー育成偏重から脱却し、自律・独立型フォロアー育成が鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13730"
-    },
-    {
-      "date": "2026-04-02",
-      "title": "企業内エキスパート人材の評価・処遇設計",
-      "summary": "分析力と直観力を併せ持つエキスパートは代替困難な知的資源。彼らを正しく評価・処遇する手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13717"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "優秀な部下に「耳の痛い話」が届かない本当の理由",
-      "summary": "世界の一流上司は健全な衝突や建設的批判を前提としたチーム設計を実践。組織構造がパフォーマンス向上の鍵",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939009?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
