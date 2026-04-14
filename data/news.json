@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-13T23:15:07+09:00",
+  "last_updated": "2026-04-14T23:15:11+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-14",
+      "title": "カーター元大統領が語るリーダーの条件 \"強大な権力の適切な行使が重要\"",
+      "summary": "カーター元大統領が語るリーダーの条件として、マネジメント職には関連領域の各細部への精通が要請されると解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13768"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "部下の力を引き出すリーダーシップに必要な4つの資質",
+      "summary": "やる気を引き出すリーダーに必要な4つの資質：弱点を認める、直感を信じる、タフ・エンパシーの実践、違いを隠さない。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12848"
+    },
     {
       "date": "2026-04-13",
       "title": "マネジャー職に不向きな人を昇進させるのはもうやめよう",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13730"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "先端技術導入時の組織変革：製造業のデジタル化を成功に導く組織設計",
-      "summary": "CAD・FMS等先端技術活用には従来のトップダウン型意思決定を排除した新組織への変革が不可欠。製造業DXの組織論。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13732"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "AIバイアスの根源は人間の認知バイアス：組織的な対策と仕組みづくり",
-      "summary": "AI判断の歪みはデータではなく人間の確証・便宜性バイアスが原因。批判的思考を促す組織的仕組みが必要。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13461"
     }
   ]
 }
