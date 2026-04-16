@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-04-15T23:15:05+09:00",
+  "last_updated": "2026-04-16T23:13:51+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-04-16",
+      "title": "IPビジネス業界の人的資本開示　ヒット作を継続創出する才能活用の仕組み",
+      "summary": "知的財産業界の構造的課題を踏まえ、一過性でない才能発揮システムの構築と人的資本開示の最適解を探る経営論",
+      "cat": "policy",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "変革が失敗する原因「初動のつまずき」を回避する方法 停滞を打破し、現場の足並みを揃える4つの提言",
+      "summary": "AI導入など変革の初動失敗要因6つを特定。組織関与不足による現場回帰を防ぐ具体的手法を500人調査で解明",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13535"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "急成長する企業と停滞する企業は、何が根本的に違うのか リーダーシップチームの関係性から探る",
+      "summary": "世界500人のリーダー調査で判明。急成長企業は優先課題の足並み、権限委譲、部門横断協働が高水準で実践",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13635"
+    },
+    {
       "date": "2026-04-15",
       "title": "AI時代に欠かせない「エージェントマネジャー」の役割 成功のカギを握る新たなリーダーに必要な6つの能力",
-      "summary": "AI時代の新職種「エージェントマネジャー」に必要な6つの能力とは。人間とAIの混合チーム統括がカギ",
+      "summary": "AI自律化時代の新職種「エージェントマネジャー」をセールスフォース事例で解説。人間とAI混合チーム統括に必要な6能力",
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13586"
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13732"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "V字回復のアシックス廣田CEO、躍進のSHIFT丹下社長　一流経営者の言葉に学ぶ",
-      "summary": "逆風下で人的資本強化や新規事業展開を実現したアシックス廣田CEO、SHIFT丹下社長ら一流経営者7人の手腕を分析",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00081/040300933/"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "｢配慮｣が裏目に出ないフィードバックの技術3つ | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-      "summary": "部下の行動改善を促す適切なフィードバック技術3つを解説。配慮が裏目に出ない実践的なリーダーシップスキル",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/939010?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "富士フイルムはデータを起点に組織の「稼げる力」を高める",
-      "summary": "富士フイルムの後藤CEO、古森前CEOが語る写真フィルム事業からの事業転換とDXによる再成長戦略",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13813"
     }
   ]
 }
