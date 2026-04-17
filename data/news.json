@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-04-16T23:13:51+09:00",
+  "last_updated": "2026-04-17T23:12:42+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-17",
+      "title": "DeNA南場智子氏の人材戦略：AI時代の「パターンブレイカー」育成論",
+      "summary": "DeNA創業者が語る独自の採用・育成術。妥協なき採用基準と失敗を恐れない育成で組織競争力を最大化する手法を解説",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "AI導入の心理的障壁：従業員の8割が抱く「AI不安」への対処法",
+      "summary": "企業88％がAI活用も現場は停滞。従業員8割が職喪失を懸念する「AI不安」の業界別特徴と克服策を調査で解明",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13592"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "IPビジネス業界の人的資本開示：才能を持続的に発揮させる仕組み作り",
+      "summary": "知的財産業界の構造的課題を踏まえ、ヒットを一代限りにしない人的資本開示の最適解を業界特性から探る",
+      "cat": "policy",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "変革失敗の根因「初動のつまずき」：AI導入で現場の足並みを揃える4提言",
+      "summary": "AI活用の変革が現場で定着しない原因は組織関与不足による初動失敗。6つの要因と具体的克服手法を提示",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13535"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "急成長企業のリーダーシップ：500人調査が示す成長を分かつ組織運営法",
+      "summary": "世界500人のリーダー調査で判明。急成長企業は優先課題の足並み、権限委譲、部門横断協働が高水準で実践",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13635"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "AI時代の新職種「エージェントマネジャー」：人間とAI混合チーム統括術",
+      "summary": "AIエージェント自律化で必須となる新役職。セールスフォース事例でAI教育・ガバナンス・人間連携の6能力を解説",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13586"
+    },
     {
       "date": "2026-04-16",
       "title": "IPビジネス業界の人的資本開示　ヒット作を継続創出する才能活用の仕組み",
@@ -193,54 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/93"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "AI時代の意思決定における人間の判断力と組織設計の本質",
-      "summary": "生成AI進展で変化する意思決定の前提。本質はAI自体でなく人間の判断力と組織設計にあり、認知バイアスやリーダーシップが重要",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13862"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "変化適応時代のリーダーシップ新原則：社員の自律的変化を促す6つの指針",
-      "summary": "変化適応組織のリーダーは解決策提示でなく社員の自律的責任を促すべき。BA、スカンジナビア航空、KPMG事例で6原則を解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11201"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "富士フイルムのDX経営：データ起点で組織の稼げる力を高める変革戦略",
-      "summary": "写真フィルム事業衰退から構造改革で再生した富士フイルム。後藤CEO下でDXを軸に模倣困難な強みを活かした新事業創出を推進",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13813"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "変化適応時代のリーダーシップ新原則",
-      "summary": "変化する事業環境で組織が生き残るための6つのリーダーシップ原則。ブリティッシュ・エアウェイズ等の事例から社員の自律的変化適応を導く手法を提示",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11201"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "富士フイルム事業転換を支えた組織の「稼げる力」向上戦略",
-      "summary": "写真フィルム事業衰退危機から再成長を果たした富士フイルム。古森・後藤両CEOによる構造改革とDX推進で模倣困難な強みを活かした組織変革事例",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13813"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "先端技術活用のための製造組織変革",
-      "summary": "CAD・FMS等先端技術のメリット最大化には従来のトップダウン型製造組織からの脱却が必要。技術革新に対応する新組織設計の要件を提示",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13732"
     }
   ]
 }
