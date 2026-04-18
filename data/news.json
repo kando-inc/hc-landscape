@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-04-17T23:12:42+09:00",
+  "last_updated": "2026-04-18T23:09:40+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-18",
+      "title": "銀行に求められる革新と協調が共存する新組織設計",
+      "summary": "厳しい競争環境で銀行が勝ち抜くには戦略と同等に組織・マネジメントに重点を置くべき。業務多様化に対応した組織進化の方途を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13787"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "南場智子氏が説く採用・育成の流儀",
+      "summary": "DeNA創業者の独自人材観。妥協なき採用基準、失敗を恐れず限界の仕事を任せる育成術、AI時代のパターンブレイカー人材の必要性を語る。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "AIを使うほど不安になる組織の矛盾",
+      "summary": "企業88％がAI活用も現場導入は停滞。従業員約8割がAI不安を抱く実態。業界特有の心理的障壁を理解した環境構築の必要性を示す。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13592"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "IPビジネス業界の人的資本開示",
+      "summary": "知的財産業界における人的資本開示の最適解を探る。ヒットを一代限りにしない才能発揮の仕組み構築に向けた構造的課題の分析。",
+      "cat": "policy",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "変革が失敗する「初動のつまずき」回避法",
+      "summary": "AI活用ワークフローの多くが現場で定着せず失敗。組織の関与不足が原因。初動失敗の6要因を特定し変革完遂の具体手法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13535"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "急成長企業と停滞企業の根本的違い",
+      "summary": "世界500人以上のリーダー調査で判明。成長を分かつのはリーダーシップチーム運営方法。優先課題の足並み一致と部門横断協働が鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13635"
+    },
     {
       "date": "2026-04-17",
       "title": "DeNA南場智子氏の人材戦略：AI時代の「パターンブレイカー」育成論",
@@ -191,54 +239,6 @@
       "title": "グレート・カンパニーの「制度の論理」経営論",
       "summary": "株主価値最大化を超えた経営論。社会目的と経済価値を両立する長期志向企業が採用する「制度の論理」による意思決定フレームワークを解説。",
       "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/93"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "外部登用リーダーが既存組織で早期に成果を出す3つの方法",
-      "summary": "外部登用が増える中、新参リーダーが大企業の既存文化で影響力を構築する手法。意思決定の仕組み観察、目的共有による信頼構築、戦略的な問いかけが鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13406"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "テンポラリー人材配置 モラールを高め組織をスリム化する",
-      "summary": "高報酬・高付加価値を求める人材を活用し、変化する組織ニーズに対応する一時的人材配置でモラール向上と組織最適化を実現する施策。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13746"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "グレート・カンパニーの経営論：「制度の論理」による価値創造",
-      "summary": "株主価値経営とは異なる「制度の論理」で社会目的と経済価値を両立し、長期志向経営を実践するグレート・カンパニーの人材戦略論",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/93"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "AI時代の意思決定：人間の判断力と組織設計の本質",
-      "summary": "生成AI時代における意思決定の本質は技術ではなく人間の判断力と組織設計。認知バイアスとリーダーシップが交差する変革論",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13862"
-    },
-    {
-      "date": "2026-04-07",
-      "title": "変化適応時代のリーダーシップ：6つの原則と組織変革",
-      "summary": "変化適応におけるリーダーの使命は解決策提示ではなく社員の自律的変化を促すこと。ブリティッシュ・エアウェイズ等の事例で解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11201"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "グレート・カンパニーの経営論「制度の論理」による長期価値創造",
-      "summary": "株主価値最大化とは異なる「制度の論理」で社会目的と経済価値を両立し、長期志向経営を実践するグレート・カンパニーの経営原則を解説",
-      "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/93"
     }
