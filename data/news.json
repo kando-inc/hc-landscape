@@ -1,14 +1,46 @@
 {
-  "last_updated": "2026-04-18T23:09:40+09:00",
+  "last_updated": "2026-04-19T23:10:31+09:00",
   "total": 30,
   "articles": [
     {
       "date": "2026-04-18",
       "title": "銀行に求められる革新と協調が共存する新組織設計",
-      "summary": "厳しい競争環境で銀行が勝ち抜くには戦略と同等に組織・マネジメントに重点を置くべき。業務多様化に対応した組織進化の方途を提示。",
+      "summary": "銀行間競争で勝ち抜くには戦略と同等にマネジメント・組織設計に重点を置く必要がある。業務多様化に対応する組織進化の方途を提示。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13787"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "DeNA南場智子の人材観：採用・育成・AI時代の人材戦略",
+      "summary": "DeNA創業者が語る急成長を支える人材戦略。妥協なき採用基準、限界業務を任せる育成術、AI時代の「パターンブレイカー」の必要性。",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "AI導入で高まる従業員不安と業界別心理的障壁への対処法",
+      "summary": "企業88%がAI活用も現場導入は停滞。従業員8割が職喪失・価値低下を懸念。業界特有の心理的背景理解と居場所確保が鍵。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13592"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "AI導入変革が失敗する「初動のつまずき」回避策",
+      "summary": "AIワークフロー導入の多くが現場定着せず失敗。組織関与不足による初動つまずき6要因を特定し、変革完遂の具体手法を提示。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13535"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "急成長企業と停滞企業を分けるリーダーシップチーム運営法",
+      "summary": "世界500人調査で判明。急成長企業は優先課題の足並み一致・権限委譲・部門横断協働が高水準。サイロ化は成長を劇的に阻害。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13635"
     },
     {
       "date": "2026-04-17",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13406"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "テンポラリー人材配置による組織最適化",
-      "summary": "高報酬・やりがいある仕事を求める人材を活用し、組織変化に対応しながらモラール向上とスリム化を実現",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13746"
-    },
-    {
-      "date": "2026-04-11",
-      "title": "プロジェクト主導型組織における新たなKPI設計手法",
-      "summary": "変化の激しい環境で従来の稼働率・予算遵守KPIは機能せず。価値・スピード・整合性・チーム健全性の4軸でリアルタイム評価体系を構築する方法論を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13497"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "外部登用リーダーの早期立ち上げ成功法則",
-      "summary": "大企業の外部登用リーダーが直面するレガシー文化の壁。意思決定構造の観察・目的共有による信頼構築・戦略的問いかけによる変革推進の3段階手法。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13406"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "グレート・カンパニーの「制度の論理」経営論",
-      "summary": "株主価値最大化を超えた経営論。社会目的と経済価値を両立する長期志向企業が採用する「制度の論理」による意思決定フレームワークを解説。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/93"
     }
   ]
 }
