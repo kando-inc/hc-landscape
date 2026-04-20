@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-19T23:10:31+09:00",
+  "last_updated": "2026-04-20T23:14:28+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-20",
+      "title": "経済・政治・社会の圧力下で問われる真のリーダーシップとは",
+      "summary": "不安定な環境下でリーダーが価値観と誠実さを保つための4つのパターンと実践的示唆を提示。真正性を維持する意思決定手法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13720"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "ドラッカーに学ぶ真摯さ（インテグリティ）とリーダーシップ",
+      "summary": "没後20年を迎えるドラッカー思想から「インテグリティ」に焦点。経営におけるリーダーの真摯さの本質を日本の文脈で解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13845"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "AIを使うほど不安になる組織の矛盾",
+      "summary": "企業88%がAI活用も現場導入は停滞。従業員8割が抱く「AI不安」の実態と業界別心理的障壁への対処法を調査結果で示す。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13592"
+    },
     {
       "date": "2026-04-18",
       "title": "銀行に求められる革新と協調が共存する新組織設計",
@@ -49,14 +73,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "AIを使うほど不安になる組織の矛盾",
-      "summary": "企業88％がAI活用も現場導入は停滞。従業員約8割がAI不安を抱く実態。業界特有の心理的障壁を理解した環境構築の必要性を示す。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13592"
     },
     {
       "date": "2026-04-16",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13752"
-    },
-    {
-      "date": "2026-04-11",
-      "title": "プロジェクト主導型組織に適したKPI構築法",
-      "summary": "変革期の組織で旧来型KPIを脱却し、価値・スピード・整合性・チーム健全性を軸とした新指標体系を構築",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13497"
-    },
-    {
-      "date": "2026-04-10",
-      "title": "外部登用リーダーの早期価値創出戦略",
-      "summary": "大企業のレガシー文化で新参リーダーが成功する3つの方法：意思決定観察・目的共有・戦略的問いかけ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13406"
     }
   ]
 }
