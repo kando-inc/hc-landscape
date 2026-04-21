@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-20T23:14:28+09:00",
+  "last_updated": "2026-04-21T23:12:48+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-21",
+      "title": "DEIプログラムをすべての人に開放することの利点と代償",
+      "summary": "米国で法的リスク回避のため、特定グループ限定のDEIから全社員対象の普遍型DEIへの転換が進行。アライシップ促進と心理的安全性のバランスが課題",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13637"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "イノベーションをめぐる対立を解消する新規チームと既存部門のパートナーシップ構築",
+      "summary": "戦略的イノベーション・プログラムでイノベーションチームとコア事業部門の軋轢が成長戦略を阻害。対立解消とパートナーシップ構築の実践手法を提示",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/242"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "挫折がリーダーシップの糧となる",
+      "summary": "真のリーダーは試練を経験し状況把握力と精神的強靭性を獲得。資質だけでなく挫折体験がリーダーシップ開発に不可欠であることを実証的に分析",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12502"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "インテグリティのある組織とない組織の違いとは何か",
+      "summary": "ドラッカー没後20年の節目に「真摯さ（インテグリティ）」を再検証。顧客に選ばれる企業の要件として組織のインテグリティ構築手法を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13847"
+    },
     {
       "date": "2026-04-20",
       "title": "経済・政治・社会の圧力下で問われる真のリーダーシップとは",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/12848"
-    },
-    {
-      "date": "2026-04-13",
-      "title": "マネジャー職に不向きな人を昇進させるのはもうやめよう",
-      "summary": "ガートナー調査でマネジャーの25%が職務に後ろ向き。優秀なプレイヤーの安易な昇進がミスマッチを生む現状と適性評価手法を解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13529"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "7タイプを使いわける状況即応型マネジャー",
-      "summary": "変化する環境でリーダーが発揮すべき7つのマネジメントスタイル。状況に応じた使い分けで組織の適応力を高める手法",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13752"
-    },
-    {
-      "date": "2026-04-11",
-      "title": "旧来型のKPIが企業変革を阻害する",
-      "summary": "安定志向のKPIでは戦略進捗を正しく測定不可。価値・スピード・整合性・チーム健全性の4軸でプロジェクト主導型指標を構築",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13497"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "状況即応型マネジャーの7つのリーダーシップスタイル",
-      "summary": "幌馬車隊長の事例から学ぶ、状況に応じて7つのタイプを使い分ける実践的マネジャー育成手法を解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13752"
     }
   ]
 }
