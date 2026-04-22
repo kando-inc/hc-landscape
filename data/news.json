@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-21T23:12:48+09:00",
+  "last_updated": "2026-04-22T23:16:04+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-22",
+      "title": "部下の発達を測定し、学習を促進させる効果的なインタビューの技法──成人発達理論に学ぶ",
+      "summary": "成人発達理論に基づき、部下の意味生成構造の変容を捉えるインタビュー技法。複雑なビジネス環境でのリーダーシップ開発の新手法を紹介。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13820"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "DEIプログラムをすべての人に開放することの利点と代償 真にインクルーシブな組織文化を築くために",
+      "summary": "米国でDEIプログラムが限定型から普遍型へ転換。法的リスク回避とインクルーシブな組織文化構築の両立戦略を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13637"
+    },
     {
       "date": "2026-04-21",
       "title": "DEIプログラムをすべての人に開放することの利点と代償",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13496"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "カーター元大統領が語るリーダーの条件 \"強大な権力の適切な行使が重要\"",
-      "summary": "カーター元大統領が語るリーダーの条件として、マネジメント職には関連領域の各細部への精通が要請されると解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13768"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "部下の力を引き出すリーダーシップに必要な4つの資質",
-      "summary": "やる気を引き出すリーダーに必要な4つの資質：弱点を認める、直感を信じる、タフ・エンパシーの実践、違いを隠さない。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12848"
     }
   ]
 }
