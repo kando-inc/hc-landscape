@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-04-22T23:16:04+09:00",
+  "last_updated": "2026-04-23T23:15:31+09:00",
   "total": 30,
   "articles": [
     {
       "date": "2026-04-22",
       "title": "部下の発達を測定し、学習を促進させる効果的なインタビューの技法──成人発達理論に学ぶ",
-      "summary": "成人発達理論に基づき、部下の意味生成構造の変容を捉えるインタビュー技法。複雑なビジネス環境でのリーダーシップ開発の新手法を紹介。",
+      "summary": "成人発達理論に基づき、部下の「意味生成構造」の変容を促すインタビュー技法を解説。複雑なビジネス環境下でのリーダーシップ開発の実践手法を提示",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13820"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "競争力の処方箋「産業コモンズ」の再構築がカギ",
+      "summary": "アウトソーシングによりアメリカのハイテク産業競争力が低下。次世代技術開発を担うイノベーション人材育成の基盤「産業コモンズ」再構築の必要性を論考",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11236"
     },
     {
       "date": "2026-04-21",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13770"
-    },
-    {
-      "date": "2026-04-14",
-      "title": "AI導入で生産性向上を実現する組織変革の4つのポイント",
-      "summary": "AI導入の真価は既存組織への後づけでなく、人間向け「配線」をAIエージェント仕様に組み替えることで発揮",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13496"
     }
   ]
 }
