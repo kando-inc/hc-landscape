@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-23T23:15:31+09:00",
+  "last_updated": "2026-04-24T23:13:24+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-24",
+      "title": "従業員に求めるのはエンゲージメントではなくインテグリティ　クラシコムの経営方針「自由・平和・希望」",
+      "summary": "19期連続増収増益のクラシコムが、従来のエンゲージメント重視から真摯さ（インテグリティ）を軸とした人材マネジメントへの転換事例を紹介。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13936"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "クラシコム青木耕平社長がドラッカーから学んだリーダーシップ　「自由」にこだわる組織運営",
+      "summary": "売上84.9億円を誇るクラシコムの青木社長が実践するドラッカー流リーダーシップと、「自由」を軸とした組織文化構築の具体的手法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13928"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "部下の発達を測定し学習を促進する効果的インタビュー技法　成人発達理論の実践活用",
+      "summary": "成人発達理論に基づく部下育成手法として、意味生成構造の変容を捉えるインタビュー技法の具体的実践方法とリーダー成長への応用。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13820"
+    },
     {
       "date": "2026-04-22",
       "title": "部下の発達を測定し、学習を促進させる効果的なインタビューの技法──成人発達理論に学ぶ",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13535"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "急成長する企業と停滞する企業は、何が根本的に違うのか リーダーシップチームの関係性から探る",
-      "summary": "世界500人のリーダー調査で判明。急成長企業は優先課題の足並み、権限委譲、部門横断協働が高水準で実践",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13635"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "AI時代に欠かせない「エージェントマネジャー」の役割 成功のカギを握る新たなリーダーに必要な6つの能力",
-      "summary": "AI自律化時代の新職種「エージェントマネジャー」をセールスフォース事例で解説。人間とAI混合チーム統括に必要な6能力",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13586"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "先進のカリフォルニア・マネジメント 個人の自由を尊重しつつ組織を創造する",
-      "summary": "個人の自由を尊重しつつ組織を創造するカリフォルニア流管理術。流動的文化が秩序形成の鍵",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13770"
     }
   ]
 }
