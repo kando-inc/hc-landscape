@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-24T23:13:24+09:00",
+  "last_updated": "2026-04-25T23:11:11+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-24",
+      "title": "従業員に要求するのはエンゲージメントではなくインテグリティ",
+      "summary": "19期連続増収増益を達成するクラシコムが実践する「インテグリティ」重視の経営方針と組織開発手法",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13936"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "部下の発達を測定し学習を促進させる効果的なインタビュー技法",
+      "summary": "成人発達理論に基づく意味生成構造の変容測定。複雑なビジネス環境でのリーダーシップ開発手法",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13820"
+    },
     {
       "date": "2026-04-24",
       "title": "従業員に求めるのはエンゲージメントではなくインテグリティ　クラシコムの経営方針「自由・平和・希望」",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13586"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "IPビジネス業界の人的資本開示　ヒット作を継続創出する才能活用の仕組み",
-      "summary": "知的財産業界の構造的課題を踏まえ、一過性でない才能発揮システムの構築と人的資本開示の最適解を探る経営論",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "変革が失敗する原因「初動のつまずき」を回避する方法 停滞を打破し、現場の足並みを揃える4つの提言",
-      "summary": "AI導入など変革の初動失敗要因6つを特定。組織関与不足による現場回帰を防ぐ具体的手法を500人調査で解明",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13535"
     }
   ]
 }
