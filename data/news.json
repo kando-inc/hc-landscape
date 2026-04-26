@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-04-25T23:11:11+09:00",
+  "last_updated": "2026-04-26T23:12:49+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-04-26",
+      "title": "機能する取締役会は「対立」を歓迎する 多様性を成果に変える包摂のリーダーシップ",
+      "summary": "取締役30人調査で判明。多様性を活かすには心理的安全性と包摂的文化が必須。対立を歓迎する組織が意思決定の質を向上させる",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13644"
+    },
+    {
+      "date": "2026-04-26",
+      "title": "高度製造技術は人事政策をどう変えるか ハイテク技術の展開を支える人材開発マネジメント",
+      "summary": "オートメーション導入は技術導入以上の意味を持つ。製造業DXを支える人材開発とマネジメント変革の要点を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13846"
+    },
+    {
       "date": "2026-04-24",
       "title": "従業員に要求するのはエンゲージメントではなくインテグリティ",
-      "summary": "19期連続増収増益を達成するクラシコムが実践する「インテグリティ」重視の経営方針と組織開発手法",
+      "summary": "クラシコム19期連続増収増益の背景。エンゲージメントよりインテグリティを重視する経営方針「自由・平和・希望」の実践",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13936"
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13535"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "急成長企業のリーダーシップ：500人調査が示す成長を分かつ組織運営法",
-      "summary": "世界500人のリーダー調査で判明。急成長企業は優先課題の足並み、権限委譲、部門横断協働が高水準で実践",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13635"
-    },
-    {
-      "date": "2026-04-15",
-      "title": "AI時代の新職種「エージェントマネジャー」：人間とAI混合チーム統括術",
-      "summary": "AIエージェント自律化で必須となる新役職。セールスフォース事例でAI教育・ガバナンス・人間連携の6能力を解説",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13586"
     }
   ]
 }
