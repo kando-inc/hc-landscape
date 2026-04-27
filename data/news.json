@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-04-26T23:12:49+09:00",
+  "last_updated": "2026-04-27T23:17:19+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-04-27",
+      "title": "デジタル投資を事業成果に結びつける組織変革の4要素",
+      "summary": "AI・CRM投資で成果を得る企業は、技術導入でなく運営モデルを変革。知見・意思決定・実行・分析の4側面から組織設計を抜本改革。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13591"
+    },
+    {
       "date": "2026-04-26",
       "title": "機能する取締役会は「対立」を歓迎する 多様性を成果に変える包摂のリーダーシップ",
-      "summary": "取締役30人調査で判明。多様性を活かすには心理的安全性と包摂的文化が必須。対立を歓迎する組織が意思決定の質を向上させる",
+      "summary": "取締役30人調査で判明。多様性を成果に変えるには心理的安全性でなく「包摂的文化」構築が鍵。対立を歓迎する組織が意思決定向上。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13644"
@@ -13,7 +21,7 @@
     {
       "date": "2026-04-26",
       "title": "高度製造技術は人事政策をどう変えるか ハイテク技術の展開を支える人材開発マネジメント",
-      "summary": "オートメーション導入は技術導入以上の意味を持つ。製造業DXを支える人材開発とマネジメント変革の要点を解説",
+      "summary": "製造業のオートメーション導入は技術以上の変革が必要。高度製造技術の展開を支える人材開発マネジメントの具体的アプローチを解説。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13846"
@@ -233,14 +241,6 @@
       "cat": "policy",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "変革失敗の根因「初動のつまずき」：AI導入で現場の足並みを揃える4提言",
-      "summary": "AI活用の変革が現場で定着しない原因は組織関与不足による初動失敗。6つの要因と具体的克服手法を提示",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13535"
     }
   ]
 }
