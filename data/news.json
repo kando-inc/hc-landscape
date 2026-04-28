@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-27T23:17:19+09:00",
+  "last_updated": "2026-04-28T23:17:45+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-28",
+      "title": "批判を「学習」に変える5つの実践法：破壊的フィードバックを防ぐリーダーシップ",
+      "summary": "従業員の81%が経験する「破壊的批判」は離職を招く。ネガティブフィードバックを成長につなげる実践法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13673"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "プロジェクト主導型組織を実現する8つの要諦：サイロ破壊と意思決定加速",
+      "summary": "価値創出が業務中心からプロジェクト中心へ移行。コロナ禍で加速した変化に対応する組織設計の抜本的見直し手法。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13979"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "意思決定の前提が崩れた時のリーダー対応：シグナルギャップを防ぐ3ステップ",
+      "summary": "CEOの方針転換が現場に伝わらず財務リスク拡大する「シグナルギャップ」。組織認識を再構築する具体的手法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13672"
+    },
     {
       "date": "2026-04-27",
       "title": "デジタル投資を事業成果に結びつける組織変革の4要素",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13635"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "DeNA南場智子氏の人材戦略：AI時代の「パターンブレイカー」育成論",
-      "summary": "DeNA創業者が語る独自の採用・育成術。妥協なき採用基準と失敗を恐れない育成で組織競争力を最大化する手法を解説",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "AI導入の心理的障壁：従業員の8割が抱く「AI不安」への対処法",
-      "summary": "企業88％がAI活用も現場は停滞。従業員8割が職喪失を懸念する「AI不安」の業界別特徴と克服策を調査で解明",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13592"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "IPビジネス業界の人的資本開示：才能を持続的に発揮させる仕組み作り",
-      "summary": "知的財産業界の構造的課題を踏まえ、ヒットを一代限りにしない人的資本開示の最適解を業界特性から探る",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
     }
   ]
 }
