@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-28T23:17:45+09:00",
+  "last_updated": "2026-04-29T23:17:46+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-29",
+      "title": "複雑な環境に柔軟適応する「オクトパス組織」という選択肢",
+      "summary": "変革投資の多くが一過性に終わる中、タコのように環境変化を察知し学習・軌道修正を素早く繰り返す新組織モデルを提示。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13978"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "部下へのフィードバックが逆効果になる時とその対策",
+      "summary": "従業員81%が経験する「破壊的批判」は離職を招く組織リスク。批判を学習に変える5つの実践法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13673"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "プロジェクト主導型組織を実現する8つの要諦",
+      "summary": "価値創出が業務中心からプロジェクト中心へ移行。サイロ破壊と意思決定加速のための組織設計とリーダーシップ変革。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13979"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "意思決定前提が崩れた時にリーダーがまずやるべきこと",
+      "summary": "危機下でCEOのリスク許容度転換が現場に伝わらない「シグナルギャップ」。組織認識を再構築する3ステップ。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13672"
+    },
     {
       "date": "2026-04-28",
       "title": "批判を「学習」に変える5つの実践法：破壊的フィードバックを防ぐリーダーシップ",
@@ -206,38 +238,6 @@
       "date": "2026-04-16",
       "title": "急成長企業と停滞企業を分けるリーダーシップチーム運営法",
       "summary": "世界500人調査で判明。急成長企業は優先課題の足並み一致・権限委譲・部門横断協働が高水準。サイロ化は成長を劇的に阻害。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13635"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "南場智子氏が説く採用・育成の流儀",
-      "summary": "DeNA創業者の独自人材観。妥協なき採用基準、失敗を恐れず限界の仕事を任せる育成術、AI時代のパターンブレイカー人材の必要性を語る。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "IPビジネス業界の人的資本開示",
-      "summary": "知的財産業界における人的資本開示の最適解を探る。ヒットを一代限りにしない才能発揮の仕組み構築に向けた構造的課題の分析。",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/040700027/"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "変革が失敗する「初動のつまずき」回避法",
-      "summary": "AI活用ワークフローの多くが現場で定着せず失敗。組織の関与不足が原因。初動失敗の6要因を特定し変革完遂の具体手法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13535"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "急成長企業と停滞企業の根本的違い",
-      "summary": "世界500人以上のリーダー調査で判明。成長を分かつのはリーダーシップチーム運営方法。優先課題の足並み一致と部門横断協働が鍵。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13635"
