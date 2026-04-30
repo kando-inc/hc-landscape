@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-04-29T23:17:46+09:00",
+  "last_updated": "2026-04-30T23:17:33+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-04-30",
+      "title": "王子HD、退職一時金を全廃　資産形成制度が人材獲得の新競争軸に",
+      "summary": "王子HDが退職一時金を全廃し給与またはDCへの振替制度を導入。資産形成支援が人材獲得・定着の新たな競争軸として注目",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/043000085/"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "生成AI時代の組織・人事戦略　個別最適への転換が急務",
+      "summary": "第一三共奥澤社長、レゾナックHD今井CHROが登壇。AI時代は画一管理から個人意志と事業戦略の同期による個別最適化へ",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00584/043000084/"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "複雑な環境に柔軟適応するオクトパス組織という選択",
+      "summary": "効率性・予測可能性前提の従来組織から脱却。タコのように学習と軌道修正を素早く繰り返すオクトパス組織モデルを提示",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13978"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "部下へのフィードバックが逆効果になる時　破壊的批判を学習に変える実践法",
+      "summary": "従業員の81%が破壊的批判を経験し離職原因に。ネガティブフィードバックを建設的な学習機会に転換する5つの実践法を紹介",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13673"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "プロジェクト主導型組織を実現する8つの要諦",
+      "summary": "価値創出が業務中心からプロジェクト中心へ移行。サイロ破壊と意思決定加速に向けたリーダーシップと組織設計の抜本見直し",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13979"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "意思決定の前提が崩れた時、リーダーが最初にやるべきこと",
+      "summary": "危機下でCEOのリスク許容度転換が組織内共有されず「シグナルギャップ」発生。組織全体の認識再構築3ステップを解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13672"
+    },
     {
       "date": "2026-04-29",
       "title": "複雑な環境に柔軟適応する「オクトパス組織」という選択肢",
@@ -17,14 +65,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13673"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "プロジェクト主導型組織を実現する8つの要諦",
-      "summary": "価値創出が業務中心からプロジェクト中心へ移行。サイロ破壊と意思決定加速のための組織設計とリーダーシップ変革。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13979"
     },
     {
       "date": "2026-04-28",
@@ -201,46 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13592"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "銀行に求められる革新と協調が共存する新組織設計",
-      "summary": "銀行間競争で勝ち抜くには戦略と同等にマネジメント・組織設計に重点を置く必要がある。業務多様化に対応する組織進化の方途を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13787"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "DeNA南場智子の人材観：採用・育成・AI時代の人材戦略",
-      "summary": "DeNA創業者が語る急成長を支える人材戦略。妥協なき採用基準、限界業務を任せる育成術、AI時代の「パターンブレイカー」の必要性。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00081/033100931/"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "AI導入で高まる従業員不安と業界別心理的障壁への対処法",
-      "summary": "企業88%がAI活用も現場導入は停滞。従業員8割が職喪失・価値低下を懸念。業界特有の心理的背景理解と居場所確保が鍵。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13592"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "AI導入変革が失敗する「初動のつまずき」回避策",
-      "summary": "AIワークフロー導入の多くが現場定着せず失敗。組織関与不足による初動つまずき6要因を特定し、変革完遂の具体手法を提示。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13535"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "急成長企業と停滞企業を分けるリーダーシップチーム運営法",
-      "summary": "世界500人調査で判明。急成長企業は優先課題の足並み一致・権限委譲・部門横断協働が高水準。サイロ化は成長を劇的に阻害。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13635"
     }
   ]
 }
