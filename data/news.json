@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-30T23:17:33+09:00",
+  "last_updated": "2026-05-01T23:16:27+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-01",
+      "title": "Cスイート昇進のための5つの準備：採用エキスパートの評価ポイント",
+      "summary": "取締役会やCEOに加え、プロのリクルーターや人材アセスメント企業が重視するCスイート候補者の評価基準と準備すべき要素を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13974"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
+      "summary": "細かい関与や即効性への思い込みなど、リーダー自身の「見えない壁」がパフォーマンスを妨げる要因とその克服法を提示",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13976"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "王子HD、退職一時金を全廃：資産形成制度が人材獲得の新競争軸に",
+      "summary": "王子HDが退職一時金全廃し給与またはDC振替制度を導入。資産形成支援が人材獲得・定着の新たな競争軸になる動向を分析",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/043000085/"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "複雑な環境に柔軟適応するオクトパス組織という選択",
+      "summary": "効率性重視の従来組織に代わり、タコのように学習と軌道修正を素早く繰り返す「オクトパス組織」モデルを新提案",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13978"
+    },
     {
       "date": "2026-04-30",
       "title": "王子HD、退職一時金を全廃　資産形成制度が人材獲得の新競争軸に",
@@ -17,14 +49,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00584/043000084/"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "複雑な環境に柔軟適応するオクトパス組織という選択",
-      "summary": "効率性・予測可能性前提の従来組織から脱却。タコのように学習と軌道修正を素早く繰り返すオクトパス組織モデルを提示",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13978"
     },
     {
       "date": "2026-04-28",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13847"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "経済・政治・社会の圧力下で問われる真のリーダーシップとは",
-      "summary": "不安定な環境下でリーダーが価値観と誠実さを保つための4つのパターンと実践的示唆を提示。真正性を維持する意思決定手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13720"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "ドラッカーに学ぶ真摯さ（インテグリティ）とリーダーシップ",
-      "summary": "没後20年を迎えるドラッカー思想から「インテグリティ」に焦点。経営におけるリーダーの真摯さの本質を日本の文脈で解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13845"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "AIを使うほど不安になる組織の矛盾",
-      "summary": "企業88%がAI活用も現場導入は停滞。従業員8割が抱く「AI不安」の実態と業界別心理的障壁への対処法を調査結果で示す。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13592"
     }
   ]
 }
