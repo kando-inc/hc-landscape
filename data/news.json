@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-05-01T23:16:27+09:00",
+  "last_updated": "2026-05-02T23:14:13+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-05-02",
+      "title": "優秀な人材が定着する会社は何が違うのか なぜ賃上げしても辞めるのか",
+      "summary": "シンガポール1500社100万人のデータ分析から、人材定着企業は採用・報酬・昇進・定着が統合システムとして機能していることが判明",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13404"
+    },
+    {
       "date": "2026-05-01",
-      "title": "Cスイート昇進のための5つの準備：採用エキスパートの評価ポイント",
-      "summary": "取締役会やCEOに加え、プロのリクルーターや人材アセスメント企業が重視するCスイート候補者の評価基準と準備すべき要素を解説",
+      "title": "Cスイートに選ばれるための5つの準備 採用のエキスパートはどこを見ているのか",
+      "summary": "経営幹部登用でデータドリブンな人材アセスメントが主流化。プロリクルーターから高評価を得る次世代経営人材の準備要件を解説",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13974"
@@ -13,10 +21,34 @@
     {
       "date": "2026-05-01",
       "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
-      "summary": "細かい関与や即効性への思い込みなど、リーダー自身の「見えない壁」がパフォーマンスを妨げる要因とその克服法を提示",
+      "summary": "リーダーの成長阻害要因は外部環境でなく内面の思い込み。個人変革が組織パフォーマンス向上に直結する7つの壁と克服法",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13976"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "王子HD、退職一時金を全廃　資産形成制度が人材獲得の新たな競争軸に",
+      "summary": "王子HDが退職一時金全廃し給与・DC選択制導入。給与水準競争から資産形成支援へ、人材獲得戦略のパラダイムシフト",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/043000085/"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "複雑な環境に柔軟に適応するオクトパス組織という選択",
+      "summary": "変革投資の多くが失敗する中、効率性前提の組織形態を脱却。タコのように学習と軌道修正を繰り返すオクトパス組織モデル",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13978"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Cスイート昇進のための5つの準備：採用エキスパートの評価ポイント",
+      "summary": "取締役会やCEOに加え、プロのリクルーターや人材アセスメント企業が重視するCスイート候補者の評価基準と準備すべき要素を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13974"
     },
     {
       "date": "2026-04-30",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13637"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "DEIプログラムをすべての人に開放することの利点と代償",
-      "summary": "米国で法的リスク回避のため、特定グループ限定のDEIから全社員対象の普遍型DEIへの転換が進行。アライシップ促進と心理的安全性のバランスが課題",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13637"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "イノベーションをめぐる対立を解消する新規チームと既存部門のパートナーシップ構築",
-      "summary": "戦略的イノベーション・プログラムでイノベーションチームとコア事業部門の軋轢が成長戦略を阻害。対立解消とパートナーシップ構築の実践手法を提示",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/242"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "挫折がリーダーシップの糧となる",
-      "summary": "真のリーダーは試練を経験し状況把握力と精神的強靭性を獲得。資質だけでなく挫折体験がリーダーシップ開発に不可欠であることを実証的に分析",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12502"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "インテグリティのある組織とない組織の違いとは何か",
-      "summary": "ドラッカー没後20年の節目に「真摯さ（インテグリティ）」を再検証。顧客に選ばれる企業の要件として組織のインテグリティ構築手法を解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13847"
     }
   ]
 }
