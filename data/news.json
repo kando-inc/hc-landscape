@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-02T23:14:13+09:00",
+  "last_updated": "2026-05-03T23:14:07+09:00",
   "total": 30,
   "articles": [
     {
       "date": "2026-05-02",
       "title": "優秀な人材が定着する会社は何が違うのか なぜ賃上げしても辞めるのか",
-      "summary": "シンガポール1500社100万人のデータ分析から、人材定着企業は採用・報酬・昇進・定着が統合システムとして機能していることが判明",
+      "summary": "100万人規模データ分析で判明。人材定着は個別施策でなく採用・報酬・昇進・定着の統合システムが鍵。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13404"
@@ -13,7 +13,7 @@
     {
       "date": "2026-05-01",
       "title": "Cスイートに選ばれるための5つの準備 採用のエキスパートはどこを見ているのか",
-      "summary": "経営幹部登用でデータドリブンな人材アセスメントが主流化。プロリクルーターから高評価を得る次世代経営人材の準備要件を解説",
+      "summary": "取締役会がプロリクルーター活用増。データドリブンな経営幹部選考で高評価を得る準備法を解説。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13974"
@@ -21,10 +21,18 @@
     {
       "date": "2026-05-01",
       "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
-      "summary": "リーダーの成長阻害要因は外部環境でなく内面の思い込み。個人変革が組織パフォーマンス向上に直結する7つの壁と克服法",
+      "summary": "組織の問題はリーダー自身の思い込みが最大要因。細かい関与や即結果志向が見えない壁を生成。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13976"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "複雑な環境に柔軟に適応するオクトパス組織という選択",
+      "summary": "効率重視の従来組織から脱却。タコのように学習と軌道修正を素早く繰り返す新組織モデル提示。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13978"
     },
     {
       "date": "2026-04-30",
@@ -33,14 +41,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/043000085/"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "複雑な環境に柔軟に適応するオクトパス組織という選択",
-      "summary": "変革投資の多くが失敗する中、効率性前提の組織形態を脱却。タコのように学習と軌道修正を繰り返すオクトパス組織モデル",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13978"
     },
     {
       "date": "2026-05-01",
