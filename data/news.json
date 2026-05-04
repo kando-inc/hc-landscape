@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-03T23:14:07+09:00",
+  "last_updated": "2026-05-04T23:17:02+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-02",
+      "title": "優秀な人材が定着する会社の統合的人材システム設計",
+      "summary": "シンガポール1500社100万人のデータ分析で判明。採用・報酬・昇進・定着が相互補完する企業ほど高定着率を実現。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13404"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "C-suite昇進のための5つの準備 - エグゼクティブサーチの視点",
+      "summary": "取締役会やCEO、プロリクルーター評価を得るための準備。データドリブンな人事決定が増加する中での対応策。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13974"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
+      "summary": "細かい関与、即座の結果要求等の思い込みが見えない壁に。リーダー自身の変化が組織の前向きな変化を促進。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13976"
+    },
     {
       "date": "2026-05-02",
       "title": "優秀な人材が定着する会社は何が違うのか なぜ賃上げしても辞めるのか",
@@ -17,14 +41,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13974"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
-      "summary": "組織の問題はリーダー自身の思い込みが最大要因。細かい関与や即結果志向が見えない壁を生成。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13976"
     },
     {
       "date": "2026-04-29",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13820"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "競争力の処方箋「産業コモンズ」の再構築がカギ",
-      "summary": "アウトソーシングによりアメリカのハイテク産業競争力が低下。次世代技術開発を担うイノベーション人材育成の基盤「産業コモンズ」再構築の必要性を論考",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11236"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "DEIプログラムをすべての人に開放することの利点と代償 真にインクルーシブな組織文化を築くために",
-      "summary": "米国でDEIプログラムが限定型から普遍型へ転換。法的リスク回避とインクルーシブな組織文化構築の両立戦略を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13637"
     }
   ]
 }
