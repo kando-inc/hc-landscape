@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-04T23:17:02+09:00",
+  "last_updated": "2026-05-05T23:17:38+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-05",
+      "title": "組織の階層構造による軋轢を解消するマネジメント手法",
+      "summary": "管理者が部下の感情表明を適切に読み取り、信頼関係構築によって組織内軋轢を解消する実践的アプローチを解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13886"
+    },
+    {
+      "date": "2026-05-02",
+      "title": "優秀人材の定着を実現する統合的人材マネジメントシステム",
+      "summary": "シンガポール1500社100万人のデータ分析から、採用・報酬・昇進・定着が連動する企業の高定着率実現要因を解明。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13404"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "次世代経営幹部選抜における評価基準と準備戦略",
+      "summary": "Cスイート昇進に向けて、データドリブン人材アセスメントで高評価を得るための具体的準備方法を専門家が解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13974"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "組織特性に応じたAI戦略策定の4象限フレームワーク",
+      "summary": "バリューチェーン支配力とテクノロジー範囲の2軸で自社AI戦略を最適化する評価手法を提示、投資効果を最大化。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13975"
+    },
     {
       "date": "2026-05-02",
       "title": "優秀な人材が定着する会社の統合的人材システム設計",
@@ -206,38 +238,6 @@
       "date": "2026-04-22",
       "title": "部下の発達を測定し学習を促進させる効果的なインタビュー技法",
       "summary": "成人発達理論に基づく意味生成構造の変容測定。複雑なビジネス環境でのリーダーシップ開発手法",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13820"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "従業員に求めるのはエンゲージメントではなくインテグリティ　クラシコムの経営方針「自由・平和・希望」",
-      "summary": "19期連続増収増益のクラシコムが、従来のエンゲージメント重視から真摯さ（インテグリティ）を軸とした人材マネジメントへの転換事例を紹介。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13936"
-    },
-    {
-      "date": "2026-04-23",
-      "title": "クラシコム青木耕平社長がドラッカーから学んだリーダーシップ　「自由」にこだわる組織運営",
-      "summary": "売上84.9億円を誇るクラシコムの青木社長が実践するドラッカー流リーダーシップと、「自由」を軸とした組織文化構築の具体的手法。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13928"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "部下の発達を測定し学習を促進する効果的インタビュー技法　成人発達理論の実践活用",
-      "summary": "成人発達理論に基づく部下育成手法として、意味生成構造の変容を捉えるインタビュー技法の具体的実践方法とリーダー成長への応用。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13820"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "部下の発達を測定し、学習を促進させる効果的なインタビューの技法──成人発達理論に学ぶ",
-      "summary": "成人発達理論に基づき、部下の「意味生成構造」の変容を促すインタビュー技法を解説。複雑なビジネス環境下でのリーダーシップ開発の実践手法を提示",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13820"
