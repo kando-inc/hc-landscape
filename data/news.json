@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-05T23:17:38+09:00",
+  "last_updated": "2026-05-06T23:16:04+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-06",
+      "title": "日本企業はいまこそ「人本主義」に立ち返るべし - 仕事の場で人が育つマネジメントの実践",
+      "summary": "一橋大学伊丹名誉教授が指摘。35年の低迷原因は米国型株主主権経営への傾斜で「人が育つ場」への投資が失われたこと。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13973"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "NTT澤田社長インタビュー - 30万人組織の慣性を乗り越えるリーダーシップ変革",
+      "summary": "30万人超のNTTグループで澤田社長が推進する組織再編。巨大組織の現状維持慣性を打破し競争力強化を図る経営手法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13980"
+    },
     {
       "date": "2026-05-05",
       "title": "組織の階層構造による軋轢を解消するマネジメント手法",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13846"
-    },
-    {
-      "date": "2026-04-24",
-      "title": "従業員に要求するのはエンゲージメントではなくインテグリティ",
-      "summary": "クラシコム19期連続増収増益の背景。エンゲージメントよりインテグリティを重視する経営方針「自由・平和・希望」の実践",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13936"
-    },
-    {
-      "date": "2026-04-22",
-      "title": "部下の発達を測定し学習を促進させる効果的なインタビュー技法",
-      "summary": "成人発達理論に基づく意味生成構造の変容測定。複雑なビジネス環境でのリーダーシップ開発手法",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13820"
     }
   ]
 }
