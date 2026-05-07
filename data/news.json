@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-06T23:16:04+09:00",
+  "last_updated": "2026-05-07T23:17:57+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-07",
+      "title": "「よい人」であることがリーダーシップを損なう理由",
+      "summary": "多くのリーダーが厳しい対話や意思決定を避けるため組織パフォーマンスが低下。真に優れたリーダーに必要な考え方と実践法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13365"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "フォーチュン500から選抜した偉大な企業11社に共通するレベル5リーダーシップ",
+      "summary": "1435社の実証研究で判明した、並みの企業を偉大な企業へ変革し好業績を維持するリーダーシップの成功要素を分析。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12834"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "日本企業はいまこそ「人本主義」に立ち返るべき理由",
+      "summary": "バブル崩壊後35年の低迷原因は株主主権経営への傾斜。一橋大・伊丹名誉教授が「人が育つ場」への投資回帰を提言。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13973"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "NTT澤田社長が語る30万人組織の慣性を乗り越える変革戦略",
+      "summary": "グループ30万人超のNTTで現状維持慣性を打破。澤田社長が強力なリーダーシップで組織再編を断行した変革手法を解説。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13980"
+    },
     {
       "date": "2026-05-06",
       "title": "日本企業はいまこそ「人本主義」に立ち返るべし - 仕事の場で人が育つマネジメントの実践",
@@ -209,38 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13979"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "意思決定の前提が崩れた時のリーダー対応：シグナルギャップを防ぐ3ステップ",
-      "summary": "CEOの方針転換が現場に伝わらず財務リスク拡大する「シグナルギャップ」。組織認識を再構築する具体的手法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13672"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "デジタル投資を事業成果に結びつける組織変革の4要素",
-      "summary": "AI・CRM投資で成果を得る企業は、技術導入でなく運営モデルを変革。知見・意思決定・実行・分析の4側面から組織設計を抜本改革。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13591"
-    },
-    {
-      "date": "2026-04-26",
-      "title": "機能する取締役会は「対立」を歓迎する 多様性を成果に変える包摂のリーダーシップ",
-      "summary": "取締役30人調査で判明。多様性を成果に変えるには心理的安全性でなく「包摂的文化」構築が鍵。対立を歓迎する組織が意思決定向上。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13644"
-    },
-    {
-      "date": "2026-04-26",
-      "title": "高度製造技術は人事政策をどう変えるか ハイテク技術の展開を支える人材開発マネジメント",
-      "summary": "製造業のオートメーション導入は技術以上の変革が必要。高度製造技術の展開を支える人材開発マネジメントの具体的アプローチを解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13846"
     }
   ]
 }
