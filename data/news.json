@@ -1,14 +1,30 @@
 {
-  "last_updated": "2026-05-07T23:17:57+09:00",
+  "last_updated": "2026-05-08T23:18:03+09:00",
   "total": 30,
   "articles": [
     {
       "date": "2026-05-07",
       "title": "「よい人」であることがリーダーシップを損なう理由",
-      "summary": "多くのリーダーが厳しい対話や意思決定を避けるため組織パフォーマンスが低下。真に優れたリーダーに必要な考え方と実践法を解説。",
+      "summary": "多くのリーダーは「よい人」重視で厳しい対話を避け組織パフォーマンスを損なう。真に優れたリーダーに必要な「よいこと」の考え方と実践を解説。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13365"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "レベル5リーダーシップ：偉大な企業11社に共通する成功要素",
+      "summary": "フォーチュン500の1435社から選抜した偉大な企業11社を実証研究。並みの企業を偉大な企業へ変革する従来論を覆すリーダーシップ要因を解明。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12834"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "日本企業はいまこそ「人本主義」に立ち返るべし",
+      "summary": "35年の低迷原因は株主主権経営への傾斜で「人が育つ場」への投資喪失。一橋大伊丹名誉教授が人と人のつながりを組織編成原理とする経営回帰を提言。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13973"
     },
     {
       "date": "2026-05-07",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13672"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "批判を「学習」に変える5つの実践法：破壊的フィードバックを防ぐリーダーシップ",
-      "summary": "従業員の81%が経験する「破壊的批判」は離職を招く。ネガティブフィードバックを成長につなげる実践法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13673"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "プロジェクト主導型組織を実現する8つの要諦：サイロ破壊と意思決定加速",
-      "summary": "価値創出が業務中心からプロジェクト中心へ移行。コロナ禍で加速した変化に対応する組織設計の抜本的見直し手法。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13979"
     }
   ]
 }
