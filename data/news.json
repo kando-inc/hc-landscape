@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-08T23:18:03+09:00",
+  "last_updated": "2026-05-09T23:15:40+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-09",
+      "title": "ハネウエル事例：参画型マネジメントによる管理者選抜の実践と課題",
+      "summary": "ハネウエル社の管理者選抜プロセスを分析。参画型マネジメントがリーダー育成に与える効果と限界を実証的に検証。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13895"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "リーダーシップの本質：「よい人」から「よいこと」への転換",
+      "summary": "優れたリーダーは人間関係重視より組織成果を優先する。厳しい意思決定を避けがちな経営層への実践的提言。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13365"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "レベル5リーダーシップ：フォーチュン500から見えた偉大な経営者の条件",
+      "summary": "1435社の実証研究から導出された真のリーダーシップ要件。従来の経営者像を覆す偉大な企業への変革要因を解明。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12834"
+    },
     {
       "date": "2026-05-07",
       "title": "「よい人」であることがリーダーシップを損なう理由",
@@ -214,30 +238,6 @@
       "date": "2026-04-28",
       "title": "意思決定の前提が崩れた時、リーダーが最初にやるべきこと",
       "summary": "危機下でCEOのリスク許容度転換が組織内共有されず「シグナルギャップ」発生。組織全体の認識再構築3ステップを解説",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13672"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "複雑な環境に柔軟適応する「オクトパス組織」という選択肢",
-      "summary": "変革投資の多くが一過性に終わる中、タコのように環境変化を察知し学習・軌道修正を素早く繰り返す新組織モデルを提示。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13978"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "部下へのフィードバックが逆効果になる時とその対策",
-      "summary": "従業員81%が経験する「破壊的批判」は離職を招く組織リスク。批判を学習に変える5つの実践法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13673"
-    },
-    {
-      "date": "2026-04-28",
-      "title": "意思決定前提が崩れた時にリーダーがまずやるべきこと",
-      "summary": "危機下でCEOのリスク許容度転換が現場に伝わらない「シグナルギャップ」。組織認識を再構築する3ステップ。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13672"
