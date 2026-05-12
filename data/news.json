@@ -1,7 +1,55 @@
 {
-  "last_updated": "2026-05-11T23:18:25+09:00",
+  "last_updated": "2026-05-12T23:21:43+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-12",
+      "title": "「もっと働きたい」3％未満　リカバリー軽視とワークエンゲージメント低下の実態",
+      "summary": "働く時間延長より心身回復が重要。リカバリー経験ができる人ほどワークエンゲージメントが高いことが判明。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/seminar/19/00118/00407/"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "50代・年収2000万円で争奪戦　レガシーシステムを支える「いぶし銀エンジニア」",
+      "summary": "平均57歳・年収1000万円超で即決採用。消えるはずのレガシーシステム人材が年収2000万円の争奪戦に。",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/050800089/"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "「制御不能な変化」に対応するリーダーシップ　日常化と適応力強化がカギ",
+      "summary": "予測不能で終わりなき変化に個別対応は限界。変化を日常業務として扱うアプローチでリーダーシップ変革を。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13410"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "生成AIが労働市場に与える非対称な影響　最新データで分析する職種別インパクト",
+      "summary": "反復業務職種は求人13％減、創造性重視職種は20％増。AIによる自動化と拡張の職種別影響を分析。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13678"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "変革リーダーへの進化　リーダーシップの7類型と行動論理",
+      "summary": "25年間の調査で行動論理を7分類。パフォーマンス差の原因は内なる行動論理でコーチングで向上可能。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11935"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "AI時代の競争優位は組織固有コンテクスト　業務暗黙知のデータ化4要点",
+      "summary": "同じAIモデル時代の差別化は組織固有コンテクスト。現場暗黙知をデータ化するエンジニアリングが必須。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13589"
+    },
     {
       "date": "2026-05-11",
       "title": "AI時代の競争優位は組織固有のコンテクスト　業務の暗黙知をデータ化する4要点",
@@ -193,54 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13404"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "C-suite昇進のための5つの準備 - エグゼクティブサーチの視点",
-      "summary": "取締役会やCEO、プロリクルーター評価を得るための準備。データドリブンな人事決定が増加する中での対応策。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13974"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "リーダーの思い込みが生む7つの壁を乗り越える方法",
-      "summary": "細かい関与、即座の結果要求等の思い込みが見えない壁に。リーダー自身の変化が組織の前向きな変化を促進。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13976"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "優秀な人材が定着する会社は何が違うのか なぜ賃上げしても辞めるのか",
-      "summary": "100万人規模データ分析で判明。人材定着は個別施策でなく採用・報酬・昇進・定着の統合システムが鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13404"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "Cスイートに選ばれるための5つの準備 採用のエキスパートはどこを見ているのか",
-      "summary": "取締役会がプロリクルーター活用増。データドリブンな経営幹部選考で高評価を得る準備法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13974"
-    },
-    {
-      "date": "2026-04-29",
-      "title": "複雑な環境に柔軟に適応するオクトパス組織という選択",
-      "summary": "効率重視の従来組織から脱却。タコのように学習と軌道修正を素早く繰り返す新組織モデル提示。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13978"
-    },
-    {
-      "date": "2026-04-30",
-      "title": "王子HD、退職一時金を全廃　資産形成制度が人材獲得の新たな競争軸に",
-      "summary": "王子HDが退職一時金全廃し給与・DC選択制導入。給与水準競争から資産形成支援へ、人材獲得戦略のパラダイムシフト",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/043000085/"
     }
   ]
 }
