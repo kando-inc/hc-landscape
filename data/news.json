@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-12T23:21:43+09:00",
+  "last_updated": "2026-05-13T23:23:27+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-13",
+      "title": "ミドルシニアを再起動する「集団的効力感」経営の実践法",
+      "summary": "日本総研調査で判明。ミドルシニア層の活性化には個人とチーム双方を変える「集団的効力感」が有効。組織変革の3つのツボを解説。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/051100010/"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "低成長脱却へ問われる人的資本投資の実行力",
+      "summary": "政府産業政策下で民間投資実行力が焦点。株主還元突出の中、設備投資・人的資本投資増加が付加価値創造の鍵となる現状を検証。",
+      "cat": "policy",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00873/050100008/"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "リカバリー軽視が招くエンゲージメント低下の真実",
+      "summary": "「もっと働きたい」わずか3％。仕事からの心身回復「リカバリー経験」がワークエンゲージメント向上の決定要因と研究で確認。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/seminar/19/00118/00407/"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "制御不能な変化に対応する次世代リーダーシップ論",
+      "summary": "予測不能で相互依存的な「制御不能な変化」時代に、従来の変革手法は限界。変化を日常業務化するリーダーシップ適応力が必須。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13410"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "生成AIが労働市場に与える非対称な影響を最新データで解析",
+      "summary": "構造化反復業務の求人13％減、分析・創造性職種は20％増。ハーバード研究がAI「自動化」vs「拡張」の職種別影響を定量分析。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13678"
+    },
     {
       "date": "2026-05-12",
       "title": "「もっと働きたい」3％未満　リカバリー軽視とワークエンゲージメント低下の実態",
@@ -201,46 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13980"
-    },
-    {
-      "date": "2026-05-05",
-      "title": "組織の階層構造による軋轢を解消するマネジメント手法",
-      "summary": "管理者が部下の感情表明を適切に読み取り、信頼関係構築によって組織内軋轢を解消する実践的アプローチを解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13886"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "優秀人材の定着を実現する統合的人材マネジメントシステム",
-      "summary": "シンガポール1500社100万人のデータ分析から、採用・報酬・昇進・定着が連動する企業の高定着率実現要因を解明。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13404"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "次世代経営幹部選抜における評価基準と準備戦略",
-      "summary": "Cスイート昇進に向けて、データドリブン人材アセスメントで高評価を得るための具体的準備方法を専門家が解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13974"
-    },
-    {
-      "date": "2026-05-01",
-      "title": "組織特性に応じたAI戦略策定の4象限フレームワーク",
-      "summary": "バリューチェーン支配力とテクノロジー範囲の2軸で自社AI戦略を最適化する評価手法を提示、投資効果を最大化。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13975"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "優秀な人材が定着する会社の統合的人材システム設計",
-      "summary": "シンガポール1500社100万人のデータ分析で判明。採用・報酬・昇進・定着が相互補完する企業ほど高定着率を実現。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13404"
     }
   ]
 }
