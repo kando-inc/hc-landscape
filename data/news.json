@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-13T23:23:27+09:00",
+  "last_updated": "2026-05-14T23:17:34+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-14",
+      "title": "業績を停滞させるリーダーがアラインメントで犯す3つの過ち",
+      "summary": "戦略的アラインメントに自信を持つリーダーは7人に1人。組織の分断を防ぎ戦略実行を確実にする実践的アプローチを解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13408"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "制御不能な変化に対応するリーダーシップ",
+      "summary": "量・速度・予測不能性が増した現代の変化環境で、変化を日常業務として扱う新たなリーダーシップアプローチを提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13410"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "生成AIに奪われる仕事、補強される仕事を最新データで分析",
+      "summary": "構造化業務の求人13％減、創造性職種20％増。AIの自動化・拡張が各職種に与える影響と人材育成指針を解説。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13678"
+    },
     {
       "date": "2026-05-13",
       "title": "ミドルシニアを再起動する「集団的効力感」経営の実践法",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13973"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "NTT澤田社長が語る30万人組織の慣性を乗り越える変革戦略",
-      "summary": "グループ30万人超のNTTで現状維持慣性を打破。澤田社長が強力なリーダーシップで組織再編を断行した変革手法を解説。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13980"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "日本企業はいまこそ「人本主義」に立ち返るべし - 仕事の場で人が育つマネジメントの実践",
-      "summary": "一橋大学伊丹名誉教授が指摘。35年の低迷原因は米国型株主主権経営への傾斜で「人が育つ場」への投資が失われたこと。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13973"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "NTT澤田社長インタビュー - 30万人組織の慣性を乗り越えるリーダーシップ変革",
-      "summary": "30万人超のNTTグループで澤田社長が推進する組織再編。巨大組織の現状維持慣性を打破し競争力強化を図る経営手法。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13980"
     }
   ]
 }
