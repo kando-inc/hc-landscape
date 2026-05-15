@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-14T23:17:34+09:00",
+  "last_updated": "2026-05-15T23:18:14+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-15",
+      "title": "戦略と実行のバトンパスを阻む3つの要因と解決策",
+      "summary": "戦略立案者と実行者の認識齟齬が組織の業績を阻害。リーダーが自社アラインメントに自信を持つのは7人に1人。心理的安全性確保が鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13465"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "業績停滞リーダーがアラインメントで犯す3つの過ち",
+      "summary": "戦略的アラインメントの重要性は認識されるも、ミスアラインメントが頻発。組織をバリューチェーンとして捉える実践的アプローチを提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13408"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "ビジネスモデル・イノベーションの開発原則",
+      "summary": "製品革新よりビジネスモデル革新が重要。Apple iPod、タタ・ナノ等の事例から、ゲームルールを変える新モデル開発手法を解説。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11387"
+    },
     {
       "date": "2026-05-14",
       "title": "業績を停滞させるリーダーがアラインメントで犯す3つの過ち",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/12834"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "日本企業はいまこそ「人本主義」に立ち返るべし",
-      "summary": "35年の低迷原因は株主主権経営への傾斜で「人が育つ場」への投資喪失。一橋大伊丹名誉教授が人と人のつながりを組織編成原理とする経営回帰を提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13973"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "フォーチュン500から選抜した偉大な企業11社に共通するレベル5リーダーシップ",
-      "summary": "1435社の実証研究で判明した、並みの企業を偉大な企業へ変革し好業績を維持するリーダーシップの成功要素を分析。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12834"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "日本企業はいまこそ「人本主義」に立ち返るべき理由",
-      "summary": "バブル崩壊後35年の低迷原因は株主主権経営への傾斜。一橋大・伊丹名誉教授が「人が育つ場」への投資回帰を提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13973"
     }
   ]
 }
