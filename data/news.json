@@ -1,11 +1,19 @@
 {
-  "last_updated": "2026-05-15T23:18:14+09:00",
+  "last_updated": "2026-05-16T23:16:41+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-05-16",
+      "title": "「人間らしいホスピタリティ」が競争優位性になる時代のパーパス組織づくり",
+      "summary": "AI普及で効率化が進む中、デジタル代替不可能な人間らしさが競争優位に。リッツ・カールトン事例でパーパス基盤組織の構築法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13492"
+    },
+    {
       "date": "2026-05-15",
-      "title": "戦略と実行のバトンパスを阻む3つの要因と解決策",
-      "summary": "戦略立案者と実行者の認識齟齬が組織の業績を阻害。リーダーが自社アラインメントに自信を持つのは7人に1人。心理的安全性確保が鍵。",
+      "title": "優れた戦略が実行されない理由：現場のバトンパスを阻む3つの要因",
+      "summary": "戦略立案者と実行者の認識齟齬が組織課題に。バトンパス成功には既存システム再構築と心理的安全性確保が不可欠と提言。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13465"
@@ -13,10 +21,26 @@
     {
       "date": "2026-05-14",
       "title": "業績停滞リーダーがアラインメントで犯す3つの過ち",
-      "summary": "戦略的アラインメントの重要性は認識されるも、ミスアラインメントが頻発。組織をバリューチェーンとして捉える実践的アプローチを提示。",
+      "summary": "自社アラインメントに自信を持つリーダーは7人に1人。戦略的アラインメント失敗の3つの過ちと組織分断防止の実践手法を紹介。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13408"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "ビジネスモデル・イノベーションの原則：根本的変革の要否判断",
+      "summary": "製品革新よりビジネスモデル革新が重要に。アップルiPod、タタ・ナノ等事例でゲームチェンジングなモデル開発手法を解説。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11387"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "戦略と実行のバトンパスを阻む3つの要因と解決策",
+      "summary": "戦略立案者と実行者の認識齟齬が組織の業績を阻害。リーダーが自社アラインメントに自信を持つのは7人に1人。心理的安全性確保が鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13465"
     },
     {
       "date": "2026-05-13",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13365"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "レベル5リーダーシップ：フォーチュン500から見えた偉大な経営者の条件",
-      "summary": "1435社の実証研究から導出された真のリーダーシップ要件。従来の経営者像を覆す偉大な企業への変革要因を解明。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12834"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "「よい人」であることがリーダーシップを損なう理由",
-      "summary": "多くのリーダーは「よい人」重視で厳しい対話を避け組織パフォーマンスを損なう。真に優れたリーダーに必要な「よいこと」の考え方と実践を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13365"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "レベル5リーダーシップ：偉大な企業11社に共通する成功要素",
-      "summary": "フォーチュン500の1435社から選抜した偉大な企業11社を実証研究。並みの企業を偉大な企業へ変革する従来論を覆すリーダーシップ要因を解明。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12834"
     }
   ]
 }
