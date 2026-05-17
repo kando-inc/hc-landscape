@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-16T23:16:41+09:00",
+  "last_updated": "2026-05-17T23:17:17+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-17",
+      "title": "他部門のスター人材を引き抜く戦略的アプローチ",
+      "summary": "優秀人材の部門間異動で組織摩擦を避け、個人のキャリア開発と組織利益を両立する透明性の高いプロセス設計手法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13528"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "リッツ・カールトンに学ぶパーパス基盤の組織づくり",
+      "summary": "AI時代の競争優位性は「人間らしいホスピタリティ」。従業員の尊厳とパーパスを基盤とした組織文化の浸透戦略を紹介。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13492"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "戦略と実行の断絶を解消する組織設計",
+      "summary": "優秀な戦略と人材を揃えても実行に移らない3つの要因を分析。立案者と実行者の認識ギャップを埋める具体的手法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13465"
+    },
     {
       "date": "2026-05-16",
       "title": "「人間らしいホスピタリティ」が競争優位性になる時代のパーパス組織づくり",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13895"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "「よい人」志向がリーダーシップを破綻させる理由",
-      "summary": "多くのリーダーが「よい人」を重視し厳しい判断を回避、組織パフォーマンスが低下。「よいこと」重視への転換論。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13365"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "ハネウエル事例：参画型マネジメントによる管理者選抜の実践と課題",
-      "summary": "ハネウエル社の管理者選抜プロセスを分析。参画型マネジメントがリーダー育成に与える効果と限界を実証的に検証。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13895"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "リーダーシップの本質：「よい人」から「よいこと」への転換",
-      "summary": "優れたリーダーは人間関係重視より組織成果を優先する。厳しい意思決定を避けがちな経営層への実践的提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13365"
     }
   ]
 }
