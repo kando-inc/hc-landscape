@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-17T23:17:17+09:00",
+  "last_updated": "2026-05-18T23:22:36+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-18",
+      "title": "シニアリーダーが上司・同僚を味方に変える戦略的アプローチ",
+      "summary": "根拠ある提案でも支持は自動的に得られない。シニアリーダーは自己評価修正、ステークホルダー分析、協力体制構築で組織を動かす力が必要。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13789"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "AI脳疲労がもたらす代償と克服法",
+      "summary": "AIツール管理・監督負荷により労働者が急性認知疲労に陥り、決断力低下やミス増加、優秀人材離職という深刻な代償が発生。対処法を解説。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13727"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "他部門スター人材の上手な引き抜き戦略",
+      "summary": "優秀人材の部門間異動では組織摩擦リスクが発生。個人キャリア開発視点、相手部門への敬意、透明性高いプロセスで全員納得の異動を実現。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13528"
+    },
     {
       "date": "2026-05-17",
       "title": "他部門のスター人材を引き抜く戦略的アプローチ",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13719"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "AI全社展開を阻む「ラストマイル問題」解決の7戦略",
-      "summary": "AI導入企業の多くがパイロット段階で停滞。全社変革には技術より組織設計・ガバナンス改革が鍵。7つの実践指針を提示。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13725"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "生成AI時代の「偽専門家」を見抜くリーダーシップ論",
-      "summary": "生成AI普及で空虚な「思考リーダー」が急増。真のリーダーには現場での実験・失敗を通じた「思考実行力」が必要。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13719"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "ハネウエルの参画型管理者選抜システム",
-      "summary": "マネジメントチーム主導の管理者選抜手法。参画的アプローチによる人材育成の効果と課題をハネウエル事例で検証。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13895"
     }
   ]
 }
