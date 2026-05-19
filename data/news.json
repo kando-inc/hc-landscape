@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-18T23:22:36+09:00",
+  "last_updated": "2026-05-19T23:23:51+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-19",
+      "title": "「自分らしさ」のリーダーシップ ありのままの自分に気づくことから始まる",
+      "summary": "一流リーダー125人への調査で判明した「自分らしさを貫く」ことの重要性。自分史・自己認識・価値観体現の3要素を解説",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11443"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "上司や同僚を味方に変えるシニアリーダーは、何をしているのか",
+      "summary": "正論だけでは人は動かない。シニアリーダーが組織的勢いを生む戦略的働きかけの具体策を、状況マッピングから協力体制構築まで紹介",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13789"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "障害者のためのアイデアが普遍的なイノベーションを生む",
+      "summary": "制約を起点とした製品開発が主流市場で大ヒットする現象。デザイン・アンプリフィケーションという新概念でイノベーション創出を解説",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13533"
+    },
+    {
+      "date": "2026-05-18",
+      "title": "AIによる脳疲労がもたらす代償と克服法",
+      "summary": "複数AIツール管理による「AI脳疲労」が急増。決断力低下・離職増加という代償に対し、リーダーが取るべき対処法を提示",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13727"
+    },
     {
       "date": "2026-05-18",
       "title": "シニアリーダーが上司・同僚を味方に変える戦略的アプローチ",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13589"
-    },
-    {
-      "date": "2026-05-11",
-      "title": "AI時代の競争優位は組織固有のコンテクスト　業務の暗黙知をデータ化する4要点",
-      "summary": "同一AIモデル利用時代、真の競争優位は組織固有コンテクスト。現場の暗黙知をデータ化するコンテクスト・エンジニアリングが投資回収の鍵",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13589"
-    },
-    {
-      "date": "2026-05-11",
-      "title": "答えのない時代のリーダーに必要な「キャパシティ」とは　アンラーニングが不可欠",
-      "summary": "不確実性時代、リーダーに求められるのは技能でなくキャパシティ。不安や緊張を受け止め意味づけする能力。過去の成功体験の学習棄却が必要",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13590"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "AI変革を失速させるラストマイル問題　全社モデル移行の7つの戦略的柱",
-      "summary": "多くの企業がAIパイロット成功も全社変革に至らず。原因は組織設計・ガバナンス等の構造的障壁。自律エージェント中心の運用モデル移行が必要",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13725"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "生成AIで急増した「偽物の専門家」を見抜く方法　思考実行するリーダーが必要",
-      "summary": "生成AI普及で実務なき思考リーダーが激増、組織停滞の原因に。真のリーダーには現場での実験・失敗を繰り返す主体的実行力が不可欠",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13719"
     }
   ]
 }
