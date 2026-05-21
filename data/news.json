@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-20T23:26:43+09:00",
+  "last_updated": "2026-05-21T23:21:13+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-21",
+      "title": "丸紅「しくじりデータベース」公開、失敗事例のAI活用で組織学習を促進",
+      "summary": "丸紅・味の素が失敗事例を社内公開化。AI活用で過去の投資失敗を教訓化し、挑戦する人材育成と組織学習を両立する取り組みが競争力向上の鍵となっている。",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/052100090/"
+    },
+    {
+      "date": "2026-05-20",
+      "title": "信頼されるリーダーは戦略的に抵抗する術を知っている",
+      "summary": "効果的なリーダーシップには戦略的な抵抗が不可欠。価値観に反する圧力に対し原則に基づいて静かに拒む姿勢が、誠実さを保ち組織を長期成功に導く。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13643"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "「自分らしさ」のリーダーシップ ありのままの自分に気づくことから始まる",
+      "summary": "一流リーダー125人への調査で判明。模倣ではなく「自分らしさを貫く」ことがリーダーの試金石。自分史・自己認識・価値観体現が成功の鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11443"
+    },
     {
       "date": "2026-05-20",
       "title": "小売流通業界の人的資本開示　「教育投資」「定着率」でAIと一線を画す戦略",
@@ -11,28 +35,12 @@
       "url": "https://business.nikkei.com/atcl/gen/19/00614/050100028/"
     },
     {
-      "date": "2026-05-20",
-      "title": "信頼されるリーダーは戦略的に抵抗する術を知っている",
-      "summary": "組織での効果的な抵抗とは価値観に反する圧力に対し原則に基づいて静かに戦略的に拒む姿勢。リーダーの誠実性と組織の長期成功の鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13643"
-    },
-    {
       "date": "2026-05-19",
       "title": "戦略・人材・AI投資が揃っても成果が出ない理由",
       "summary": "戦略・人材・AI投資が揃っても簡単に成果は出ない。アラインメント不全と意思決定劣化が背景。人とAIを結びつける組織変革が必要。",
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14087"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "「自分らしさ」のリーダーシップ　ありのままの自分に気づくことから始まる",
-      "summary": "一流リーダー125人調査で判明した「自分らしさを貫く」ことの重要性。自分史・自己認識・価値観体現が真のリーダーシップの試金石。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11443"
     },
     {
       "date": "2026-05-18",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/seminar/19/00118/00407/"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "50代・年収2000万円で争奪戦　レガシーシステムを支える「いぶし銀エンジニア」",
-      "summary": "平均57歳・年収1000万円超で即決採用。消えるはずのレガシーシステム人材が年収2000万円の争奪戦に。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/050800089/"
     }
   ]
 }
