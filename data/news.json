@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-22T23:22:41+09:00",
+  "last_updated": "2026-05-23T23:17:49+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-23",
+      "title": "人的資源プラニングをビジネス目標と連結せよ 大企業の実態調査にみる人材活用の5段階",
+      "summary": "体系的な人的資源プラニングによる競争力向上の実態調査。大企業における人材活用を5段階で類型化し、ビジネス目標との連結度を分析。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13965"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "AIを価値創出に結びつけるリーダーの行動 最大の障壁「人的要因」をいかに乗り越えるか",
+      "summary": "AI導入における最大の障壁は「人的要因」。世界各国のリーダー調査から、技術理解以上に共感力・対話力が重要であることが判明。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13675"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "AI担当役員をめぐる「縄張り争い」の解決策 意思決定の権限を切り分けることから始める",
+      "summary": "AIエージェント台頭で経営幹部間の管轄権争いが激化。既存組織図では対応困難なため、意思決定権限の細分化・再定義が必要。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13757"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "丸紅、「しくじりデータベース」公開　過去の投資失敗、AI活用で教訓化",
+      "summary": "丸紅・味の素が失敗事例の社内公開化を推進。AI活用で過去の投資失敗を教訓化し、挑戦を促しつつ組織学習を競争力向上に活用。",
+      "cat": "explore",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/052100090/"
+    },
     {
       "date": "2026-05-22",
       "title": "AI担当役員をめぐる「縄張り争い」の解決策 意思決定権限の切り分けから始める",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13678"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "ミドルシニアを再起動する「集団的効力感」経営の実践法",
-      "summary": "日本総研調査で判明。ミドルシニア層の活性化には個人とチーム双方を変える「集団的効力感」が有効。組織変革の3つのツボを解説。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00795/051100010/"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "低成長脱却へ問われる人的資本投資の実行力",
-      "summary": "政府産業政策下で民間投資実行力が焦点。株主還元突出の中、設備投資・人的資本投資増加が付加価値創造の鍵となる現状を検証。",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00873/050100008/"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "リカバリー軽視が招くエンゲージメント低下の真実",
-      "summary": "「もっと働きたい」わずか3％。仕事からの心身回復「リカバリー経験」がワークエンゲージメント向上の決定要因と研究で確認。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/seminar/19/00118/00407/"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "制御不能な変化に対応する次世代リーダーシップ論",
-      "summary": "予測不能で相互依存的な「制御不能な変化」時代に、従来の変革手法は限界。変化を日常業務化するリーダーシップ適応力が必須。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13410"
     }
   ]
 }
