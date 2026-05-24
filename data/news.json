@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-23T23:17:49+09:00",
+  "last_updated": "2026-05-24T23:20:23+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-24",
+      "title": "戦略に懐疑的な経営陣を動かす6つのアプローチ",
+      "summary": "CEO の自信が環境適応を阻害し戦略への消極姿勢を生む。戦略を意思決定加速の強みとして位置づける具体的方法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13641"
+    },
+    {
+      "date": "2026-05-24",
+      "title": "対人スキルに欠けるリーダーが変革を失敗させる理由",
+      "summary": "優秀なリーダーほど従業員の沈黙を賛同と誤認し変革が停滞。心理的抵抗を読み解く能力向上で組織危機を回避する方法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13792"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "人的資源プラニングをビジネス目標と連結せよ",
+      "summary": "大企業調査による人材活用の5段階モデル。体系的な人的資源プラニングで競争力向上を実現する実践フレームワーク。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13965"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "AIを価値創出に結びつけるリーダーの行動",
+      "summary": "AI導入の最大障壁は「人的要因」。世界リーダー調査で判明した継続的適応に必要な共感力・対話力の重要性と実践法。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13675"
+    },
     {
       "date": "2026-05-23",
       "title": "人的資源プラニングをビジネス目標と連結せよ 大企業の実態調査にみる人材活用の5段階",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13465"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "ビジネスモデル・イノベーションの開発原則",
-      "summary": "製品革新よりビジネスモデル革新が重要。Apple iPod、タタ・ナノ等の事例から、ゲームルールを変える新モデル開発手法を解説。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11387"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "業績を停滞させるリーダーがアラインメントで犯す3つの過ち",
-      "summary": "戦略的アラインメントに自信を持つリーダーは7人に1人。組織の分断を防ぎ戦略実行を確実にする実践的アプローチを解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13408"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "制御不能な変化に対応するリーダーシップ",
-      "summary": "量・速度・予測不能性が増した現代の変化環境で、変化を日常業務として扱う新たなリーダーシップアプローチを提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13410"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "生成AIに奪われる仕事、補強される仕事を最新データで分析",
-      "summary": "構造化業務の求人13％減、創造性職種20％増。AIの自動化・拡張が各職種に与える影響と人材育成指針を解説。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13678"
     }
   ]
 }
