@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-24T23:20:23+09:00",
+  "last_updated": "2026-05-25T23:23:27+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-25",
+      "title": "バーンアウトの現れ方は組織階層で異なる：若手・管理職・経営幹部別の対策",
+      "summary": "バーンアウトは組織設計の問題。階層別に異なる原因と対策が必要で、画一的なレジリエンス研修では不十分。仕事の再設計が本質的解決策。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13879"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "成功するCVCの組織内緊張管理術：イノベーション創出の持続可能性",
+      "summary": "多くのCVCが数年で消滅する中、成功企業は組織内緊張を適切に管理。大企業のイノベーション接点維持と周辺領域開拓の実践法を解説。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13723"
+    },
+    {
+      "date": "2026-05-24",
+      "title": "対人スキル不足のリーダーが変革を失敗させる理由：部下の沈黙の真意",
+      "summary": "優秀なリーダーほど従業員の沈黙を賛同と誤認し変革が停滞。心理的抵抗の正確な読み解きと適切なフィードバック仕組みが成功の鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13792"
+    },
+    {
+      "date": "2026-05-23",
+      "title": "人的資源プラニングとビジネス目標の連結：大企業調査による人材活用5段階",
+      "summary": "体系的な人的資源プラニングが競争力向上の鍵。大企業実態調査から導き出された人材活用の5段階モデルでビジネス目標との連結を実現。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13965"
+    },
     {
       "date": "2026-05-24",
       "title": "戦略に懐疑的な経営陣を動かす6つのアプローチ",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13492"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "優れた戦略が実行されない理由：現場のバトンパスを阻む3つの要因",
-      "summary": "戦略立案者と実行者の認識齟齬が組織課題に。バトンパス成功には既存システム再構築と心理的安全性確保が不可欠と提言。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13465"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "業績停滞リーダーがアラインメントで犯す3つの過ち",
-      "summary": "自社アラインメントに自信を持つリーダーは7人に1人。戦略的アラインメント失敗の3つの過ちと組織分断防止の実践手法を紹介。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13408"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "ビジネスモデル・イノベーションの原則：根本的変革の要否判断",
-      "summary": "製品革新よりビジネスモデル革新が重要に。アップルiPod、タタ・ナノ等事例でゲームチェンジングなモデル開発手法を解説。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11387"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "戦略と実行のバトンパスを阻む3つの要因と解決策",
-      "summary": "戦略立案者と実行者の認識齟齬が組織の業績を阻害。リーダーが自社アラインメントに自信を持つのは7人に1人。心理的安全性確保が鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13465"
     }
   ]
 }
