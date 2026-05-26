@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-25T23:23:27+09:00",
+  "last_updated": "2026-05-26T23:24:25+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-26",
+      "title": "抽象的な戦略を「共感」に変える技術 人の心を動かすメタファーとストーリー",
+      "summary": "精緻な経営戦略も従業員の本格実行なくば無意味。図解では理解は得られるがエンゲージメントは引き出せない。視覚的比喩とストーリーテリングこそが組織を動かす真のカギ。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13532"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "完全なるリーダーはいらない 「分散型リーダーシップ」のすすめ",
+      "summary": "MIT調査で「完全無欠なリーダー」神話の無意味性が判明。現代は分散型リーダーシップが最適解。自身の長短を見極め周囲で補完する質の高い協働が鍵。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11442"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "バーンアウトの現れ方は組織の階層によって異なる 若手、管理職、経営幹部で異なる原因と対策",
+      "summary": "バーンアウトは個人問題でなく組織設計の問題で立場により現れ方が異なる。画一的レジリエンス研修では不十分、仕事そのものの再設計が必要。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13879"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "成功するコーポレート・ベンチャー・キャピタルは何が違うのか 組織内の緊張の扱い方",
+      "summary": "デジタル化でCVCが再注目も多くが数年で消滅。大企業の周辺領域イノベーション接点として活発化。成功CVCの実践ポイントを組織内緊張管理から解明。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13723"
+    },
     {
       "date": "2026-05-25",
       "title": "バーンアウトの現れ方は組織階層で異なる：若手・管理職・経営幹部別の対策",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13528"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "他部門のスター人材を引き抜く戦略的アプローチ",
-      "summary": "優秀人材の部門間異動で組織摩擦を避け、個人のキャリア開発と組織利益を両立する透明性の高いプロセス設計手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13528"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "リッツ・カールトンに学ぶパーパス基盤の組織づくり",
-      "summary": "AI時代の競争優位性は「人間らしいホスピタリティ」。従業員の尊厳とパーパスを基盤とした組織文化の浸透戦略を紹介。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13492"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "戦略と実行の断絶を解消する組織設計",
-      "summary": "優秀な戦略と人材を揃えても実行に移らない3つの要因を分析。立案者と実行者の認識ギャップを埋める具体的手法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13465"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "「人間らしいホスピタリティ」が競争優位性になる時代のパーパス組織づくり",
-      "summary": "AI普及で効率化が進む中、デジタル代替不可能な人間らしさが競争優位に。リッツ・カールトン事例でパーパス基盤組織の構築法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13492"
     }
   ]
 }
