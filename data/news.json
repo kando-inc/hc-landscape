@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-26T23:24:25+09:00",
+  "last_updated": "2026-05-27T23:27:20+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-27",
+      "title": "リーダーは自分の能力を「できる」「できない」で判断してはいけない",
+      "summary": "カート・フィッシャーの「ダイナミックスキル理論」で、リーダーの能力を有無ではなく特定条件下で構成されるスキルとして捉える発達心理学的アプローチを解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14088"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "抽象的な戦略を「共感」に変える技術",
+      "summary": "精緻な経営戦略も従業員のエンゲージメントがなければ無意味。視覚的メタファーとストーリーテリングで組織を動かす「4つのF」を実務経験から導出。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13532"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "完全なるリーダーはいらない「分散型リーダーシップ」のすすめ",
+      "summary": "MIT調査で判明した「完全無欠なリーダー」神話の無意味さ。現代に必要なのは自身の長短を見極め、周囲で補完する分散型リーダーシップモデル。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11442"
+    },
+    {
+      "date": "2026-05-25",
+      "title": "バーンアウトの現れ方は組織の階層によって異なる",
+      "summary": "バーンアウトは組織設計の問題で立場別に原因が異なる。若手・管理職・経営幹部それぞれに必要な対策は仕事の再設計であり画一的研修では不十分。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13879"
+    },
     {
       "date": "2026-05-26",
       "title": "抽象的な戦略を「共感」に変える技術 人の心を動かすメタファーとストーリー",
@@ -9,14 +41,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13532"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "完全なるリーダーはいらない 「分散型リーダーシップ」のすすめ",
-      "summary": "MIT調査で「完全無欠なリーダー」神話の無意味性が判明。現代は分散型リーダーシップが最適解。自身の長短を見極め周囲で補完する質の高い協働が鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11442"
     },
     {
       "date": "2026-05-25",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13727"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "シニアリーダーが上司・同僚を味方に変える戦略的アプローチ",
-      "summary": "根拠ある提案でも支持は自動的に得られない。シニアリーダーは自己評価修正、ステークホルダー分析、協力体制構築で組織を動かす力が必要。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13789"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "AI脳疲労がもたらす代償と克服法",
-      "summary": "AIツール管理・監督負荷により労働者が急性認知疲労に陥り、決断力低下やミス増加、優秀人材離職という深刻な代償が発生。対処法を解説。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13727"
-    },
-    {
-      "date": "2026-05-17",
-      "title": "他部門スター人材の上手な引き抜き戦略",
-      "summary": "優秀人材の部門間異動では組織摩擦リスクが発生。個人キャリア開発視点、相手部門への敬意、透明性高いプロセスで全員納得の異動を実現。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13528"
     }
   ]
 }
