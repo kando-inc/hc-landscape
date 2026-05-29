@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-28T23:28:14+09:00",
+  "last_updated": "2026-05-29T23:27:37+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-29",
+      "title": "ハイテク企業成長のための組織づくり マーケティングと研究開発の連携がカギ",
+      "summary": "ハイテク企業の成熟期における研究開発とマーケティング機能の連携強化による組織的価値創造手法を解説",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14008"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "AI面接官で「二度手間地獄」業務再設計で年800時間削減",
+      "summary": "AI導入で効率改善しない現場の課題を分析。業務再設計により年800時間削減を実現した実践例",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/052700091/"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "AIエージェントを安全に大規模展開する方法 未知の実行リスクを回避する",
+      "summary": "生成AIエージェントの組織展開における実行リスク管理と、デジタルワーカー統制の要諦を提示",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13814"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "リーダーは自分の能力を「できる」「できない」で判断してはいけない",
+      "summary": "カート・フィッシャーのダイナミックスキル理論による、リーダー能力を条件下で構成されるスキルとして捉える発達論",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14088"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "抽象的な戦略を「共感」に変える技術 人の心を動かすメタファーとストーリー",
+      "summary": "戦略実行のエンゲージメント向上手法。視覚的比喩とストーリーテリングによる「4つのF」で組織を動かす技術",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13532"
+    },
     {
       "date": "2026-05-28",
       "title": "AI導入で業務効率化が進まない理由と業務再設計の必要性",
@@ -43,14 +83,6 @@
       "url": "https://dhbr.diamond.jp/articles/-/11442"
     },
     {
-      "date": "2026-05-27",
-      "title": "リーダーは自分の能力を「できる」「できない」で判断してはいけない",
-      "summary": "カート・フィッシャーの「ダイナミックスキル理論」で、リーダーの能力を有無ではなく特定条件下で構成されるスキルとして捉える発達心理学的アプローチを解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14088"
-    },
-    {
       "date": "2026-05-26",
       "title": "抽象的な戦略を「共感」に変える技術",
       "summary": "精緻な経営戦略も従業員のエンゲージメントがなければ無意味。視覚的メタファーとストーリーテリングで組織を動かす「4つのF」を実務経験から導出。",
@@ -73,14 +105,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13879"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "抽象的な戦略を「共感」に変える技術 人の心を動かすメタファーとストーリー",
-      "summary": "精緻な経営戦略も従業員の本格実行なくば無意味。図解では理解は得られるがエンゲージメントは引き出せない。視覚的比喩とストーリーテリングこそが組織を動かす真のカギ。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13532"
     },
     {
       "date": "2026-05-25",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13643"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "丸紅「しくじりデータベース」公開、失敗事例のAI活用で組織学習を促進",
-      "summary": "丸紅・味の素が失敗事例を社内公開化。AI活用で過去の投資失敗を教訓化し、挑戦する人材育成と組織学習を両立する取り組みが競争力向上の鍵となっている。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/052100090/"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "「自分らしさ」のリーダーシップ ありのままの自分に気づくことから始まる",
-      "summary": "一流リーダー125人への調査で判明。模倣ではなく「自分らしさを貫く」ことがリーダーの試金石。自分史・自己認識・価値観体現が成功の鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11443"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "小売流通業界の人的資本開示　「教育投資」「定着率」でAIと一線を画す戦略",
-      "summary": "人口減少に直面する小売流通業界が労働集約型から脱却するため、人的資本開示で教育投資と定着率を重視し差別化を図る戦略を解説。",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/050100028/"
     }
   ]
 }
