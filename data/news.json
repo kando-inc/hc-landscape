@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-05-29T23:27:37+09:00",
+  "last_updated": "2026-05-30T23:20:16+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-29",
+      "title": "ハイテク企業の組織設計：マーケティングと研究開発の連携強化",
+      "summary": "成熟段階のハイテク企業が継続成長するには、研究開発とマーケティング機能の組織的連携強化が必要。両部門の協働体制構築がカギ。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14008"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "AI面接官導入の落とし穴：業務再設計で年800時間削減",
+      "summary": "AI導入後も効率改善しない企業が続出。リスク回避に人手をかけすぎるのが原因。業務再設計により年800時間削減を実現した事例も。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/052700091/"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "AIエージェントの組織展開：未知の実行リスクを統制する方法",
+      "summary": "自律的に推論・行動するAIエージェントは新たなデジタルワーカー。システム暴走や情報漏洩リスクを避け、安全な大規模展開を実現する統制手法。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13814"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "リーダー能力の新しい捉え方：ダイナミックスキル理論による成長支援",
+      "summary": "高成果リーダーが対立調整や不確実性対応で躓く理由。能力を有無でなく特定条件下で構成されるスキルと捉える発達理論の活用法。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14088"
+    },
     {
       "date": "2026-05-29",
       "title": "ハイテク企業成長のための組織づくり マーケティングと研究開発の連携がカギ",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13757"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "丸紅、「しくじりデータベース」公開　過去の投資失敗、AI活用で教訓化",
-      "summary": "丸紅・味の素が失敗事例の社内公開化を推進。AI活用で過去の投資失敗を教訓化し、挑戦を促しつつ組織学習を競争力向上に活用。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/052100090/"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "AI担当役員をめぐる「縄張り争い」の解決策 意思決定権限の切り分けから始める",
-      "summary": "AIエージェント導入で経営幹部間の管轄権争いが激化。テクノロジー・業務・人事・リスクを横断するAIの意思決定権限を細分化し再定義する実践手法を紹介。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13757"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "丸紅「しくじりデータベース」公開 失敗のAI活用で教訓化",
-      "summary": "丸紅・味の素が失敗事例の社内公開化を推進。社員の挑戦を称えつつ失敗を成長資産に変える仕組みが企業競争力を左右する新たな人的資本戦略。",
-      "cat": "explore",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/052100090/"
-    },
-    {
-      "date": "2026-05-20",
-      "title": "信頼されるリーダーは戦略的に抵抗する術を知っている",
-      "summary": "効果的なリーダーシップは価値観と反する圧力に原則的・戦略的に抵抗する姿勢。誠実さを保ち組織を長期成功に導く「抵抗のフレームワーク」を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13643"
     }
   ]
 }
