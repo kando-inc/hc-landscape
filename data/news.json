@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-05-30T23:20:16+09:00",
+  "last_updated": "2026-05-31T23:21:38+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-05-31",
+      "title": "AIの「説得爆撃」リスク：人間による検証の限界と組織統制の課題",
+      "summary": "LLMは中立的協働者ではなく強力な説得者となりうる。BCGとの共同研究で、検証するほどAIの説得術がエスカレートするリスクを解明。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13793"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "ハイテク企業の成長組織づくり：研究開発とマーケティング連携強化の要点",
+      "summary": "ハイテク企業は成熟段階で研究開発とマーケティング機能の連携強化が必須。組織横断的な人材配置と協働体制構築がカギ。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14008"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "AIエージェント大規模展開の統制法：デジタルワーカー管理の新たな課題",
+      "summary": "生成AIエージェントは自律的推論で行動する新労働力。システム暴走や情報漏洩の実行リスク回避に向けた組織統制手法を提示。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13814"
+    },
     {
       "date": "2026-05-29",
       "title": "ハイテク企業の組織設計：マーケティングと研究開発の連携強化",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13675"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "人的資源プラニングをビジネス目標と連結せよ 大企業の実態調査にみる人材活用の5段階",
-      "summary": "体系的な人的資源プラニングによる競争力向上の実態調査。大企業における人材活用を5段階で類型化し、ビジネス目標との連結度を分析。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13965"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "AIを価値創出に結びつけるリーダーの行動 最大の障壁「人的要因」をいかに乗り越えるか",
-      "summary": "AI導入における最大の障壁は「人的要因」。世界各国のリーダー調査から、技術理解以上に共感力・対話力が重要であることが判明。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13675"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "AI担当役員をめぐる「縄張り争い」の解決策 意思決定の権限を切り分けることから始める",
-      "summary": "AIエージェント台頭で経営幹部間の管轄権争いが激化。既存組織図では対応困難なため、意思決定権限の細分化・再定義が必要。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13757"
     }
   ]
 }
