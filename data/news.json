@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-05-31T23:21:38+09:00",
+  "last_updated": "2026-06-01T23:30:07+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-01",
+      "title": "ドラッカーが語る、リーダーに必要な「真摯さ」とは何か",
+      "summary": "経営思想家ドラッカーの「金言」から、組織目標達成を求められるリーダーに必要な真摯さの本質を解説。マネジメント実践への示唆を提供。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14013"
+    },
+    {
+      "date": "2026-05-31",
+      "title": "編集部が厳選、今週の必読記事12選：2026年5月17日〜5月23日公開 企業に必要な構想力とは",
+      "summary": "AI担当役員の主導権争いや音声AIの顧客行動への影響など、AI時代に企業が直面する経営課題を多面的に分析した必読記事を厳選。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14139"
+    },
     {
       "date": "2026-05-31",
       "title": "AIの「説得爆撃」リスク：人間による検証の限界と組織統制の課題",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13792"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "人的資源プラニングをビジネス目標と連結せよ",
-      "summary": "大企業調査による人材活用の5段階モデル。体系的な人的資源プラニングで競争力向上を実現する実践フレームワーク。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13965"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "AIを価値創出に結びつけるリーダーの行動",
-      "summary": "AI導入の最大障壁は「人的要因」。世界リーダー調査で判明した継続的適応に必要な共感力・対話力の重要性と実践法。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13675"
     }
   ]
 }
