@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-06-01T23:30:07+09:00",
+  "last_updated": "2026-06-02T23:32:04+09:00",
   "total": 30,
   "articles": [
     {
+      "date": "2026-06-02",
+      "title": "自信に満ちた人材がトップに昇進した時の落とし穴：真のリーダーに必要な謙虚さ",
+      "summary": "優秀な人材が経営幹部に昇進すると成功体験が逆効果となり組織に弊害をもたらす。専門性の手放しや不確実性を認める謙虚さが必要。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13853"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "いまこそマネジメント・イノベーションを：永続的な競争優位を求めて",
+      "summary": "GE、トヨタ等はマネジメント・イノベーションで他社が真似できない独自の流儀を編み出した。イノベーション実現には常識に背く組織が必要。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11764"
+    },
+    {
       "date": "2026-06-01",
       "title": "ドラッカーが語る、リーダーに必要な「真摯さ」とは何か",
-      "summary": "経営思想家ドラッカーの「金言」から、組織目標達成を求められるリーダーに必要な真摯さの本質を解説。マネジメント実践への示唆を提供。",
+      "summary": "経営思想家ドラッカーの洞察に基づくリーダーシップ論。組織目標達成を求められる経営層にインスピレーションとアドバイスを提供。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14013"
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13965"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "戦略に懐疑的な経営陣を動かす6つのアプローチ",
-      "summary": "CEO の自信が環境適応を阻害し戦略への消極姿勢を生む。戦略を意思決定加速の強みとして位置づける具体的方法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13641"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "対人スキルに欠けるリーダーが変革を失敗させる理由",
-      "summary": "優秀なリーダーほど従業員の沈黙を賛同と誤認し変革が停滞。心理的抵抗を読み解く能力向上で組織危機を回避する方法。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13792"
     }
   ]
 }
