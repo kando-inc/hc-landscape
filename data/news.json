@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-02T23:32:04+09:00",
+  "last_updated": "2026-06-03T23:31:26+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-03",
+      "title": "変化の時代を生き残れるチェンジ・リーダーの条件",
+      "summary": "ドラッカーの金言から導く変革型リーダーシップの要諦。不確実性の時代に組織変革を牽引する経営人材に必要な資質と実践論を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14014"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "自信に満ちた人材がトップに昇進した時の落とし穴",
+      "summary": "優秀な人材の昇進時に起こる3つの落とし穴を分析。専門性への固執が組織に与える弊害と、真のリーダーに必要な謙虚さの重要性を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13853"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "いまこそマネジメント・イノベーションを",
+      "summary": "GE、トヨタ等の事例から学ぶマネジメント革新の本質。永続的競争優位を生む組織変革と、イノベーション人材の育成メカニズムを解明。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11764"
+    },
+    {
+      "date": "2026-06-01",
+      "title": "ドラッカーが語る、リーダーに必要な「真摯さ」とは何か",
+      "summary": "ドラッカーの経営思想から導くリーダーシップの本質論。真摯さという概念を軸に、次世代経営人材に求められる基本的資質を考察。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14013"
+    },
     {
       "date": "2026-06-02",
       "title": "自信に満ちた人材がトップに昇進した時の落とし穴：真のリーダーに必要な謙虚さ",
@@ -17,14 +49,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11764"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "ドラッカーが語る、リーダーに必要な「真摯さ」とは何か",
-      "summary": "経営思想家ドラッカーの洞察に基づくリーダーシップ論。組織目標達成を求められる経営層にインスピレーションとアドバイスを提供。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14013"
     },
     {
       "date": "2026-05-31",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13879"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "成功するCVCの組織内緊張管理術：イノベーション創出の持続可能性",
-      "summary": "多くのCVCが数年で消滅する中、成功企業は組織内緊張を適切に管理。大企業のイノベーション接点維持と周辺領域開拓の実践法を解説。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13723"
-    },
-    {
-      "date": "2026-05-24",
-      "title": "対人スキル不足のリーダーが変革を失敗させる理由：部下の沈黙の真意",
-      "summary": "優秀なリーダーほど従業員の沈黙を賛同と誤認し変革が停滞。心理的抵抗の正確な読み解きと適切なフィードバック仕組みが成功の鍵。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13792"
-    },
-    {
-      "date": "2026-05-23",
-      "title": "人的資源プラニングとビジネス目標の連結：大企業調査による人材活用5段階",
-      "summary": "体系的な人的資源プラニングが競争力向上の鍵。大企業実態調査から導き出された人材活用の5段階モデルでビジネス目標との連結を実現。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13965"
     }
   ]
 }
