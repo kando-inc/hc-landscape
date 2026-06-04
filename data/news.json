@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-03T23:31:26+09:00",
+  "last_updated": "2026-06-04T23:24:42+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-04",
+      "title": "AI活用学習の進化が加速、日本のリスキリング戦略に遅れ",
+      "summary": "米コーセラがユーデミーを3750億円で買収し業界1位に。AIを活用した学習方法が世界で進化する中、日本のリスキリングは下火となり出遅れが鮮明。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300094/"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "取締役会の過剰介入が経営チームに混乱をもたらす問題",
+      "summary": "経済不安定化とAI期待の高まりで取締役会が実務レベルに介入し、リーダーシップチームの混乱と意思決定停滞を招く。適切な距離感確保の方法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13724"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "自信過多な経営幹部が陥る3つの落とし穴と回避法",
+      "summary": "優秀な人材の最高経営幹部昇進時、過去の成功体験が逆効果となり組織に弊害をもたらす。真のリーダーに必要な謙虚さと専門性の手放し方を説明。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13853"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "GE・トヨタに学ぶマネジメント・イノベーションの実践",
+      "summary": "GE、デュポン、P&G、トヨタが永続的競争優位を築く秘訣はマネジメント・イノベーション。業界常識に背を向け独自の流儀を編み出す組織の特徴を分析。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11764"
+    },
     {
       "date": "2026-06-03",
       "title": "変化の時代を生き残れるチェンジ・リーダーの条件",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11442"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "バーンアウトの現れ方は組織の階層によって異なる",
-      "summary": "バーンアウトは組織設計の問題で立場別に原因が異なる。若手・管理職・経営幹部それぞれに必要な対策は仕事の再設計であり画一的研修では不十分。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13879"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "バーンアウトの現れ方は組織の階層によって異なる 若手、管理職、経営幹部で異なる原因と対策",
-      "summary": "バーンアウトは個人問題でなく組織設計の問題で立場により現れ方が異なる。画一的レジリエンス研修では不十分、仕事そのものの再設計が必要。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13879"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "成功するコーポレート・ベンチャー・キャピタルは何が違うのか 組織内の緊張の扱い方",
-      "summary": "デジタル化でCVCが再注目も多くが数年で消滅。大企業の周辺領域イノベーション接点として活発化。成功CVCの実践ポイントを組織内緊張管理から解明。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13723"
-    },
-    {
-      "date": "2026-05-25",
-      "title": "バーンアウトの現れ方は組織階層で異なる：若手・管理職・経営幹部別の対策",
-      "summary": "バーンアウトは組織設計の問題。階層別に異なる原因と対策が必要で、画一的なレジリエンス研修では不十分。仕事の再設計が本質的解決策。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13879"
     }
   ]
 }
