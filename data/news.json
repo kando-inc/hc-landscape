@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-05T23:25:20+09:00",
+  "last_updated": "2026-06-06T23:21:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-06",
+      "title": "優れたマネジャーが持つ5つの特性とは",
+      "summary": "優秀なマネジャーは組織に方向性を示し成長機会を捉える才能を発揮する。ポリシー決定以外の5つの特性を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14063"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "コーセラCEO「スキル習熟度の可視化から発揮度合いまで測定可能に」",
+      "summary": "米コーセラがUdemy買収で売上15億ドル規模に。スキルの習熟度可視化と発揮度合い測定の技術進歩を説明。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300093/"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "前ウォルマートCEOが語るリーダーシップの要諦",
+      "summary": "12年間でウォルマートをデジタル企業に変革した前CEOが語る。直感重視、素早い実行の重要性を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14149"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "AI活用で進化するリスキリング、日本は出遅れ",
+      "summary": "コーセラのUdemy買収で業界1位に。AIを活用した学習方法が世界で進化する中、日本のリスキリングは下火。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300094/"
+    },
     {
       "date": "2026-06-05",
       "title": "コーセラCEO「スキル習熟度を可視化、発揮度合いまで測る」",
@@ -206,38 +238,6 @@
       "date": "2026-05-27",
       "title": "リーダーは自分の能力を「できる」「できない」で判断してはいけない",
       "summary": "カート・フィッシャーのダイナミックスキル理論による、リーダー能力を条件下で構成されるスキルとして捉える発達論",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14088"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "抽象的な戦略を「共感」に変える技術 人の心を動かすメタファーとストーリー",
-      "summary": "戦略実行のエンゲージメント向上手法。視覚的比喩とストーリーテリングによる「4つのF」で組織を動かす技術",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13532"
-    },
-    {
-      "date": "2026-05-28",
-      "title": "AI導入で業務効率化が進まない理由と業務再設計の必要性",
-      "summary": "AI面接官導入後も効率改善しない企業が多数。AIリスク回避に人手をかけることが原因で、業務再設計により年800時間削減の事例も。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/052700091/"
-    },
-    {
-      "date": "2026-05-28",
-      "title": "AIエージェントの大規模展開における統制とリスク管理",
-      "summary": "自律的に行動するAIエージェントは新たなデジタルワーカー。システム暴走や情報漏洩リスクを回避し安全に組織展開する統制手法を解説。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13814"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "リーダーの能力開発に必要な「ダイナミックスキル理論」の活用",
-      "summary": "高成果リーダーが組織対立調整で力発揮できない理由を発達心理学で解明。能力を有無でなく条件下で構成されるスキルとして捉える手法。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14088"
