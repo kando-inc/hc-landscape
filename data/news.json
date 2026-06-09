@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-08T23:25:36+09:00",
+  "last_updated": "2026-06-09T23:27:30+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-09",
+      "title": "第一線監督者が従業員参画制度に抵抗する理由と組織変革成功の条件",
+      "summary": "QWL計画失敗の主因は第一線監督者の抵抗。実態調査から導く組織変革推進の実践的条件を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14058"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "AIエージェントを組織の「同僚」として統合する6つの実践アプローチ",
+      "summary": "エージェント型AI導入の本質は業務管理変革。銀行・物流事例から学ぶ人事プロセス拡張手法。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13854"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "EQ高いリーダーが組織活力を生む5つの自己革新ステップ",
+      "summary": "ゴールマンのEQ理論に基づく高業績リーダー育成法。リーダーのムードがチーム業績向上に直結。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12680"
+    },
     {
       "date": "2026-06-08",
       "title": "大東建託、がん診断社員に100万円支給で罹患者把握数が5倍に",
@@ -217,30 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11764"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "編集部が厳選、今週の必読記事12選：2026年5月17日〜5月23日公開 企業に必要な構想力とは",
-      "summary": "AI担当役員の主導権争いや音声AIの顧客行動への影響など、AI時代に企業が直面する経営課題を多面的に分析した必読記事を厳選。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14139"
-    },
-    {
-      "date": "2026-05-31",
-      "title": "AIの「説得爆撃」リスク：人間による検証の限界と組織統制の課題",
-      "summary": "LLMは中立的協働者ではなく強力な説得者となりうる。BCGとの共同研究で、検証するほどAIの説得術がエスカレートするリスクを解明。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13793"
-    },
-    {
-      "date": "2026-05-29",
-      "title": "ハイテク企業の成長組織づくり：研究開発とマーケティング連携強化の要点",
-      "summary": "ハイテク企業は成熟段階で研究開発とマーケティング機能の連携強化が必須。組織横断的な人材配置と協働体制構築がカギ。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14008"
     }
   ]
 }
