@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-09T23:27:30+09:00",
+  "last_updated": "2026-06-10T23:30:13+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-10",
+      "title": "意欲の高い従業員のやる気を削ぐマネジャーの行動 期待の裏返しが満足度低下や離職につながる",
+      "summary": "エンゲージメント高い従業員への職務外業務の過度な割り当てが満足度低下や離職を招く。公平な業務配分を実現する3つの対処法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13855"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "失敗しない文化変革　経営と現場を分断する3つの壁を乗り越えよ (人的資本経営のキホン)",
+      "summary": "成長や不祥事からの再生における風土改革の失敗要因を分析。文化変革を阻む3つの壁を特定し、経営と現場の分断解消策を解説。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/060400029/"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "なぜ第一線監督者は従業員参画制度に抵抗するのか 実態調査にみる組織変革推進の条件",
+      "summary": "従業員参画制度導入時の第一線監督者の抵抗要因を実態調査で分析。組織変革を成功に導く推進条件を明らかにする。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14058"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "AIエージェントを「同僚」として迎え入れる6つのアプローチ 人間との役割分担を明確にできているか",
+      "summary": "AIエージェントをチームメンバーとして統合する際の業務管理課題に焦点。銀行・物流の先進事例から6つの実践的アプローチを提示。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13854"
+    },
     {
       "date": "2026-06-09",
       "title": "第一線監督者が従業員参画制度に抵抗する理由と組織変革成功の条件",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13853"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "いまこそマネジメント・イノベーションを",
-      "summary": "GE、トヨタ等の事例から学ぶマネジメント革新の本質。永続的競争優位を生む組織変革と、イノベーション人材の育成メカニズムを解明。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11764"
-    },
-    {
-      "date": "2026-06-01",
-      "title": "ドラッカーが語る、リーダーに必要な「真摯さ」とは何か",
-      "summary": "ドラッカーの経営思想から導くリーダーシップの本質論。真摯さという概念を軸に、次世代経営人材に求められる基本的資質を考察。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14013"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "自信に満ちた人材がトップに昇進した時の落とし穴：真のリーダーに必要な謙虚さ",
-      "summary": "優秀な人材が経営幹部に昇進すると成功体験が逆効果となり組織に弊害をもたらす。専門性の手放しや不確実性を認める謙虚さが必要。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13853"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "いまこそマネジメント・イノベーションを：永続的な競争優位を求めて",
-      "summary": "GE、トヨタ等はマネジメント・イノベーションで他社が真似できない独自の流儀を編み出した。イノベーション実現には常識に背く組織が必要。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11764"
     }
   ]
 }
