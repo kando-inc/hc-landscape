@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-10T23:30:13+09:00",
+  "last_updated": "2026-06-11T23:30:02+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-11",
+      "title": "3000人調査で見えた裁量労働制成功の条件：導入前の制度設計が分岐点",
+      "summary": "3000人調査で判明。ビジネスパーソンの時間コントロール意識が強い中、裁量労働制の成否は導入前設計で決まる",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/061000095/"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "優秀人材のやる気を削ぐマネジャーの罠：過度な追加業務が離職を招く",
+      "summary": "エンゲージメント高い従業員への職務外業務集中が満足度低下・離職の原因。公平配分実現の3つの対処法を提示",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13855"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "AIエージェントを組織の「同僚」にする6つの実践アプローチ",
+      "summary": "AIエージェント導入の本質課題は業務管理。銀行・物流の先進事例から組織定着のための6つの実践手法を解説",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13854"
+    },
     {
       "date": "2026-06-10",
       "title": "意欲の高い従業員のやる気を削ぐマネジャーの行動 期待の裏返しが満足度低下や離職につながる",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13724"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "自信過多な経営幹部が陥る3つの落とし穴と回避法",
-      "summary": "優秀な人材の最高経営幹部昇進時、過去の成功体験が逆効果となり組織に弊害をもたらす。真のリーダーに必要な謙虚さと専門性の手放し方を説明。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13853"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "GE・トヨタに学ぶマネジメント・イノベーションの実践",
-      "summary": "GE、デュポン、P&G、トヨタが永続的競争優位を築く秘訣はマネジメント・イノベーション。業界常識に背を向け独自の流儀を編み出す組織の特徴を分析。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11764"
-    },
-    {
-      "date": "2026-06-02",
-      "title": "自信に満ちた人材がトップに昇進した時の落とし穴",
-      "summary": "優秀な人材の昇進時に起こる3つの落とし穴を分析。専門性への固執が組織に与える弊害と、真のリーダーに必要な謙虚さの重要性を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13853"
     }
   ]
 }
