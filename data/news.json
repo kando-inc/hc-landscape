@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-11T23:30:02+09:00",
+  "last_updated": "2026-06-12T23:29:01+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-12",
+      "title": "裁量労働制、3000人調査で見えた本音　カギは導入前の「働き方の制度設計」",
+      "summary": "3000人調査で裁量労働制の実態を分析。ビジネスパーソンの「時間をコントロールしたい」意識が強く、制度設計が成功の鍵となる。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/061000095/"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "AI時代のサイバーリスクにリーダーはどう立ち向かうべきか 実践すべき「ACTS」のフレームワーク",
+      "summary": "AI進化でサイバー攻撃が予測不能に。BANI環境下で組織を守り抜くリーダーの新行動指針「ACTS」フレームワークを提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13884"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "リーダーにとって最も重要な仕事は、危機の到来を予期することである",
+      "summary": "ドラッカーの金言から学ぶリーダーシップ論。組織目標達成を求められる経営層へのインスピレーションとアドバイスを提供。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14018"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "意欲の高い従業員のやる気を削ぐマネジャーの行動 期待の裏返しが満足度の低下や離職につながる",
+      "summary": "エンゲージメント高い従業員への職務外業務割当が逆効果と判明。満足度低下・離職を防ぐ公平な配分の3つの対処法を提示。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13855"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "なぜ第一線監督者は従業員参画制度に抵抗するのか 実態調査にみる組織変革推進の条件",
+      "summary": "第一線監督者の懸念を無視したQWL計画は失敗する。実態調査から組織変革を成功させる推進条件を明らかに。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14058"
+    },
     {
       "date": "2026-06-11",
       "title": "3000人調査で見えた裁量労働制成功の条件：導入前の制度設計が分岐点",
@@ -27,28 +67,12 @@
       "url": "https://dhbr.diamond.jp/articles/-/13854"
     },
     {
-      "date": "2026-06-10",
-      "title": "意欲の高い従業員のやる気を削ぐマネジャーの行動 期待の裏返しが満足度低下や離職につながる",
-      "summary": "エンゲージメント高い従業員への職務外業務の過度な割り当てが満足度低下や離職を招く。公平な業務配分を実現する3つの対処法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13855"
-    },
-    {
       "date": "2026-06-09",
       "title": "失敗しない文化変革　経営と現場を分断する3つの壁を乗り越えよ (人的資本経営のキホン)",
       "summary": "成長や不祥事からの再生における風土改革の失敗要因を分析。文化変革を阻む3つの壁を特定し、経営と現場の分断解消策を解説。",
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00614/060400029/"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "なぜ第一線監督者は従業員参画制度に抵抗するのか 実態調査にみる組織変革推進の条件",
-      "summary": "従業員参画制度導入時の第一線監督者の抵抗要因を実態調査で分析。組織変革を成功に導く推進条件を明らかにする。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14058"
     },
     {
       "date": "2026-06-09",
@@ -214,30 +238,6 @@
       "date": "2026-06-04",
       "title": "取締役会の「過剰介入」をどう防ぐか",
       "summary": "経済不安定化とAI期待を背景に取締役会の実務介入が増加。リーダーシップチーム混乱を防ぐ3つのアプローチを提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13724"
-    },
-    {
-      "date": "2026-06-03",
-      "title": "変化の時代を生き残れるチェンジ・リーダーの条件",
-      "summary": "ドラッカーが説く変革リーダーの要件。変化の激しい時代において組織を導くリーダーシップの本質的条件を体系化。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14014"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "AI活用学習の進化が加速、日本のリスキリング戦略に遅れ",
-      "summary": "米コーセラがユーデミーを3750億円で買収し業界1位に。AIを活用した学習方法が世界で進化する中、日本のリスキリングは下火となり出遅れが鮮明。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300094/"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "取締役会の過剰介入が経営チームに混乱をもたらす問題",
-      "summary": "経済不安定化とAI期待の高まりで取締役会が実務レベルに介入し、リーダーシップチームの混乱と意思決定停滞を招く。適切な距離感確保の方法を解説。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13724"
