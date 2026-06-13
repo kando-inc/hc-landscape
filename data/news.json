@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-12T23:29:01+09:00",
+  "last_updated": "2026-06-13T23:23:20+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-13",
+      "title": "AI導入によるイノベーション停滞を回避する「戦略的摩擦」とは",
+      "summary": "生成AIが生産性向上の一方でイノベーション停滞を招く「生産性の罠」。組織の発想力維持には意図的な「戦略的摩擦」設計が不可欠。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13726"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "リーダーに欠かせない基本的な4つの能力とは何か 連載『ドラッカー 365の金言』第7回",
+      "summary": "ドラッカーが説くリーダーに欠かせない4つの基本能力。組織目標達成を求められる経営層へのインスピレーションとアドバイス。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14019"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "裁量労働制3000人調査が示す導入成功のカギ",
+      "summary": "ビジネスパーソンの時間コントロール意識が強まる中、裁量労働制成功の要因は導入前の「働き方の制度設計」にあることが判明。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/061000095/"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "リーダーにとって最も重要な仕事は、危機の到来を予期することである 連載『ドラッカー 365の金言』第6回",
+      "summary": "ドラッカーが説く「危機予期がリーダーの最重要任務」。変動時代を乗り切る経営層への洞察と行動指針を提示する金言集。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14018"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "高エンゲージメント人材のやる気を削ぐマネジャーの致命的ミス",
+      "summary": "意欲の高い従業員への職務外業務の過度な割り当てが満足度低下・離職を招く。公平な業務配分を実現する3つの対処法を解説。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13855"
+    },
     {
       "date": "2026-06-12",
       "title": "裁量労働制、3000人調査で見えた本音　カギは導入前の「働き方の制度設計」",
@@ -17,14 +57,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13884"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "リーダーにとって最も重要な仕事は、危機の到来を予期することである",
-      "summary": "ドラッカーの金言から学ぶリーダーシップ論。組織目標達成を求められる経営層へのインスピレーションとアドバイスを提供。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14018"
     },
     {
       "date": "2026-06-10",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14149"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "AI活用で進化するリスキリング、日本は出遅れ",
-      "summary": "コーセラのUdemy買収で業界1位に。AIを活用した学習方法が世界で進化する中、日本のリスキリングは下火。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300094/"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "前ウォルマートCEOが語る実行力「リーダーは直感に従いなさい」",
-      "summary": "ウォルマートを12年間率いた前CEO。巨大組織の変革推進、不確実性下の意思決定、利益とパーパス両立の経営手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14149"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "AI活用で進化するリスキリング、日本は出遅れ懸念",
-      "summary": "コーセラがUdemy買収で業界首位に。AI活用した学習方法が世界で急進化する中、日本のリスキリング取り組みは下火の状況。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300094/"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "取締役会の「過剰介入」をどう防ぐか",
-      "summary": "経済不安定化とAI期待を背景に取締役会の実務介入が増加。リーダーシップチーム混乱を防ぐ3つのアプローチを提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13724"
     }
   ]
 }
