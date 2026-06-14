@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-13T23:23:20+09:00",
+  "last_updated": "2026-06-14T23:26:21+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-14",
+      "title": "人事の適所適材配置をAIで変革する最新事例",
+      "summary": "オリックス生命とブリヂストンが配属先相性診断や職務定義書作成にAIを導入、人事業務の高度化を実現",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00876/061100003/"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "卓越した組織は「才能」ではなく「日常の仕組み」でつくる",
+      "summary": "持続的成果を上げる組織は人材・チーム・ルーチンの3要素を連動させたシステム設計で卓越性を構築している",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13762"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "AIが招く未来の不透明化に企業戦略とキャリアはどう対応すべきか",
+      "summary": "AI進化で見通し困難な時代、長期投資や人材育成の前提が揺らぎ企業の戦略的意思決定が複雑化している",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14031"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "シニアリーダー向け新キャリア戦略「フラクショナルワーク」",
+      "summary": "AI時代のキャリアリスク回避策として複数企業の非常勤経営幹部を担う新しい働き方が注目を集める",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13993"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "AI導入によるイノベーション停滞を防ぐ組織設計",
+      "summary": "生成AI活用で生産性向上する一方、探索行動減少でイノベーション停滞のリスク、戦略的摩擦設計が重要",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13726"
+    },
     {
       "date": "2026-06-13",
       "title": "AI導入によるイノベーション停滞を回避する「戦略的摩擦」とは",
@@ -201,46 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14147"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "実力経営者が保持する5つの特性",
-      "summary": "優れたマネジャーの特徴を5つの特性で分析。組織に方向性を示し成長機会を捉える経営手法を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14063"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "コーセラCEO「スキル習熟度を可視化、発揮度合いまで測る」",
-      "summary": "米コーセラがUdemy買収で売上15億ドル規模に。スキル可視化とリスキリング効果測定の最新動向を紹介。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300093/"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "優れたマネジャーが持つ5つの特性とは",
-      "summary": "優秀なマネジャーは組織に方向性を示し成長機会を捉える才能を発揮する。ポリシー決定以外の5つの特性を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14063"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "コーセラCEO「スキル習熟度の可視化から発揮度合いまで測定可能に」",
-      "summary": "米コーセラがUdemy買収で売上15億ドル規模に。スキルの習熟度可視化と発揮度合い測定の技術進歩を説明。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/060300093/"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "前ウォルマートCEOが語るリーダーシップの要諦",
-      "summary": "12年間でウォルマートをデジタル企業に変革した前CEOが語る。直感重視、素早い実行の重要性を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14149"
     }
   ]
 }
