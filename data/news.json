@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-15T23:32:00+09:00",
+  "last_updated": "2026-06-16T23:29:43+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-16",
+      "title": "AIによって、あなたの会社は競争力を失っていないか 組織固有の強みを損なう3つのパターン",
+      "summary": "AIは効率化を促す一方、汎用的な基準への依存によって組織固有の強みを損ない、適応力や思慮深さを低下させるおそれがある。本稿では、AIが組織の能力を低下させる3つ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13860"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "営業組織を劇的にパワーアップする3つの方法 プレッシャーやマイクロマネジメントは逆効果",
+      "summary": "市場環境が厳しさを増す中、多くの企業は営業組織に対して管理を強化し、効率化を促進することで成果を出すように求めがちだ。しかし、量的な拡大やマイクロマネジメントに",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13859"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "フェア・プロセス負の感情を緩和する方法 不利益を被る社員を納得させる",
+      "summary": "金銭や理屈だけで、人を納得させることはできない。たとえばリストラにおいて、いくら補償を手厚くしても、わだかまりは消えない。医療ミスにおいて、施術は完璧でミスはな",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11646"
+    },
     {
       "date": "2026-06-15",
       "title": "編集部が厳選、今週の必読記事6選：2026年6月7日〜6月12日公開 AI時代に企業は何で選ばれるのか",
@@ -17,6 +41,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14020"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "第76回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_73593.html"
     },
     {
       "date": "2026-06-14",
@@ -49,14 +81,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13993"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "第76回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_73593.html"
     },
     {
       "date": "2026-06-12",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13854"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "第一線監督者が従業員参画制度に抵抗する理由と組織変革成功の条件",
-      "summary": "QWL計画失敗の主因は第一線監督者の抵抗。実態調査から導く組織変革推進の実践的条件を解説。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14058"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "AIエージェントを組織の「同僚」として統合する6つの実践アプローチ",
-      "summary": "エージェント型AI導入の本質は業務管理変革。銀行・物流事例から学ぶ人事プロセス拡張手法。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13854"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "EQ高いリーダーが組織活力を生む5つの自己革新ステップ",
-      "summary": "ゴールマンのEQ理論に基づく高業績リーダー育成法。リーダーのムードがチーム業績向上に直結。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12680"
     }
   ]
 }
