@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-16T23:29:43+09:00",
+  "last_updated": "2026-06-17T23:30:17+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-17",
+      "title": "｢あまり会食しない｣｢提言の聞き取りは手短に｣…高市首相\"独特な政治スタイル\"に死角なし？知見不足に陥る危険は | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "\"古い自民党\"のイメージとは一線を画す高市早苗首相の政治スタイルは､今の政界でどこまで機能するのか。自民党･政調会長特別補佐の鈴木英敬氏に､高市首相のリーダーシ",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948414?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "人間性という武器を持つリーダーだけが生き残る 組織を動かす「パワースキル」の実践法",
+      "summary": "多くのリーダーが過去の成功体験に依存し、現在の役割に適したスキルを見失っている。その結果、信頼の低下やイノベーションの停滞を招く。昇進後に重要となるのは、技術的",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13949"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "仕事のできる人は計画立案ではなく、時間管理から始める 連載『ドラッカー 365の金言』第9回",
+      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14021"
+    },
     {
       "date": "2026-06-16",
       "title": "AIによって、あなたの会社は競争力を失っていないか 組織固有の強みを損なう3つのパターン",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13855"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "AIエージェントを組織の「同僚」にする6つの実践アプローチ",
-      "summary": "AIエージェント導入の本質課題は業務管理。銀行・物流の先進事例から組織定着のための6つの実践手法を解説",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13854"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "失敗しない文化変革　経営と現場を分断する3つの壁を乗り越えよ (人的資本経営のキホン)",
-      "summary": "成長や不祥事からの再生における風土改革の失敗要因を分析。文化変革を阻む3つの壁を特定し、経営と現場の分断解消策を解説。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/060400029/"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "AIエージェントを「同僚」として迎え入れる6つのアプローチ 人間との役割分担を明確にできているか",
-      "summary": "AIエージェントをチームメンバーとして統合する際の業務管理課題に焦点。銀行・物流の先進事例から6つの実践的アプローチを提示。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13854"
     }
   ]
 }
