@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-18T23:32:04+09:00",
+  "last_updated": "2026-06-19T23:20:33+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-19",
+      "title": "元社員の隠れた価値を顕在化させる法",
+      "summary": "OBやOGと良好な関係を維持しておけば、知識創造、新規事業、有望な人材の紹介など、さまざまなメリットにあずかることができる。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14205"
+    },
+    {
+      "date": "2026-06-19",
+      "title": "人材育成では、強みに焦点を合わせなければならない 連載『ドラッカー 365の金言』第10回",
+      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14022"
+    },
     {
       "date": "2026-06-18",
       "title": "出張費「足りない」社員が7割超　平均値示し上限維持とコスト減図る企業も (人的資本の現場から)",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/061000095/"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "AI時代のサイバーリスクにリーダーはどう立ち向かうべきか 実践すべき「ACTS」のフレームワーク",
-      "summary": "AI進化でサイバー攻撃が予測不能に。BANI環境下で組織を守り抜くリーダーの新行動指針「ACTS」フレームワークを提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13884"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "意欲の高い従業員のやる気を削ぐマネジャーの行動 期待の裏返しが満足度の低下や離職につながる",
-      "summary": "エンゲージメント高い従業員への職務外業務割当が逆効果と判明。満足度低下・離職を防ぐ公平な配分の3つの対処法を提示。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13855"
     }
   ]
 }
