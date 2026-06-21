@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-06-20T23:25:33+09:00",
+  "last_updated": "2026-06-21T23:27:58+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-21",
+      "title": "編集部が厳選、今週の必読記事13選：2026年6月13日〜6月19日公開 AI時代に企業は何で差別化するのか",
+      "summary": "生成AIが経営環境を変える中、競争優位の源泉は組織能力や人間的価値へ移りつつある。AI時代のリーダーシップ、組織運営、営業・マーケティング、リスク対応から企業競",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14299"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "自らの強みを仕事の成功に活かす5つの方法 連載『ドラッカー 365の金言』第11回",
+      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14023"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "AI活用を加速するのは、共感型リーダーシップである 現場との認識のずれを埋めよ",
+      "summary": "AI導入をめぐっては、経営層の認識と従業員の実感との間に大きな隔たりがあり、多くの従業員が不安や不信感を抱いている。こうした状況下で、共感を伴うリーダーシップは",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14038"
+    },
     {
       "date": "2026-06-20",
       "title": "ロボットをどう使いこなすか アメリカにみるオートメ化へのカギ",
@@ -217,30 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13726"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "AI導入によるイノベーション停滞を回避する「戦略的摩擦」とは",
-      "summary": "生成AIが生産性向上の一方でイノベーション停滞を招く「生産性の罠」。組織の発想力維持には意図的な「戦略的摩擦」設計が不可欠。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13726"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "リーダーに欠かせない基本的な4つの能力とは何か 連載『ドラッカー 365の金言』第7回",
-      "summary": "ドラッカーが説くリーダーに欠かせない4つの基本能力。組織目標達成を求められる経営層へのインスピレーションとアドバイス。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14019"
-    },
-    {
-      "date": "2026-06-12",
-      "title": "裁量労働制3000人調査が示す導入成功のカギ",
-      "summary": "ビジネスパーソンの時間コントロール意識が強まる中、裁量労働制成功の要因は導入前の「働き方の制度設計」にあることが判明。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/061000095/"
     }
   ]
 }
