@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-21T23:27:58+09:00",
+  "last_updated": "2026-06-22T23:28:56+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-22",
+      "title": "加熱式たばこへの8000億円投資で｢次世代化｣を急ぐJT､株価2倍でも利回り4％を誇る高配当株に\"減配リスク\"は？ | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "たばこ業界のグローバル企業へと成長したJTは､堅調な海外事業に支えられ株価も上昇中。加熱式たばこの普及や新規事業への大規模投資で次世代の収益源確保に挑みます。",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948535?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "有能なリーダーへの過度な依存は組織を弱くする 悪循環を断ち切るための3つの視点",
+      "summary": "組織がリーダー層の交代や内部対立、プロセスの機能不全などの混乱に直面すると、往々にして最も有能な人物への依存が強まる。しかし、こうした状態が続くと、組織は特定の",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13676"
+    },
     {
       "date": "2026-06-21",
       "title": "編集部が厳選、今週の必読記事13選：2026年6月13日〜6月19日公開 AI時代に企業は何で差別化するのか",
@@ -225,22 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14031"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "シニアリーダー向け新キャリア戦略「フラクショナルワーク」",
-      "summary": "AI時代のキャリアリスク回避策として複数企業の非常勤経営幹部を担う新しい働き方が注目を集める",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13993"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "AI導入によるイノベーション停滞を防ぐ組織設計",
-      "summary": "生成AI活用で生産性向上する一方、探索行動減少でイノベーション停滞のリスク、戦略的摩擦設計が重要",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13726"
     }
   ]
 }
