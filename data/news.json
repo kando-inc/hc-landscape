@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-06-22T23:28:56+09:00",
+  "last_updated": "2026-06-23T23:23:01+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-06-22",
-      "title": "加熱式たばこへの8000億円投資で｢次世代化｣を急ぐJT､株価2倍でも利回り4％を誇る高配当株に\"減配リスク\"は？ | 政治・経済・投資 | 東洋経済オンライン",
-      "summary": "たばこ業界のグローバル企業へと成長したJTは､堅調な海外事業に支えられ株価も上昇中。加熱式たばこの普及や新規事業への大規模投資で次世代の収益源確保に挑みます。",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948535?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "date": "2026-06-23",
+      "title": "リーダーは従業員の「喜び」が持つ価値を過小評価している 8つのタイプ分析で判明した成果格差",
+      "summary": "多くの企業は従業員理解を直感や表面的な調査に頼っている。北米小売企業の最新研究は、従業員の喜びや動機をデータで可視化し、それが売上高や顧客満足度の向上につながる",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13795"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "最高のキャリアは自らの強みを重視することで築ける 連載『ドラッカー 365の金言』第12回",
+      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14024"
     },
     {
       "date": "2026-06-22",
@@ -33,6 +41,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14023"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "加熱式たばこへの8000億円投資で｢次世代化｣を急ぐJT､株価2倍でも利回り4％を誇る高配当株に\"減配リスク\"は？ | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "たばこ業界のグローバル企業へと成長したJTは､堅調な海外事業に支えられ株価も上昇中。加熱式たばこの普及や新規事業への大規模投資で次世代の収益源確保に挑みます。",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948535?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-06-21",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00876/061100003/"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "卓越した組織は「才能」ではなく「日常の仕組み」でつくる",
-      "summary": "持続的成果を上げる組織は人材・チーム・ルーチンの3要素を連動させたシステム設計で卓越性を構築している",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13762"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "AIが招く未来の不透明化に企業戦略とキャリアはどう対応すべきか",
-      "summary": "AI進化で見通し困難な時代、長期投資や人材育成の前提が揺らぎ企業の戦略的意思決定が複雑化している",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14031"
     }
   ]
 }
