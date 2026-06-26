@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-06-25T23:27:52+09:00",
+  "last_updated": "2026-06-26T23:24:18+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-26",
+      "title": "顧客満足と業績をリンクさせるマネジメント・ツール",
+      "summary": "全米最大のレンタカー会社、エンタープライズ・レンタカーは、「エンタープライズ・サービス・クオリティ・インデックス」という顧客満足と業績をリンクさせる評価指標を導",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14217"
+    },
     {
       "date": "2026-06-25",
       "title": "メンタル不調「知られたくない」社員も　産業医が示す中小企業への処方箋 (人的資本、プロの視点)",
@@ -36,11 +44,11 @@
     },
     {
       "date": "2026-06-25",
-      "title": "W杯現地レポで注目！ 元日向坂･影山優佳が｢No.1サッカータレント｣の地位を築いた､\"プロ顔負けのコメント力\" | ライフ | 東洋経済オンライン",
-      "summary": "北中米ワールドカップで注目を集める影山優佳。元･日向坂46の彼女はサッカー愛と知識､そして現地取材で得た熱気を武器に､専門家と一般視聴者をつなぐ新しいサッカータ",
+      "title": "2026年6月29日号 (バックナンバー目次)",
+      "summary": "人手不足が深刻化している。日本の経済は、もはや「日本人だけ」では回らない。現場を支えるのは外国人だ。政府も外国人材の定着に向け制度を大転換する。外国人材をうまく",
       "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948871?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/NBD/19/mokuji/00377/"
     },
     {
       "date": "2026-06-25",
@@ -73,6 +81,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14024"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "W杯現地レポで注目！ 元日向坂･影山優佳が｢No.1サッカータレント｣の地位を築いた､\"プロ顔負けのコメント力\" | ライフ | 東洋経済オンライン",
+      "summary": "北中米ワールドカップで注目を集める影山優佳。元･日向坂46の彼女はサッカー愛と知識､そして現地取材で得た熱気を武器に､専門家と一般視聴者をつなぐ新しいサッカータ",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/948871?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-06-22",
@@ -225,22 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11646"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "編集部が厳選、今週の必読記事6選：2026年6月7日〜6月12日公開 AI時代に企業は何で選ばれるのか",
-      "summary": "生成AIやAIエージェントの普及により、企業の課題は技術導入から人、組織、顧客との信頼構築へと移りつつある。今回紹介する記事では、AI活用の原則、エージェントと",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14248"
-    },
-    {
-      "date": "2026-06-15",
-      "title": "知識労働者には自らをマネジメントする責任がある 連載『ドラッカー 365の金言』第8回",
-      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14020"
     }
   ]
 }
