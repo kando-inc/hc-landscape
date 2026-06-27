@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-06-26T23:24:18+09:00",
+  "last_updated": "2026-06-27T23:21:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-27",
+      "title": "リーダーはどうすれば主体性の高い組織文化を築けるのか GE、IBM、ピクサーに学ぶ",
+      "summary": "不確実性や混乱が続く時代には、人や組織は無力感に陥りやすい。しかし、優れたリーダーは、人々の認識や期待、挑戦への姿勢を広げる信念を育み、主体的な行動を引き出して",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13856"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "イノベーションに最適な協働の形とは何か 3つの集合体モデルとそのマネジメント法",
+      "summary": "イノベーションを生み出すには、単純にコラボレーションを強化すればよいわけではない。効果的なマネジメントのあり方は、集合体の構造によって異なる。目標の共有度合いと",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13881"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "クロス・ファンクショナル・チームの落とし穴",
+      "summary": "グループ・イノベーションにとって、多様性、結束力、そして自主性は、必要不可欠であるかのように見える。だが、過ぎたるは及ばざるがごとしなのだ。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14218"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "コミュニケーションの主導権は、話し手ではなく聞き手にある 連載『ドラッカー 365の金言』第14回",
+      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14026"
+    },
     {
       "date": "2026-06-26",
       "title": "顧客満足と業績をリンクさせるマネジメント・ツール",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14021"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "AIによって、あなたの会社は競争力を失っていないか 組織固有の強みを損なう3つのパターン",
-      "summary": "AIは効率化を促す一方、汎用的な基準への依存によって組織固有の強みを損ない、適応力や思慮深さを低下させるおそれがある。本稿では、AIが組織の能力を低下させる3つ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13860"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "営業組織を劇的にパワーアップする3つの方法 プレッシャーやマイクロマネジメントは逆効果",
-      "summary": "市場環境が厳しさを増す中、多くの企業は営業組織に対して管理を強化し、効率化を促進することで成果を出すように求めがちだ。しかし、量的な拡大やマイクロマネジメントに",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13859"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "｢あまり会食しない｣｢提言の聞き取りは手短に｣…高市首相\"独特な政治スタイル\"に死角なし？知見不足に陥る危険は | 政治・経済・投資 | 東洋経済オンライン",
-      "summary": "\"古い自民党\"のイメージとは一線を画す高市早苗首相の政治スタイルは､今の政界でどこまで機能するのか。自民党･政調会長特別補佐の鈴木英敬氏に､高市首相のリーダーシ",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948414?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "フェア・プロセス負の感情を緩和する方法 不利益を被る社員を納得させる",
-      "summary": "金銭や理屈だけで、人を納得させることはできない。たとえばリストラにおいて、いくら補償を手厚くしても、わだかまりは消えない。医療ミスにおいて、施術は完璧でミスはな",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11646"
     }
   ]
 }
