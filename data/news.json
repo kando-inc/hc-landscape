@@ -1,22 +1,14 @@
 {
-  "last_updated": "2026-06-28T23:21:56+09:00",
+  "last_updated": "2026-06-29T23:20:41+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-06-28",
-      "title": "ヒューリックがホテルで加速させる｢非･不動産｣…西浦会長が全社員に｢自分の思惑と違うなら辞めてもいい｣と求める覚悟 | ビジネス | 東洋経済オンライン",
-      "summary": "2026年2月に発表した新たな中長期経営計画で､不動産以外の新規事業に注力する方針を示したヒューリック。新規事業の中で｢最も確度の高い成長領域｣は……。西浦会長",
+      "date": "2026-06-29",
+      "title": "ソーシャル・キャピタルのジレンマ",
+      "summary": "イノベーションを創発する有機的なコラボレーションには、高水準のソーシャル・キャピタル（人間関係）が必要だとされてきた。しかし調査によると、まったく逆の結果が判明",
       "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938514?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "社員の研修にお金をかける企業ランキング…5位は三菱商事､4位は三井物産､ではトップ3は？ | ライフ | 東洋経済オンライン",
-      "summary": "人材育成への投資が企業経営の命運を左右する時代､従業員の教育研修費用は企業選びの新たな指標となっています。従業員の研修にお金をかける企業をランキングにしました。",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949374?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14244"
     },
     {
       "date": "2026-06-28",
@@ -49,6 +41,22 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13856"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "ヒューリックがホテルで加速させる｢非･不動産｣…西浦会長が全社員に｢自分の思惑と違うなら辞めてもいい｣と求める覚悟 | ビジネス | 東洋経済オンライン",
+      "summary": "2026年2月に発表した新たな中長期経営計画で､不動産以外の新規事業に注力する方針を示したヒューリック。新規事業の中で｢最も確度の高い成長領域｣は……。西浦会長",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/938514?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "社員の研修にお金をかける企業ランキング…5位は三菱商事､4位は三井物産､ではトップ3は？ | ライフ | 東洋経済オンライン",
+      "summary": "人材育成への投資が企業経営の命運を左右する時代､従業員の教育研修費用は企業選びの新たな指標となっています。従業員の研修にお金をかける企業をランキングにしました。",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949374?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-06-27",
@@ -233,14 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14205"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "人材育成では、強みに焦点を合わせなければならない 連載『ドラッカー 365の金言』第10回",
-      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14022"
     }
   ]
 }
