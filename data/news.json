@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-06-29T23:20:41+09:00",
+  "last_updated": "2026-06-30T23:26:14+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-06-30",
+      "title": "優れたリーダーは「脇役」に徹している 答えを示すのではなく、部下が主役の物語を支えよ",
+      "summary": "自身を主役と見なす「メインキャラクターエナジー」は、周囲からの信頼や業績、リーダー自身の幸福を損なう。これに対し、みずからを脇役と位置づけて他者の成長を支援する",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14037"
+    },
     {
       "date": "2026-06-29",
       "title": "ソーシャル・キャピタルのジレンマ",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14090"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "元社員の隠れた価値を顕在化させる法",
-      "summary": "OBやOGと良好な関係を維持しておけば、知識創造、新規事業、有望な人材の紹介など、さまざまなメリットにあずかることができる。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14205"
     }
   ]
 }
