@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-30T23:26:14+09:00",
+  "last_updated": "2026-07-01T23:27:18+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-01",
+      "title": "SOMPOケア、インドで介護人材育成　労働力確保の難題「7000ドルの壁」 (「外国人材」資本経営)",
+      "summary": "中国を経て、東南アジアへ。日本企業は人材を求めアジアをさまよう。「7000ドルの壁」に押し出され、開拓の動きはついにインドへ到達した。人的資本経営を磨き争奪戦を",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00890/062600008/"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "鹿島･桐生社長｢次期中計は将来への布石｣…創業家一族不在で迎える新時代､3兆円ゼネコンの次の一手 | ビジネス | 東洋経済オンライン",
+      "summary": "2025年度に売上高3兆円超えと過去最高益を記録した鹿島。創業家一族不在の新体制で､技術革新や人材育成､海外戦略など多角的な成長を目指します。急速な環境変化と人",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/949823?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "AI変革を阻むミドルマネジャーと経営幹部との認識ギャップ 組織の足並みを揃える5つのアプローチ",
+      "summary": "AIへの投資が拡大する一方で、多くの企業は期待した成果を十分に得られていない。その背景には、AIの可能性を見る経営幹部と、現場でその課題や限界に直面するミドルマ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13883"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "失敗に寛容な組織をつくる 【2002年度マッキンゼー賞金賞論文】　エンゲージメント・リーダーの責任",
+      "summary": "失敗の「重要性」に対する認識は、まだまだ組織に根づいていない。失敗に寛容な風土を生み出すリーダーの要件を分析する。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12350"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "チームEQの強化法 個の総和を超えた企業力",
+      "summary": "人材の優秀さは、IQ（知能指数）だけでなく、EQ（心の知能指数）によって決まるという。ただし個人の能力の総和が企業の競争力を決定づけるわけではない。エクセレント",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12784"
+    },
     {
       "date": "2026-06-30",
       "title": "優れたリーダーは「脇役」に徹している 答えを示すのではなく、部下が主役の物語を支えよ",
@@ -201,46 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14023"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "加熱式たばこへの8000億円投資で｢次世代化｣を急ぐJT､株価2倍でも利回り4％を誇る高配当株に\"減配リスク\"は？ | 政治・経済・投資 | 東洋経済オンライン",
-      "summary": "たばこ業界のグローバル企業へと成長したJTは､堅調な海外事業に支えられ株価も上昇中。加熱式たばこの普及や新規事業への大規模投資で次世代の収益源確保に挑みます。",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/948535?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "AI活用を加速するのは、共感型リーダーシップである 現場との認識のずれを埋めよ",
-      "summary": "AI導入をめぐっては、経営層の認識と従業員の実感との間に大きな隔たりがあり、多くの従業員が不安や不信感を抱いている。こうした状況下で、共感を伴うリーダーシップは",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14038"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "ロボットをどう使いこなすか アメリカにみるオートメ化へのカギ",
-      "summary": "ロボットを成功裡に職場に導入する条件は、マネジメントの、何台を、どの時点で、どこに、またそれについて誰が知っていなければならないかに関する意思決定にある。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14103"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "企業のアライシップの信頼性はタイミングで判断される LGBTQ+当事者の受け止め方を考える",
-      "summary": "毎年6月のプライド月間になると、企業はこぞってレインボーフラッグを掲げてLGBTQ+への連帯を示す。長らくそれが企業の「定石」だった。しかし、多くの組織がいっせ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13995"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "マーケティング戦略をうまく実行に移す法 市場での成功を阻む戦略実行のマトはずれ",
-      "summary": "効果的な実行とは、会社の組織と管理者の能力がもっともすぐれている分野に、いかに努力を集中するかという問題だ。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14090"
     }
   ]
 }
