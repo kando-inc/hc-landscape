@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-06T23:57:42+09:00",
+  "last_updated": "2026-07-07T23:45:24+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-07",
+      "title": "SHIFT、440人の採用ストップ　新卒はAI活用で10年分スキルを1年で習得 (AIに淘汰されるな)",
+      "summary": "AIはコーディングや不具合の検知まで担うようになってきた。大量採用を強みとしてきたSHIFTは募集を減らし、求めるスキルも変えた。存在感を高める職種も生まれる中",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00898/063000006/"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "なぜ従業員は生成AIにこれほど脅威を感じるのか 3つの心理的欲求が根底に潜んでいる",
+      "summary": "生成AIが仕事を担うようになるにつれ、働き手は自分の役割や組織内での価値をいままでとは違った形で認識し始めている。筆者らの調査によれば、3つの重要な心理的欲求の",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14360"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "「無礼」が利益を蝕む 敬意の欠如は社員と顧客の喪失につながる",
+      "summary": "多くの人が日々、無礼な振る舞いを受け、礼を失した言動を目にしている。従業員は失意のうちに会社を去り、顧客は不快な印象とともに離れ、生産性は失われてゆく。明らかに",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/2212"
+    },
     {
       "date": "2026-07-06",
       "title": "パナソニックの原点に立ち返り、個人の挑戦を組織の成長へとつなげる ［インタビュー］ルールで縛る文化から脱却できるか",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/949374?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "イノベーションに最適な協働の形とは何か 3つの集合体モデルとそのマネジメント法",
-      "summary": "イノベーションを生み出すには、単純にコラボレーションを強化すればよいわけではない。効果的なマネジメントのあり方は、集合体の構造によって異なる。目標の共有度合いと",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13881"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "クロス・ファンクショナル・チームの落とし穴",
-      "summary": "グループ・イノベーションにとって、多様性、結束力、そして自主性は、必要不可欠であるかのように見える。だが、過ぎたるは及ばざるがごとしなのだ。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14218"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "コミュニケーションの主導権は、話し手ではなく聞き手にある 連載『ドラッカー 365の金言』第14回",
-      "summary": "世界最高の経営思想家ピーター・ドラッカーの洞察力に富んだ言葉の数々を1日1ページ、1年365日で構成した書籍『ドラッカー 365の金言』。世界の政財界に広く助言",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14026"
     }
   ]
 }
