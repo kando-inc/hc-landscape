@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-07T23:45:24+09:00",
+  "last_updated": "2026-07-08T23:59:17+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-08",
+      "title": "リーダーの思考構造を歴代米国大統領で分析・比較してみる：レクティカ理論で読み解く意思決定の質 連載『成人発達理論で考える部下の育て方とリーダーの成長』第20回",
+      "summary": "企業では戦略が現場で機能しない、議論がかみ合わないといった問題がしばしば起こる。この背景には、知識量ではなくリーダーと部下の「思考の構造」（複雑性のレベル）の違",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14316"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "「所有から利用へ」のITマネジメント ウェブ・サービス・アーキテクチャの可能性",
+      "summary": "企業が専有の情報システムを確立する時代は終わりつつある。今後は必要に応じて、ウェブでシステムを購入すべきだ。そうすればデータ互換の問題に悩まされることなく、常に",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12717"
+    },
+    {
+      "date": "2026-07-08",
+      "title": "反トラスト法に抵触しないM&Aマネジメント",
+      "summary": "企業は、中立的な立場の元社員を活用することで、合併では最も重要な企業統合のプロセスにおいて、他社に一歩先んじることができる。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14273"
+    },
     {
       "date": "2026-07-07",
       "title": "SHIFT、440人の採用ストップ　新卒はAI活用で10年分スキルを1年で習得 (AIに淘汰されるな)",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14353"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "リーダーはどうすれば主体性の高い組織文化を築けるのか GE、IBM、ピクサーに学ぶ",
-      "summary": "不確実性や混乱が続く時代には、人や組織は無力感に陥りやすい。しかし、優れたリーダーは、人々の認識や期待、挑戦への姿勢を広げる信念を育み、主体的な行動を引き出して",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13856"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "ヒューリックがホテルで加速させる｢非･不動産｣…西浦会長が全社員に｢自分の思惑と違うなら辞めてもいい｣と求める覚悟 | ビジネス | 東洋経済オンライン",
-      "summary": "2026年2月に発表した新たな中長期経営計画で､不動産以外の新規事業に注力する方針を示したヒューリック。新規事業の中で｢最も確度の高い成長領域｣は……。西浦会長",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/938514?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "社員の研修にお金をかける企業ランキング…5位は三菱商事､4位は三井物産､ではトップ3は？ | ライフ | 東洋経済オンライン",
-      "summary": "人材育成への投資が企業経営の命運を左右する時代､従業員の教育研修費用は企業選びの新たな指標となっています。従業員の研修にお金をかける企業をランキングにしました。",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/949374?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
