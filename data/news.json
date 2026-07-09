@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-07-08T23:59:17+09:00",
+  "last_updated": "2026-07-09T23:57:20+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-09",
+      "title": "息を吹き返した「社宅」が人材確保・育成の切り札　伊藤忠は社有寮を復活、三菱地所はシェア寮開発　 (第2特集)",
+      "summary": "経済低迷や終身雇用の揺らぎで売却や縮小が続いた社宅が、息を吹き返している。居住コストが高騰する中、人手確保や手取りの引き上げに役立つとの見方が強まる。「人的資本",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/NBD/19/00117/00420/"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "強いチームをつくる 編集長ブログ",
+      "summary": "『DIAMOND ハーバード・ビジネス・レビュー』（DHBR）2026年8月号の特集は「強いチームをつくる」です。どんな状況にあっても結果を出し続けられるチーム",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14253"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "アカウンタビリティは部下に強制せず、みずから選ばせるもの 監視や統制を強化しても、真の成果にはつながらない",
+      "summary": "アカウンタビリティ（結果に対する責任）は監視や統制することで強制できるものではなく、個人やチームが自発的に選び取る姿勢である。部下に対する過度な管理は、彼らの責",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14033"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "ブロックバスター商品のつくり方",
+      "summary": "〈IBM360〉〈ウォークマン〉は言うに及ばず、歯磨きのようなコモディティでも、その大成功にはトップ・マネジメントが大きな役割を果たす。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14255"
+    },
     {
       "date": "2026-07-08",
       "title": "リーダーの思考構造を歴代米国大統領で分析・比較してみる：レクティカ理論で読み解く意思決定の質 連載『成人発達理論で考える部下の育て方とリーダーの成長』第20回",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14037"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "ソーシャル・キャピタルのジレンマ",
-      "summary": "イノベーションを創発する有機的なコラボレーションには、高水準のソーシャル・キャピタル（人間関係）が必要だとされてきた。しかし調査によると、まったく逆の結果が判明",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14244"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "AIによる「自動化」ではなく「オーグメンテーション」が長期的な成功をもたらす 短期的なコスト削減が組織を蝕む理由",
-      "summary": "企業経営者はAIの導入をめぐり、効率化に伴う人員削減を目的とする「自動化」か、売上高を伸ばす「オーグメンテーション」（拡張）かという選択を迫られている。調査によ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13997"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "技術と創造性を融合させるマネジメント",
-      "summary": "ディスニー映画の『トイ・ストーリー』で脚光を浴びた長編アニメ制作会社は、技術者主導型でもなく、アーティスト主導型でもなく、両者を並列に扱うマネジメントで成功した",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14220"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "編集部が厳選、今週の必読記事12選：2026年6月20日〜6月26日公開 競争ルールは変わっても経営の本質は変わらない",
-      "summary": "生成AIの普及や地政学リスク、脱炭素への対応など、企業を取り巻く環境は一段と複雑化している。その中で競争優位を築くには、組織を導くリーダーシップや変化に適応する",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14353"
     }
   ]
 }
