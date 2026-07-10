@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-09T23:57:20+09:00",
+  "last_updated": "2026-07-10T23:47:00+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-10",
+      "title": "AIで収益を伸ばす企業が実践する4つのステップ 単なる生産性の向上で終わらせない",
+      "summary": "生成AIの導入が進む一方、多くの企業は個別業務の自動化に留まり、期待したROIを得られていない。成功企業はAIを事業価値や競争優位を再定義する手段と捉え、組織横",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14043"
+    },
     {
       "date": "2026-07-09",
       "title": "息を吹き返した「社宅」が人材確保・育成の切り札　伊藤忠は社有寮を復活、三菱地所はシェア寮開発　 (第2特集)",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/949823?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "優れたリーダーは「脇役」に徹している 答えを示すのではなく、部下が主役の物語を支えよ",
-      "summary": "自身を主役と見なす「メインキャラクターエナジー」は、周囲からの信頼や業績、リーダー自身の幸福を損なう。これに対し、みずからを脇役と位置づけて他者の成長を支援する",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14037"
     }
   ]
 }
