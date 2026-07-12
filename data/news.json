@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-07-11T23:42:30+09:00",
+  "last_updated": "2026-07-12T23:42:23+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-12",
+      "title": "米国内で半導体サプライチェーンを完成させるための3つの方策 後工程のアジア集中を是正する",
+      "summary": "米国では半導体製造拠点の国内回帰が進んでいるが、検査やパッケージングなどの後工程は依然としてアジアに集中しており、サプライチェーンの大きな弱点となっている。高コ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14029"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "旧態依然としたワークフローから脱却するためのAI活用法 過去を捨て去る「組織的忘却」で未来の競争力を築く",
+      "summary": "企業の競争力を損なう原因は能力不足ではなく、過去の成功体験や慣行への固執にある。市場環境が急変する中、組織には不要な前提や手法を手放す「組織的忘却」が求められて",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14071"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "協同組合のアドバンテージ",
+      "summary": "REIはアウトドア用品の製造・販売を手掛けているが、顧客がオーナーでもある協同組合方式で運営されている。そこには株式会社組織の長年来の課題を解決するヒントがある",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14287"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "編集部が厳選、今週の必読記事5選：2026年7月4日〜7月10日公開 部分最適に陥ると、持続的な成長から遠ざかる",
+      "summary": "生成AIの普及や市場環境の変化により、「人」「組織」「顧客」との向き合い方が問われている。リーダーは、持続的な成長を支えるマネジメントをいかに実践すべきか。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14433"
+    },
     {
       "date": "2026-07-11",
       "title": "ドラッカーが説いた「マネジメント」の重要な役割 連載『［英和対訳］決定版 ドラッカー名言集』第1回",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13883"
-    },
-    {
-      "date": "2026-07-03",
-      "title": "村上宗隆も山田哲人もいないが…最下位から一転､首位争いに絡むヤクルト　池山監督の｢成果を出すチーム｣の作り方とは？ | キャリア・教育 | 東洋経済オンライン",
-      "summary": "昨季最下位に沈んだヤクルトが､一転して快進撃を続ける背景には､池山新監督の独自のリーダーシップがあります。",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/950291?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "失敗に寛容な組織をつくる 【2002年度マッキンゼー賞金賞論文】　エンゲージメント・リーダーの責任",
-      "summary": "失敗の「重要性」に対する認識は、まだまだ組織に根づいていない。失敗に寛容な風土を生み出すリーダーの要件を分析する。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12350"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "チームEQの強化法 個の総和を超えた企業力",
-      "summary": "人材の優秀さは、IQ（知能指数）だけでなく、EQ（心の知能指数）によって決まるという。ただし個人の能力の総和が企業の競争力を決定づけるわけではない。エクセレント",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12784"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "SOMPOケア、インドで介護人材育成　労働力確保の難題「7000ドルの壁」 (「外国人材」資本経営)",
-      "summary": "中国を経て、東南アジアへ。日本企業は人材を求めアジアをさまよう。「7000ドルの壁」に押し出され、開拓の動きはついにインドへ到達した。人的資本経営を磨き争奪戦を",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00890/062600008/"
     }
   ]
 }
