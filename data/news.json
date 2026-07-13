@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-12T23:42:23+09:00",
+  "last_updated": "2026-07-13T23:41:58+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-13",
+      "title": "日本企業はなぜ世界的ヒットを生み出せたのか ソニー、任天堂、NTTドコモなどの成功事例から読み解く",
+      "summary": "日本発のヒット商品には共通点がある。それは、性能や機能を追求するのではなく、人々が受け入れやすい形で価値を提供していることだ。ウォークマンやゲームボーイ、絵文字",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14030"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "急成長企業が陥る「集権か分権か」のジレンマを乗り越える方法 規律と適応力を両立する、構造的エンパワーメントの実践",
+      "summary": "企業が急成長を遂げ組織が拡大すると、意思決定のコントロールが利かなくなる壁に直面する。権限を集権化すれば現場の柔軟性が失われ、分権化すればサービスの一貫性が損な",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14078"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "4つのケースにみる\"マネジャーと恋人\" オフィスラブ　アメリカ版",
+      "summary": "組織のなかで大人同士の愛が花開くとき、トップマネジャーはその結果を踏まえ、賢明に対処していかなければならない。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14132"
+    },
     {
       "date": "2026-07-12",
       "title": "米国内で半導体サプライチェーンを完成させるための3つの方策 後工程のアジア集中を是正する",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/070100097/"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "従業員のひそかなAI利用を生産性向上につなげる方法 成功企業が実践した5つの原則",
-      "summary": "従業員による生成AIの無許可利用は、管理すべきリスクであると同時に、組織内に眠る需要とイノベーションの兆候でもある。欧州大手銀行のBBVAは、安全な利用環境を迅",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13953"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "技術に対するマネジャーの7つの誤解 イノベーション活動をどう管理すべきか",
-      "summary": "技術に関して現実とかけ離れた思い込みをすると、イノベーションの管理は、実際よりも困難なものになる。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14109"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "AI変革を阻むミドルマネジャーと経営幹部との認識ギャップ 組織の足並みを揃える5つのアプローチ",
-      "summary": "AIへの投資が拡大する一方で、多くの企業は期待した成果を十分に得られていない。その背景には、AIの可能性を見る経営幹部と、現場でその課題や限界に直面するミドルマ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13883"
     }
   ]
 }
