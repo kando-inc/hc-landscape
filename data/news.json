@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-19T23:45:48+09:00",
+  "last_updated": "2026-07-20T23:46:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-20",
+      "title": "製品の品質を高める3つのカギ 収益の達成と競争力維持の起点",
+      "summary": "製品保証、関連データ、および納入業者のコントロールをいかに組織化するか。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14136"
+    },
     {
       "date": "2026-07-19",
       "title": "リーダーの評価を左右するフォロワーの6つのニーズ 見落とされがちな成功の条件",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/NBD/19/00117/00420/"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "強いチームをつくる 編集長ブログ",
-      "summary": "『DIAMOND ハーバード・ビジネス・レビュー』（DHBR）2026年8月号の特集は「強いチームをつくる」です。どんな状況にあっても結果を出し続けられるチーム",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14253"
     }
   ]
 }
