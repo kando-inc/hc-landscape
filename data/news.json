@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-24T23:54:58+09:00",
+  "last_updated": "2026-07-25T23:50:57+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-25",
+      "title": "AI時代にマーケティング部門がボトルネックになる理由 ツールではなく組織を見直す",
+      "summary": "AI導入で商品開発が高速化する一方、従来型のマーケティング組織は、逐次的プロセスやサイロ化されたシステムが障害となり、事業のボトルネックになっている。これを解決",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14075"
+    },
     {
       "date": "2026-07-23",
       "title": "「転勤の多い会社は嫌」6年連続増　トラスコ中山は恋人の近隣に半年で異動も (人的資本の現場から)",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14132"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "米国内で半導体サプライチェーンを完成させるための3つの方策 後工程のアジア集中を是正する",
-      "summary": "米国では半導体製造拠点の国内回帰が進んでいるが、検査やパッケージングなどの後工程は依然としてアジアに集中しており、サプライチェーンの大きな弱点となっている。高コ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14029"
     }
   ]
 }
