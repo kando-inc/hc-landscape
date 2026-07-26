@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-07-25T23:50:57+09:00",
+  "last_updated": "2026-07-26T23:51:53+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-26",
+      "title": "ソニー安倍氏が語る人的資本経営　「『人を大事に』は要諦にあらず」 (人的資本の現場から)",
+      "summary": "「人的資本経営コンソーシアム」のこれからと今後をキーパーソンに聞く短期集中連載。第2回は前ソニーグループ執行役専務で、現アドバイザーの安部氏が登場。「ソニー創業",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/071600103/"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "最高レジリエンス責任者を設置すべき理由 危機の連鎖を止める新たな役割",
+      "summary": "企業を襲う障害は、単一システムに留まらず、組織全体へ連鎖して被害を拡大させる。機能や組織を横断して復旧を統括する責任者の不在が多くの企業において課題となっている",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14172"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "編集部が厳選、今週の必読記事10選：2026年7月18日〜7月24日公開 仕組みは更新し続けるものである",
+      "summary": "AI時代の働き方やリーダーシップ、人材評価をはじめ、成熟企業の成長、意思決定、バーンアウト、AIリスクなど、変化を成長機会に変える知見を紹介する。",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14574"
+    },
     {
       "date": "2026-07-25",
       "title": "AI時代にマーケティング部門がボトルネックになる理由 ツールではなく組織を見直す",
@@ -9,6 +33,22 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14075"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "一度も大きな間違いをしたことのない人を、トップに据えてはならない 連載『［英和対訳］決定版 ドラッカー名言集』第7回",
+      "summary": "経営学の泰斗にして世界の企業人に多大な影響を与えたピーター・ドラッカーが、後世に託したメッセージは何か。経営、ビジネス・スキル、社会など、幅広い分野で支持を集め",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14263"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "本格化する「オープン・イノベーション」",
+      "summary": "クローズド・イノベーションの欠点も許容できなくなった。一方オープン・イノベーションの成果が顕著になっている。そろそろ、自前主義のR&Dを止めてみてはどうだろう。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14318"
     },
     {
       "date": "2026-07-23",
@@ -33,22 +73,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/072300107/"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "一度も大きな間違いをしたことのない人を、トップに据えてはならない 連載『［英和対訳］決定版 ドラッカー名言集』第7回",
-      "summary": "経営学の泰斗にして世界の企業人に多大な影響を与えたピーター・ドラッカーが、後世に託したメッセージは何か。経営、ビジネス・スキル、社会など、幅広い分野で支持を集め",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14263"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "本格化する「オープン・イノベーション」",
-      "summary": "クローズド・イノベーションの欠点も許容できなくなった。一方オープン・イノベーションの成果が顕著になっている。そろそろ、自前主義のR&Dを止めてみてはどうだろう。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14318"
     },
     {
       "date": "2026-07-20",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/12598"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "日本企業はなぜ世界的ヒットを生み出せたのか ソニー、任天堂、NTTドコモなどの成功事例から読み解く",
-      "summary": "日本発のヒット商品には共通点がある。それは、性能や機能を追求するのではなく、人々が受け入れやすい形で価値を提供していることだ。ウォークマンやゲームボーイ、絵文字",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14030"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "急成長企業が陥る「集権か分権か」のジレンマを乗り越える方法 規律と適応力を両立する、構造的エンパワーメントの実践",
-      "summary": "企業が急成長を遂げ組織が拡大すると、意思決定のコントロールが利かなくなる壁に直面する。権限を集権化すれば現場の柔軟性が失われ、分権化すればサービスの一貫性が損な",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14078"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "4つのケースにみる\"マネジャーと恋人\" オフィスラブ　アメリカ版",
-      "summary": "組織のなかで大人同士の愛が花開くとき、トップマネジャーはその結果を踏まえ、賢明に対処していかなければならない。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14132"
     }
   ]
 }
