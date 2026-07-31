@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-30T23:52:59+09:00",
+  "last_updated": "2026-07-31T23:52:43+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-07-31",
+      "title": "Sansan、メルカリ「CHRO兼AI責任者」登場　AIもヒトと同じ働き手に (人的資本の現場から)",
+      "summary": "SansanとメルカリはHR戦略とAI戦略を融合させる人事体制を発表した。従来の人的資本経営の前提を揺さぶり始めている。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/073000108/"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "取締役会議長がいま担うべき仕事 多様化する利害関係者と複雑化するリスクに対応する",
+      "summary": "今日の取締役会は、利害関係者の多様化、テクノロジーの進歩や気候変動によるリスクの複雑化への対応が求められており、取締役会議長はそれを導く役割を担う。そのため、戦",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14566"
+    },
     {
       "date": "2026-07-30",
       "title": "「将軍に平身低頭の大名」脱却へ　2500人超のプロ起点に人的資本改革　 (MUFG、未完の王者　時価総額1位、AI時代の金融進化論)",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/952030?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "生成AIの潜在能力を人事評価に活かす方法 従業員の優れた行動や意思決定を可視化する",
-      "summary": "企業が人事評価の効率化に向けて生成AIを導入する中、多くの組織は単に文章を洗練させるために活用しており、評価の偏りや根拠不足を隠蔽するリスクが生じている。本来、",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14115"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "生産性を上げるには、学ぶ組織と教える組織にならねばならない 連載『［英和対訳］決定版 ドラッカー名言集』第4回",
-      "summary": "経営学の泰斗にして世界の企業人に多大な影響を与えたピーター・ドラッカーが、後世に託したメッセージは何か。経営、ビジネス・スキル、社会など、幅広い分野で支持を集め",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14260"
     }
   ]
 }
