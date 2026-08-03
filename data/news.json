@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-08-02T23:49:15+09:00",
+  "last_updated": "2026-08-03T23:59:17+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-08-02",
-      "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
-      "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語である",
+      "date": "2026-08-03",
+      "title": "MUFG、専門人材2500人でスピード感　「将軍に平身低頭の大名」汚名返上 (MUFG、未完の王者)",
+      "summary": "MUFGは2005年の発足当初、大物OBから「江戸城」と評された。上意下達の組織を変え、ビジネスを迅速に展開するための人的資本経営に粘り強く臨む。",
       "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00912/072900004/"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "上司と「うまく付き合う」必要はない ［インタビュー］大義のために覚悟を持って働く",
+      "summary": "「世界一の鉄鋼メーカーに復権する」ことは悲願であり使命だとして、有言実行で米国USスチールの買収を実現するなど、剛腕で知られる日本製鉄会長兼CEOの橋本英二氏。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14571"
     },
     {
       "date": "2026-08-02",
@@ -41,6 +49,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14567"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
+      "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語である",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-07-31",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14122"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "20代の4割が業務時間外の連絡「しない」　長時間労働なく成長への不安も (人的資本の現場から)",
-      "summary": "共同調査「労働時間と休日に関する意識調査」から、企業が人材マネジメントを考える上でのヒントが見えてきた。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/071700105/"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "編集部が厳選、今週の必読記事13選：2026年7月11日〜7月17日公開 スピードではなく経営力",
-      "summary": "AI活用の焦点は導入の是非から、組織や業務にどう組み込み競争優位へつなげるかへ移っている。人事評価やリーダーシップ、組織設計、サプライチェーン、イノベーション創",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14498"
     }
   ]
 }
