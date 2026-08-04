@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-03T23:59:17+09:00",
+  "last_updated": "2026-08-04T23:53:56+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-04",
+      "title": "上司に理想を語る抵抗者ではなく、みずから実現する改革者であれ ［インタビュー］ロジックと共感で意思決定者を動かす",
+      "summary": "組織の中で挑戦したい仕事を見つけられたとしても、自分が決定権を持たなければ、上司の信頼を勝ち取り、仕事を任せてもらうというプロセスが不可欠となる。上司を動かすう",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14570"
+    },
     {
       "date": "2026-08-03",
       "title": "MUFG、専門人材2500人でスピード感　「将軍に平身低頭の大名」汚名返上 (MUFG、未完の王者)",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14073"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "グローバル企業が「本社中心」の意思決定で失っているもの 遠隔地拠点の知見を軽視していないか",
-      "summary": "グローバル企業の経営では、本社への物理的な近さが意思決定を左右し、本社から離れた場所にある地域拠点の知見が軽視される「権力の不均衡」が課題となる。この格差は、時",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14122"
     }
   ]
 }
