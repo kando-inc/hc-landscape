@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-04T23:53:56+09:00",
+  "last_updated": "2026-08-05T23:47:05+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-05",
+      "title": "小池知事に直撃、肝煎り「女性活躍条例」の狙い　「心技体」で中小に変革迫る (人的資本の現場から)",
+      "summary": "東京都が7月、女性活躍推進条例を施行した。都内の企業に女性の積極的な雇用などを求める内容だが、罰則規定はない。就任10年を迎えた小池百合子都知事の条例にかける思",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/080400110/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "日本の製造業の勝ち筋は「面倒くさいものづくり」にある  DHBR創刊50周年：識者が示すマネジメントのこれから［第4回］歴史の中で培われた組織能力を活かす",
+      "summary": "日本の製造業はバブル崩壊以降、客観的な根拠の乏しい衰退論にさらされ、デジタル系の新産業へのシフトを急ぐ風潮が蔓延してきた。東京大学の藤本隆宏名誉教授はこれに対し",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14564"
+    },
     {
       "date": "2026-08-04",
       "title": "上司に理想を語る抵抗者ではなく、みずから実現する改革者であれ ［インタビュー］ロジックと共感で意思決定者を動かす",
@@ -9,14 +25,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14570"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "MUFG、専門人材2500人でスピード感　「将軍に平身低頭の大名」汚名返上 (MUFG、未完の王者)",
-      "summary": "MUFGは2005年の発足当初、大物OBから「江戸城」と評された。上意下達の組織を変え、ビジネスを迅速に展開するための人的資本経営に粘り強く臨む。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00912/072900004/"
     },
     {
       "date": "2026-08-03",
@@ -41,6 +49,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14598"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "MUFG、専門人材2500人でスピード感　「将軍に平身低頭の大名」汚名返上 (MUFG、未完の王者)",
+      "summary": "MUFGは2005年の発足当初、大物OBから「江戸城」と評された。上意下達の組織を変え、ビジネスを迅速に展開するための人的資本経営に粘り強く臨む。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00912/072900004/"
     },
     {
       "date": "2026-08-01",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/072300107/"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "製品の品質を高める3つのカギ 収益の達成と競争力維持の起点",
-      "summary": "製品保証、関連データ、および納入業者のコントロールをいかに組織化するか。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14136"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "リーダーの評価を左右するフォロワーの6つのニーズ 見落とされがちな成功の条件",
-      "summary": "リーダーシップの成否は、そのスタイルだけで決まるわけではない。重要なのは、その時々でフォロワーが何を必要としているのかを見極め、それに応じて行動できるかどうかだ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14073"
     }
   ]
 }
