@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-12T23:29:19+09:00",
+  "last_updated": "2026-08-13T23:30:07+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-13",
+      "title": "あの学研が気づけば｢介護事業｣でトップになっていた…戦略的M&Aで\"両利き\"成長､本社ビル売却のジリ貧から挽回した訳 | ビジネス | 東洋経済オンライン",
+      "summary": "経営危機からの再起——学研は祖業である教育･出版事業と､冒険的とも言える介護事業へ同時に挑み続けました。多様なM&Aや新規事業の融合でシナジーを生み､なお成長と",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953943?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "なぜ従業員はAIによる業務改善を隠したがるのか 生産性向上を阻む負の力学",
+      "summary": "AIによる業務改善を実現していても、従業員が職場で共有しない現象が広がっている。その背景には、生産性向上を理由とした仕事量の増加や雇用不安など、組織に対する深い",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14236"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "AIの浸透で変わるCレベル職や取締役会のあり方 過去の経験は役に立たなくなる",
+      "summary": "AIの浸透は、組織の末端だけでなく、トップ層であるCレベル職や取締役会の役割をも根本から再定義しつつある。専門知識がコモディティ化し、意思決定の多くがアルゴリズ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14235"
+    },
     {
       "date": "2026-08-12",
       "title": "優秀な人の成長が止まった時、過去の成功を否定するより大切なこと 連載『成人発達理論で考える部下の育て方とリーダーの成長』第25回",
@@ -217,30 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/NBD/19/special/02598/"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "正解のない問題への対応力が高まる、正しい「振り返り」の方法 連載『成人発達理論で考える部下の育て方とリーダーの成長』第23回",
-      "summary": "近年、多くの企業で人材育成の施策としてリフレクション（内省、振り返り）が導入されているが、機会を増やすだけでは必ずしも成長にはつながらない。成長のカギを握るのは",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14483"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "ユーモアのセンスはエグゼクティブの条件",
-      "summary": "組織をまとめるうえで、ユーモアのセンスは必須である。しかも、経営幹部の業績やボーナスは、ユーモアのセンスと相関関係があることが証明された。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14333"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "伝統的組織にシリコンバレーをつくる 1999年度マッキンゼー賞「銀賞」受賞論文　アイデア、金、人材の社内流通市場の確立",
-      "summary": "",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/3745"
     }
   ]
 }
