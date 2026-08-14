@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-08-13T23:30:07+09:00",
+  "last_updated": "2026-08-14T23:11:10+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-08-13",
-      "title": "あの学研が気づけば｢介護事業｣でトップになっていた…戦略的M&Aで\"両利き\"成長､本社ビル売却のジリ貧から挽回した訳 | ビジネス | 東洋経済オンライン",
-      "summary": "経営危機からの再起——学研は祖業である教育･出版事業と､冒険的とも言える介護事業へ同時に挑み続けました。多様なM&Aや新規事業の融合でシナジーを生み､なお成長と",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953943?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "date": "2026-08-14",
+      "title": "AIが組織にもたらす「知識の劣化」にリーダーはどう対応すべきか 信頼と品質を守る4つのステップ",
+      "summary": "生成AIの普及は業務を効率化する一方で、組織に「知識の劣化」（スロップ化）という隠れた危険をもたらす。AIによる低品質な情報が事業プロセス全体に蔓延すると、人間",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14289"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "ドラッカーが厳に禁じる「顧客にとっての価値」を想像すること 連載『P. F. ドラッカー 経営者に贈る5つの質問』第3回",
+      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14510"
     },
     {
       "date": "2026-08-13",
@@ -33,6 +41,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14595"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "あの学研が気づけば｢介護事業｣でトップになっていた…戦略的M&Aで\"両利き\"成長､本社ビル売却のジリ貧から挽回した訳 | ビジネス | 東洋経済オンライン",
+      "summary": "経営危機からの再起——学研は祖業である教育･出版事業と､冒険的とも言える介護事業へ同時に挑み続けました。多様なM&Aや新規事業の融合でシナジーを生み､なお成長と",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953943?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-08-12",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/073000108/"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "取締役会議長がいま担うべき仕事 多様化する利害関係者と複雑化するリスクに対応する",
-      "summary": "今日の取締役会は、利害関係者の多様化、テクノロジーの進歩や気候変動によるリスクの複雑化への対応が求められており、取締役会議長はそれを導く役割を担う。そのため、戦",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14566"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "「将軍に平身低頭の大名」脱却へ　2500人超のプロ起点に人的資本改革　 (MUFG、未完の王者　時価総額1位、AI時代の金融進化論)",
-      "summary": "MUFGは2005年の発足当初、大物OBから「江戸城」と評された。上意下達の組織を変え、ビジネスを迅速に展開するための人的資本経営に粘り強く臨む。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/NBD/19/special/02598/"
     }
   ]
 }
