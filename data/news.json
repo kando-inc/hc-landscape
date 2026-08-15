@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-08-14T23:11:10+09:00",
+  "last_updated": "2026-08-15T23:10:37+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-15",
+      "title": "山田涼介｢史上初ソロドーム公演｣快挙の背景…\"グループ主義\"だった旧ジャニーズで《ソロアーティストが急増》するワケ | ライフ | 東洋経済オンライン",
+      "summary": "STARTO ENTERTAINMENTは､グループ活動を軸としつつも､近年はソロアーティストとして活躍するタレントが急増。山田涼介さんのドームツアー成功や中島",
+      "cat": "tech",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "若手研究者の「米国離れ」「アカデミア離れ」が与える深刻な影響 企業のR&Dリーダーがいますぐ講じるべき3つの対策",
+      "summary": "米国における一連の政策変更を背景に、若手研究者の間で「米国離れ」と「アカデミア離れ」の意向が急速に高まっている。高度なイノベーションを大学の知や人材に依存する産",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14188"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "パーパス重視の経営が裏目に出る時 従業員の離職や生産性の低下を招くリスクも",
+      "summary": "パーパス重視の経営が組織に恩恵をもたらすことは、いまやよく知られている。しかし、現場で理念の実践を妨げる「インパクトの阻害」が生じると、従業員の離職や生産性低下",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14237"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "編集部が厳選、今週の必読記事13選：2026年7月31日〜8月14日公開 変化の本質を見極める",
+      "summary": "AIの急速な浸透は、業務の効率化に留まらず、経営陣や取締役会の役割、アウトソーシングのあり方、リーダーに求められる能力まで大きく変えつつある。同時に企業を取り巻",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14698"
+    },
     {
       "date": "2026-08-14",
       "title": "AIが組織にもたらす「知識の劣化」にリーダーはどう対応すべきか 信頼と品質を守る4つのステップ",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00912/072900004/"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "「無知」という知的資産",
-      "summary": "無知こそ、企業にとって重要な資産である。ただし「イグノランス・マネジメント」には、ナレッジ・マネジメントよりも高い能力が要求される。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14339"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "ナレッジ・キャンパス：企業の競争力を左右する拠点戦略 都市の持つエネルギーを取り込む",
-      "summary": "JPモルガン・チェース、ファイザー、ブラックロック……いま前代未聞の巨費を投じて、自社の立地を戦略的に再構築する動きが出ている。それは、「場所」が人材獲得と生産",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14567"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "ジョン･カビラ父子が描く｢沖縄｣の原点､台湾で育った父と語る川平家と日本･沖縄･アメリカに通じる激動の150年史 | ライフ | 東洋経済オンライン",
-      "summary": "著名タレントであるジョン･カビラさんの父親である川平朝清さんは､沖縄､台湾､日本､アメリカを舞台に､激動の時代を生き抜きました。川平家の歴史は一家族の物語である",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953201?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Sansan、メルカリ「CHRO兼AI責任者」登場　AIもヒトと同じ働き手に (人的資本の現場から)",
-      "summary": "SansanとメルカリはHR戦略とAI戦略を融合させる人事体制を発表した。従来の人的資本経営の前提を揺さぶり始めている。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/073000108/"
     }
   ]
 }
