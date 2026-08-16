@@ -1,14 +1,38 @@
 {
-  "last_updated": "2026-08-15T23:10:37+09:00",
+  "last_updated": "2026-08-16T23:09:33+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-08-15",
-      "title": "山田涼介｢史上初ソロドーム公演｣快挙の背景…\"グループ主義\"だった旧ジャニーズで《ソロアーティストが急増》するワケ | ライフ | 東洋経済オンライン",
-      "summary": "STARTO ENTERTAINMENTは､グループ活動を軸としつつも､近年はソロアーティストとして活躍するタレントが急増。山田涼介さんのドームツアー成功や中島",
+      "date": "2026-08-16",
+      "title": "管理職の孤立防げ　リーダーシップ「低水準」2割、組織サポートで引き上げよ (人的資本、プロの視点)",
+      "summary": "ミドルシニアの自律行動を引き出す鍵を握るのは管理職だ。管理職自身が疲弊し、孤軍奮闘していてはリーダーシップは続かない。日本総合研究所の調査から見えた、管理職を支",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/073100013/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "AIにより機能不全に陥った採用プロセスを立て直す方法 もはや履歴書やリモート面接は信頼できない",
+      "summary": "生成AIの普及に伴い、非の打ち所がない履歴書がつくらるようになったり、リアルタイム面接支援ツールの使用が横行したりして、従来の採用プロセスにおける初期フィルター",
       "cat": "tech",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14234"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "自己組織化が競争力を高める",
+      "summary": "だれに言われることもなく、勝手に優れたシステムを創造する。そのような「自己組織性」を備えた企業が業界ルールを塗り替えている。自己組織化するシステムは予測できない",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14425"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "「組織の成果は外の世界に表れる」というドラッカーが問う「成果」とは何か 連載『P. F. ドラッカー 経営者に贈る5つの質問』第4回",
+      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14511"
     },
     {
       "date": "2026-08-15",
@@ -25,6 +49,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14237"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "山田涼介｢史上初ソロドーム公演｣快挙の背景…\"グループ主義\"だった旧ジャニーズで《ソロアーティストが急増》するワケ | ライフ | 東洋経済オンライン",
+      "summary": "STARTO ENTERTAINMENTは､グループ活動を軸としつつも､近年はソロアーティストとして活躍するタレントが急増。山田涼介さんのドームツアー成功や中島",
+      "cat": "tech",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-08-15",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14571"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "上司をマネジメントする ［名著論文再掲］「ボスマネジメント」の心得",
-      "summary": "優秀な人は、上司と相互依存の関係にあると考え、これを主体的に管理できなければ、自身の成果も挙がらないことを心得ている。上司が部下をマネジメントするのと同様に、部",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14568"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "小池知事に直撃、肝煎り「女性活躍条例」の狙い　「心技体」で中小に変革迫る (人的資本の現場から)",
-      "summary": "東京都が7月、女性活躍推進条例を施行した。都内の企業に女性の積極的な雇用などを求める内容だが、罰則規定はない。就任10年を迎えた小池百合子都知事の条例にかける思",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/080400110/"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "編集部が厳選、今週の必読記事7選：2026年7月25日〜7月30日公開 当たり前を問い直せるか",
-      "summary": "AIの普及は、会議運営やチーム編成、部門の役割を変えつつある。不確実性が高まる中、組織文化を見直し、全社的な危機対応力とレジリエンスを築くための知見を紹介する。",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14598"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "MUFG、専門人材2500人でスピード感　「将軍に平身低頭の大名」汚名返上 (MUFG、未完の王者)",
-      "summary": "MUFGは2005年の発足当初、大物OBから「江戸城」と評された。上意下達の組織を変え、ビジネスを迅速に展開するための人的資本経営に粘り強く臨む。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00912/072900004/"
     }
   ]
 }
