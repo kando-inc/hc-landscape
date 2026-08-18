@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-08-17T23:12:29+09:00",
+  "last_updated": "2026-08-18T23:11:47+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-18",
+      "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75306.html"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "「計画が明日を決めるわけではない」というドラッカーが問う「計画」とは何か 連載『P. F. ドラッカー 経営者に贈る5つの質問』第5回",
+      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14512"
+    },
     {
       "date": "2026-08-17",
       "title": "AIで業務スピードを上げつつ、従業員の能力開発につなげる方法 判断力を高める実践的な4つのステップ",
@@ -28,19 +52,19 @@
     },
     {
       "date": "2026-08-16",
-      "title": "管理職の孤立防げ　リーダーシップ「低水準」2割、組織サポートで引き上げよ (人的資本、プロの視点)",
-      "summary": "ミドルシニアの自律行動を引き出す鍵を握るのは管理職だ。管理職自身が疲弊し、孤軍奮闘していてはリーダーシップは続かない。日本総合研究所の調査から見えた、管理職を支",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00795/073100013/"
-    },
-    {
-      "date": "2026-08-16",
       "title": "AIにより機能不全に陥った採用プロセスを立て直す方法 もはや履歴書やリモート面接は信頼できない",
       "summary": "生成AIの普及に伴い、非の打ち所がない履歴書がつくらるようになったり、リアルタイム面接支援ツールの使用が横行したりして、従来の採用プロセスにおける初期フィルター",
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14234"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "管理職の孤立防げ　リーダーシップ「低水準」2割、組織サポートで引き上げよ (人的資本、プロの視点)",
+      "summary": "ミドルシニアの自律行動を引き出す鍵を握るのは管理職だ。管理職自身が疲弊し、孤軍奮闘していてはリーダーシップは続かない。日本総合研究所の調査から見えた、管理職を支",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/073100013/"
     },
     {
       "date": "2026-08-16",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14186"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "映画監督に学ぶ創造集団の管理 リーダーシップの核心",
-      "summary": "映画監督が俳優を督励して演技させるやり方は、ビジネスの場での創造的プロジェクトの管理にも、じゅうぶん通用する。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14178"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "上司をマネジメントする 編集長ブログ",
-      "summary": "『DIAMOND ハーバード・ビジネス・レビュー』（DHBR）2026年9月号の特集は「上司をマネジメントする」です。上司は選べない。運も不運もある――。そんな",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14499"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "日本の製造業の勝ち筋は「面倒くさいものづくり」にある  DHBR創刊50周年：識者が示すマネジメントのこれから［第4回］歴史の中で培われた組織能力を活かす",
-      "summary": "日本の製造業はバブル崩壊以降、客観的な根拠の乏しい衰退論にさらされ、デジタル系の新産業へのシフトを急ぐ風潮が蔓延してきた。東京大学の藤本隆宏名誉教授はこれに対し",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14564"
     }
   ]
 }
