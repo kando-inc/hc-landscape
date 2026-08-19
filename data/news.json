@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-18T23:11:47+09:00",
+  "last_updated": "2026-08-19T23:13:26+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-19",
+      "title": "【渋谷教育学園幕張高校】時代を刻んだ卒業生ファイル#5《水卜麻美アナ､タレントの高橋成美､田中マルクス闘莉王…》 | キャリア・教育 | 東洋経済オンライン",
+      "summary": "東京湾に面した千葉市美浜区の｢渋幕｣こと渋谷教育学園幕張中学校･高校。開校から40年余りですが､文武両道の卒業生が各界で活躍しています。なぜこれほど多様な人材が",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953583?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "HV好調と円安でトヨタが通期見通しを上方修正､熊本地震･中東リスクへの対応と1兆円自己株買いが示す｢次の一手｣ | ビジネス | 東洋経済オンライン",
+      "summary": "8月8日、トヨタ自動車の社長・会長を歴任した奥田碩氏が93歳で逝去した。同氏が社長時代に強いリーダーシップで世に送り出した世界初の量産ハイブリッド車（HV）「プ",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955206?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "【「最高の上司」と「最悪の上司」何が違う？】部下に“文脈”で説明しているか？／「任せる」と「丸投げ」の違い／実践！コミュニケーションスキルを磨く“演技トレーニング”／コンテキスト・リーダーシップの極意 | ビジネス | 東洋経済オンライン",
+      "summary": "今回の『Mind Up!』のテーマは、「文脈で導くリーダーシップ」。ゲストは、独立研究者、著作家、経営コンサルタントなど多方面で活躍される山口周さんです。ベスト",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/955314?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "AI時代に変革すべきは、スキルではなくマインドセットである オペレーターからスーパーバイザーへ",
+      "summary": "急速な進化を遂げるAI時代において、従来の仕事の習慣にしがみつくべきではない。いま人間に求められているのは、オペレーターとしての役割を離れ、AIを統括するスーパ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14291"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "変化に適応し永続するリビング・カンパニーの条件 資金調達、アイデンティティ、アイデア、環境認識",
+      "summary": "何世紀にもわたって存続する企業はあるが、ほとんどの企業が寿命を全うせず短命に終わってしまう。それでは企業が永続するための条件とは何か。それを解明するために長く「",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13206"
+    },
     {
       "date": "2026-08-18",
       "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
@@ -201,46 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/954538?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "AIはアウトソーシングのビジネスモデルを破壊する 企業は何を内製化し、何を外注すべきか",
-      "summary": "生成AIは、単に業務効率を高めるだけでなく、「内製か外注か」というアウトソーシングの経済原理を根本から覆しつつある。専門知識が必要な領域では外部委託が残る一方、",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14232"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "「グールーのなかのグールー」はだれか",
-      "summary": "マネジメント・グールーたちは、だれを「わが師」と仰いでいるのか。「グールーのなかのグールー」リストを作成したところ、経営学、経営思想の多様さが浮き彫りになった。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14345"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "ドラッカーが経営者に問う「ミッションを成果に結びつける3つの要素」 連載『P. F. ドラッカー 経営者に贈る5つの質問』第1回",
-      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14508"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "グローバル戦略における中国の位置づけをいかに見直すべきか 最終市場からイノベーションの中核拠点へ",
-      "summary": "かつて多国籍企業にとって中国は巨大な消費市場か、脅威となる競合であった。近年、事業環境は厳しさを増しているが、撤退を選ぶ企業は少ない。なぜ彼らは中国に留まるのか",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14231"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "プロジェクト主導型組織に変わるための10の質問に答える オペレーションと変革を両立する組織設計とは",
-      "summary": "激しい変化が続く今日のビジネス環境において、企業が持続的に価値を創造するには、プロジェクトを単なる例外的な取り組みではなく経営の中核に据える「プロジェクト主導型",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14186"
     }
   ]
 }
