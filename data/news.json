@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-20T23:15:35+09:00",
+  "last_updated": "2026-08-21T23:13:31+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-21",
+      "title": "リベラルアーツ･グローバル教育･リーダーシップ教育の集大成､立教大学が｢環境学部｣の名称にこだわった理由 | キャリア・教育 | 東洋経済オンライン",
+      "summary": "創立150年超の歴史を持つ立教大学が､池袋キャンパスに新設した｢環境学部｣。リベラルアーツとフィールドスタディ､リーダーシップ教育を核に､異分野融合と現場体験を",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952822?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
     {
       "date": "2026-08-20",
       "title": "ホンダ系J-MAX、EV普及を機に「脱ケイレツ」　中国電池大手CATLに活路 (「EV失速」の幻想)",
@@ -17,14 +25,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/081800111/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "2026年8月24日号 (バックナンバー目次)",
-      "summary": "終身雇用や年功序列を特徴とする、日本に固有の人事の仕組みは制度疲労が極まっている。悩む企業が救いを求めたのがジョブ型の人事制度だ。「適所適材の人材戦略が実現する",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/NBD/19/mokuji/00384/"
     },
     {
       "date": "2026-08-20",
@@ -81,6 +81,14 @@
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "2026年8月24日号 (バックナンバー目次)",
+      "summary": "終身雇用や年功序列を特徴とする、日本に固有の人事の仕組みは制度疲労が極まっている。悩む企業が救いを求めたのがジョブ型の人事制度だ。「適所適材の人材戦略が実現する",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/NBD/19/mokuji/00384/"
     },
     {
       "date": "2026-08-19",
@@ -233,14 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14235"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "優秀な人の成長が止まった時、過去の成功を否定するより大切なこと 連載『成人発達理論で考える部下の育て方とリーダーの成長』第25回",
-      "summary": "優秀な人材であるにもかかわらず、突如成長が止まってしまう人がいる。その背景にあるのが、過去の成功体験への固執だ。成功体験は本来、重要な資産だが、それが強固な枠組",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14595"
     }
   ]
 }
