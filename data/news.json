@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-08-21T23:13:31+09:00",
+  "last_updated": "2026-08-22T23:10:36+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-08-21",
-      "title": "リベラルアーツ･グローバル教育･リーダーシップ教育の集大成､立教大学が｢環境学部｣の名称にこだわった理由 | キャリア・教育 | 東洋経済オンライン",
-      "summary": "創立150年超の歴史を持つ立教大学が､池袋キャンパスに新設した｢環境学部｣。リベラルアーツとフィールドスタディ､リーダーシップ教育を核に､異分野融合と現場体験を",
+      "date": "2026-08-22",
+      "title": "部下はなぜ自分から積極的に動いてくれないのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第1回",
+      "summary": "マネジメントの中核は「統制」（コントロール）であり、計画等の「あるべき姿」から外れないようにすることである。そのために、なるべく不安定な要素を切り離し、安定的に",
       "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952822?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14576"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "高ストレス・高スキルの仕事で離職を減らす方法 バーンアウト対策だけでは足りない",
+      "summary": "高度人材の離職には、バーンアウトや残業だけでなく、仕事の設計も深く関係している。ICU看護師を対象とした研究では、意味ある責任を任され、強いプレッシャーの中でも",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14118"
     },
     {
       "date": "2026-08-20",
@@ -51,22 +59,6 @@
       "url": "https://dhbr.diamond.jp/articles/-/14201"
     },
     {
-      "date": "2026-08-19",
-      "title": "AI時代に変革すべきは、スキルではなくマインドセットである オペレーターからスーパーバイザーへ",
-      "summary": "急速な進化を遂げるAI時代において、従来の仕事の習慣にしがみつくべきではない。いま人間に求められているのは、オペレーターとしての役割を離れ、AIを統括するスーパ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14291"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "変化に適応し永続するリビング・カンパニーの条件 資金調達、アイデンティティ、アイデア、環境認識",
-      "summary": "何世紀にもわたって存続する企業はあるが、ほとんどの企業が寿命を全うせず短命に終わってしまう。それでは企業が永続するための条件とは何か。それを解明するために長く「",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13206"
-    },
-    {
       "date": "2026-08-18",
       "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
       "summary": "",
@@ -81,6 +73,30 @@
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "リベラルアーツ･グローバル教育･リーダーシップ教育の集大成､立教大学が｢環境学部｣の名称にこだわった理由 | キャリア・教育 | 東洋経済オンライン",
+      "summary": "創立150年超の歴史を持つ立教大学が､池袋キャンパスに新設した｢環境学部｣。リベラルアーツとフィールドスタディ､リーダーシップ教育を核に､異分野融合と現場体験を",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/952822?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "AI時代に変革すべきは、スキルではなくマインドセットである オペレーターからスーパーバイザーへ",
+      "summary": "急速な進化を遂げるAI時代において、従来の仕事の習慣にしがみつくべきではない。いま人間に求められているのは、オペレーターとしての役割を離れ、AIを統括するスーパ",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14291"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "変化に適応し永続するリビング・カンパニーの条件 資金調達、アイデンティティ、アイデア、環境認識",
+      "summary": "何世紀にもわたって存続する企業はあるが、ほとんどの企業が寿命を全うせず短命に終わってしまう。それでは企業が永続するための条件とは何か。それを解明するために長く「",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13206"
     },
     {
       "date": "2026-08-20",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14510"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "なぜ従業員はAIによる業務改善を隠したがるのか 生産性向上を阻む負の力学",
-      "summary": "AIによる業務改善を実現していても、従業員が職場で共有しない現象が広がっている。その背景には、生産性向上を理由とした仕事量の増加や雇用不安など、組織に対する深い",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14236"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "AIの浸透で変わるCレベル職や取締役会のあり方 過去の経験は役に立たなくなる",
-      "summary": "AIの浸透は、組織の末端だけでなく、トップ層であるCレベル職や取締役会の役割をも根本から再定義しつつある。専門知識がコモディティ化し、意思決定の多くがアルゴリズ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14235"
     }
   ]
 }
