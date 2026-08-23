@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-22T23:10:36+09:00",
+  "last_updated": "2026-08-23T23:10:38+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-23",
+      "title": "AI導入による中間管理職への過度な負担にどう対処すべきか 3つの機能不全とその対応策",
+      "summary": "AIの導入はITの課題ではなく、組織の課題である。ジュニア層の生産性向上と経営陣の戦略的野心は、いずれも中間管理職への負荷として集中している。彼らはAIの誤りを",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14389"
+    },
     {
       "date": "2026-08-22",
       "title": "部下はなぜ自分から積極的に動いてくれないのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第1回",
@@ -17,6 +25,38 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14118"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "AIの進化によって従業員の業績評価はどう変わるのか 台頭するパフォーマンス評価",
+      "summary": "AIの急速な進化によってスキルの価値が激変する中、従来の固定的な人事評価制度は限界を迎えている。そこで台頭したのが、実際の業務シグナルをリアルタイムで測定・分析",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14295"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "なぜ優秀なメンバーが集うチームが機能不全に陥ってしまうのか 原因は能力不足ややる気の欠如ではない",
+      "summary": "現代のチームは、非常に有能でありながらも深刻なコミュニケーションの崩壊に陥りやすい。その理由は、情報処理や意思決定のアプローチ、ストレス下での対話方法がまったく",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14292"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75306.html"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
     },
     {
       "date": "2026-08-20",
@@ -36,43 +76,11 @@
     },
     {
       "date": "2026-08-20",
-      "title": "AIの進化によって従業員の業績評価はどう変わるのか 台頭するパフォーマンス評価",
-      "summary": "AIの急速な進化によってスキルの価値が激変する中、従来の固定的な人事評価制度は限界を迎えている。そこで台頭したのが、実際の業務シグナルをリアルタイムで測定・分析",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14295"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "なぜ優秀なメンバーが集うチームが機能不全に陥ってしまうのか 原因は能力不足ややる気の欠如ではない",
-      "summary": "現代のチームは、非常に有能でありながらも深刻なコミュニケーションの崩壊に陥りやすい。その理由は、情報処理や意思決定のアプローチ、ストレス下での対話方法がまったく",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14292"
-    },
-    {
-      "date": "2026-08-20",
       "title": "ベンチャー・ビジネス成長のカギ 4段階のマーケティング発展プロセスにみる",
       "summary": "ある段階では、うまくいっていたマーケティング組織や戦略も、次の段階では足かせに転化する。このカベを突破するには展望をふまえた事前の計画が必要だ。",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14201"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75306.html"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
     },
     {
       "date": "2026-08-21",
@@ -233,14 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14289"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "ドラッカーが厳に禁じる「顧客にとっての価値」を想像すること 連載『P. F. ドラッカー 経営者に贈る5つの質問』第3回",
-      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14510"
     }
   ]
 }
