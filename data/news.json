@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-23T23:10:38+09:00",
+  "last_updated": "2026-08-24T23:13:40+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-24",
+      "title": "採用情報（非常勤職員（人材開発統括官） )募集情報",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan03.html"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "エンゲージメント向上を組織の成果に　業績・企業価値を高める3つの活用法 (人的資本経営のキホン)",
+      "summary": "エンゲージメントを開示する企業は多いが、業績や企業価値に結び付けることが課題だ。組織の成果を創出するためのエンゲージメントの活用方法を紹介する。",
+      "cat": "policy",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/073100031/"
+    },
     {
       "date": "2026-08-23",
       "title": "AI導入による中間管理職への過度な負担にどう対処すべきか 3つの機能不全とその対応策",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "編集部が厳選、今週の必読記事13選：2026年7月31日〜8月14日公開 変化の本質を見極める",
-      "summary": "AIの急速な浸透は、業務の効率化に留まらず、経営陣や取締役会の役割、アウトソーシングのあり方、リーダーに求められる能力まで大きく変えつつある。同時に企業を取り巻",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14698"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "AIが組織にもたらす「知識の劣化」にリーダーはどう対応すべきか 信頼と品質を守る4つのステップ",
-      "summary": "生成AIの普及は業務を効率化する一方で、組織に「知識の劣化」（スロップ化）という隠れた危険をもたらす。AIによる低品質な情報が事業プロセス全体に蔓延すると、人間",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14289"
     }
   ]
 }
