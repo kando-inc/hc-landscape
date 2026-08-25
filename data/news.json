@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-24T23:13:40+09:00",
+  "last_updated": "2026-08-25T23:16:01+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-25",
+      "title": "なぜリーダーに現場の真実が届かないのか ダッシュボードに映らない組織の実態",
+      "summary": "成熟した企業には、経営陣が資料を通じて把握する「決算書類上の組織」と、従業員が日々経験する「実態組織」が併存する。両者の構造的な乖離は、戦略判断の誤りや問題発見",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14387"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "ワーク・ライフ・バランスの実践法 仕事も私生活も犠牲にしない",
+      "summary": "仕事のせいで私生活が犠牲にされていると感じる人が少なくない。しかし、仕事と私生活を分けて考えるのではなく、どちらも両立させ、しかもこれまで以上にうまくやれる自分",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/10936"
+    },
     {
       "date": "2026-08-24",
       "title": "採用情報（非常勤職員（人材開発統括官） )募集情報",
@@ -225,22 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14188"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "パーパス重視の経営が裏目に出る時 従業員の離職や生産性の低下を招くリスクも",
-      "summary": "パーパス重視の経営が組織に恩恵をもたらすことは、いまやよく知られている。しかし、現場で理念の実践を妨げる「インパクトの阻害」が生じると、従業員の離職や生産性低下",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14237"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "山田涼介｢史上初ソロドーム公演｣快挙の背景…\"グループ主義\"だった旧ジャニーズで《ソロアーティストが急増》するワケ | ライフ | 東洋経済オンライン",
-      "summary": "STARTO ENTERTAINMENTは､グループ活動を軸としつつも､近年はソロアーティストとして活躍するタレントが急増。山田涼介さんのドームツアー成功や中島",
-      "cat": "tech",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/954766?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
