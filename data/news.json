@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-08-29T03:57:14+09:00",
+  "last_updated": "2026-08-30T00:53:23+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-29",
+      "title": "ビジネス基礎力を測るクイズ：「戦略」と「戦術」の違いは何か」 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "「戦略」と「戦術」の違いについて、あなたは明確に説明できるだろうか——。ビジネスパーソンがMBAのエッセンスを手軽に学べる本として人気を博し、発売から約30年で",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14785"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "そもそも、マネジメントはなぜ必要なのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第2回",
+      "summary": "マネジメントが必要な真の理由は、現場に潜む複雑性を抑え込み、足並みを揃え、秩序立って運営を続けるためである。その複雑性の源は、多種多様な業務はもちろんのこと、何",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14577"
+    },
     {
       "date": "2026-08-27",
       "title": "LINEヤフー、育休中にもスキルアップ　AI研修で復職への不安軽減 (人的資本の現場から)",
@@ -225,22 +241,6 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14399"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "日本企業が「学習優位」の組織を構築するための条件 名和高司教授が語る、現場の知を資産に変える経営戦略",
-      "summary": "環境変化の激しい現代において、企業が優位性を築く方法は「競争優位」の戦略立案だけでは不十分になっている。京都先端科学大学の名和高司教授は、競争優位を超え、みずか",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14652"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "AIにより機能不全に陥った採用プロセスを立て直す方法 もはや履歴書やリモート面接は信頼できない",
-      "summary": "生成AIの普及に伴い、非の打ち所がない履歴書がつくらるようになったり、リアルタイム面接支援ツールの使用が横行したりして、従来の採用プロセスにおける初期フィルター",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14234"
     }
   ]
 }
