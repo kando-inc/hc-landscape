@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-08-31T00:58:43+09:00",
+  "last_updated": "2026-09-01T01:30:18+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-08-31",
+      "title": "顧客から新製品開発アイデアを引き出す戦略",
+      "summary": "新製品開発に当たって、メーカーはユーザーを巻き込んだ組織的なアプローチ法を開発することができる。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14301"
+    },
     {
       "date": "2026-08-30",
       "title": "編集部が厳選、今週の必読記事9選：2026年8月22日〜8月28日公開 リーダーが「認識できていない部分」を知る",
@@ -12,7 +20,7 @@
     },
     {
       "date": "2026-08-29",
-      "title": "ビジネス基礎力を測るクイズ：「戦略」と「戦術」の違いは何か」 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "title": "ビジネス基礎力を測るクイズ：「戦略」と「戦術」の違いは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
       "summary": "「戦略」と「戦術」の違いについて、あなたは明確に説明できるだろうか——。ビジネスパーソンがMBAのエッセンスを手軽に学べる本として人気を博し、発売から約30年で",
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
@@ -25,6 +33,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14577"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "ビジネス基礎力を測るクイズ：「戦略」と「戦術」の違いは何か」 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "「戦略」と「戦術」の違いについて、あなたは明確に説明できるだろうか——。ビジネスパーソンがMBAのエッセンスを手軽に学べる本として人気を博し、発売から約30年で",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14785"
     },
     {
       "date": "2026-08-26",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/955314?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "「計画が明日を決めるわけではない」というドラッカーが問う「計画」とは何か 連載『P. F. ドラッカー 経営者に贈る5つの質問』第5回",
-      "summary": "P. F. ドラッカーはコンサルタントとして、企業、ベンチャー、非営利組織、スポーツチームなどのたくさんのリーダーに本質的な質問を投げかけてきた。書籍『経営者に",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14512"
-    },
-    {
-      "date": "2026-08-17",
-      "title": "AIで業務スピードを上げつつ、従業員の能力開発につなげる方法 判断力を高める実践的な4つのステップ",
-      "summary": "AIで質の高い草稿を瞬時に作成できる時代には、その内容を特定の文脈に照らして評価し、最適な選択をする判断力が不可欠となる。企業には単なるAIツールやプロンプトの",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14296"
     }
   ]
 }
