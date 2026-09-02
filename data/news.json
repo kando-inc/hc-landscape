@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-01T01:30:18+09:00",
+  "last_updated": "2026-09-02T00:39:12+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-01",
+      "title": "AI導入で「新人」を減らす企業は、次世代リーダーを失う 自動化と人材戦略を切り離さないための3つのアプローチ",
+      "summary": "新人などが担うエントリーレベルの業務削減やAI導入は目先のコスト削減をもたらす一方、現場での実践機会や暗黙知の伝達を奪い、将来のリーダー不足を招く。AI変革を進",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14388"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "イノベーションのジレンマ ［名著論文再掲］大企業が陥る「破壊的技術」の罠",
+      "summary": "顧客の声に従って製品や技術を改善することは、顧客満足の点からも、収益性や資源配分の効率性からも理にかなっている。しかし、ここにこそ落とし穴がある。主要顧客が価値",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/6540"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "行動するマネジャーの心得 言い訳や泣き言は何の解決にもならない",
+      "summary": "ほとんどのマネジャーや社員たちが、時間も足りなければ、資源にも人材にも乏しいとこぼす。一見正当に思えるこの発言を裏返すと、そこには、行動を起こすことへのためらい",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12201"
+    },
     {
       "date": "2026-08-31",
       "title": "顧客から新製品開発アイデアを引き出す戦略",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/NBD/19/mokuji/00384/"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "【渋谷教育学園幕張高校】時代を刻んだ卒業生ファイル#5《水卜麻美アナ､タレントの高橋成美､田中マルクス闘莉王…》 | キャリア・教育 | 東洋経済オンライン",
-      "summary": "東京湾に面した千葉市美浜区の｢渋幕｣こと渋谷教育学園幕張中学校･高校。開校から40年余りですが､文武両道の卒業生が各界で活躍しています。なぜこれほど多様な人材が",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953583?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "HV好調と円安でトヨタが通期見通しを上方修正､熊本地震･中東リスクへの対応と1兆円自己株買いが示す｢次の一手｣ | ビジネス | 東洋経済オンライン",
-      "summary": "8月8日、トヨタ自動車の社長・会長を歴任した奥田碩氏が93歳で逝去した。同氏が社長時代に強いリーダーシップで世に送り出した世界初の量産ハイブリッド車（HV）「プ",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955206?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "【「最高の上司」と「最悪の上司」何が違う？】部下に“文脈”で説明しているか？／「任せる」と「丸投げ」の違い／実践！コミュニケーションスキルを磨く“演技トレーニング”／コンテキスト・リーダーシップの極意 | ビジネス | 東洋経済オンライン",
-      "summary": "今回の『Mind Up!』のテーマは、「文脈で導くリーダーシップ」。ゲストは、独立研究者、著作家、経営コンサルタントなど多方面で活躍される山口周さんです。ベスト",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/955314?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
