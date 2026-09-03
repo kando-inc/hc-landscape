@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-02T00:39:12+09:00",
+  "last_updated": "2026-09-03T00:50:01+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-02",
+      "title": "NASA火星プロジェクトの教訓",
+      "summary": "NASAは、よい意味でも、悪い意味でもいつもプロジェクト・マネジメントの手本である。さて今回の火星プロジェクトについて検証してみよう。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14407"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "ビジネスモデルの役割と代表的なフレームワークとは 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "戦略とビジネスモデルはどのような関係性にあるべきでしょうか。そして、代表的なビジネスモデルのフレームワークとは。MBAのエッセンスを手軽に学べる本として人気を博",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14798"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "バーチャル組織：“見えない人たち”をどう管理するか 情報をベースとしたネットワーク時代のマネジメント",
+      "summary": "",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/3783"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "「優れた戦略」に求められる3つの条件とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "「優れた戦略」に求められる3つの条件とは何でしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロービ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14797"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75946.html"
+    },
     {
       "date": "2026-09-01",
       "title": "AI導入で「新人」を減らす企業は、次世代リーダーを失う 自動化と人材戦略を切り離さないための3つのアプローチ",
@@ -201,46 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/081800111/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "ベンチャー・ビジネス成長のカギ 4段階のマーケティング発展プロセスにみる",
-      "summary": "ある段階では、うまくいっていたマーケティング組織や戦略も、次の段階では足かせに転化する。このカベを突破するには展望をふまえた事前の計画が必要だ。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14201"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "リベラルアーツ･グローバル教育･リーダーシップ教育の集大成､立教大学が｢環境学部｣の名称にこだわった理由 | キャリア・教育 | 東洋経済オンライン",
-      "summary": "創立150年超の歴史を持つ立教大学が､池袋キャンパスに新設した｢環境学部｣。リベラルアーツとフィールドスタディ､リーダーシップ教育を核に､異分野融合と現場体験を",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/952822?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "AI時代に変革すべきは、スキルではなくマインドセットである オペレーターからスーパーバイザーへ",
-      "summary": "急速な進化を遂げるAI時代において、従来の仕事の習慣にしがみつくべきではない。いま人間に求められているのは、オペレーターとしての役割を離れ、AIを統括するスーパ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14291"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "変化に適応し永続するリビング・カンパニーの条件 資金調達、アイデンティティ、アイデア、環境認識",
-      "summary": "何世紀にもわたって存続する企業はあるが、ほとんどの企業が寿命を全うせず短命に終わってしまう。それでは企業が永続するための条件とは何か。それを解明するために長く「",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13206"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "2026年8月24日号 (バックナンバー目次)",
-      "summary": "終身雇用や年功序列を特徴とする、日本に固有の人事の仕組みは制度疲労が極まっている。悩む企業が救いを求めたのがジョブ型の人事制度だ。「適所適材の人材戦略が実現する",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/NBD/19/mokuji/00384/"
     }
   ]
 }
