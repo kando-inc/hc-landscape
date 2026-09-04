@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-03T00:50:01+09:00",
+  "last_updated": "2026-09-04T00:30:55+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-03",
+      "title": "リンクアンドモチベーション小笹会長「日本発の人的資本経営を世界へ」 (有訓無訓)",
+      "summary": "創業当初から経営哲学を重視してきました。ただ創業から2年ほどたった頃、ある社員に「うちの会社ロゴの由来を知っているか」と何気なく尋ねたところ、社員は「知らない」",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/NBD/19/00113/00394/"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "悲劇に学ぶリーダーシップ センスメイキングの欠如が招いたチームの崩壊",
+      "summary": "企業が解決すべき課題の複雑さが増す中、高度な専門性を有する人材を時限的に集めて、プロジェクトベースで活動する組織が増えてきた。ただし、そのようなチームは結束力に",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14780"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "AIで成果を出す企業は「暗黙知」をどう明文化しているのか 「判断のインフラ」を築く3つの構造的転換",
+      "summary": "AIエージェント活用の成否を分けるのは技術的な差ではなく、組織に蓄積された暗黙の判断の明示化である。リスク許容度や例外処理などを構造化された指針へと変換して初め",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14391"
+    },
     {
       "date": "2026-09-02",
       "title": "NASA火星プロジェクトの教訓",
@@ -27,20 +51,20 @@
       "url": "https://dhbr.diamond.jp/articles/-/3783"
     },
     {
-      "date": "2026-09-02",
-      "title": "「優れた戦略」に求められる3つの条件とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "「優れた戦略」に求められる3つの条件とは何でしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロービ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14797"
-    },
-    {
       "date": "2026-09-01",
       "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
       "summary": "",
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/newpage_75946.html"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "「優れた戦略」に求められる3つの条件とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "「優れた戦略」に求められる3つの条件とは何でしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロービ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14797"
     },
     {
       "date": "2026-09-01",
@@ -217,30 +241,6 @@
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/newpage_75306.html"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "ホンダ系J-MAX、EV普及を機に「脱ケイレツ」　中国電池大手CATLに活路 (「EV失速」の幻想)",
-      "summary": "EV需要が堅調に推移する一方で、サプライヤーにとっては苦しい局面が続く。「組織変革」か、「脱ケイレツ」か。岐路に立つサプライヤーの動向を追った。",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00914/082000008/"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "富士通、オムロン…　「入社して満足」で終わらせない新人成長プログラム (人的資本の現場から)",
-      "summary": "就職活動時に第一希望だった企業に入社した社員は定着率や満足度は高いものの、必ずしも順調に成長するわけではない。活躍のカギは、「企業や仕事を見る目を磨いたかどうか",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/081800111/"
     }
   ]
 }
