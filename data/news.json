@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-04T00:30:55+09:00",
+  "last_updated": "2026-09-05T00:27:57+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-04",
+      "title": "SHIFT、新人研修で5分のAI禁止タイム　まず人間同士で考え抜く (人的資本の現場から)",
+      "summary": "AI活用を推進するSHIFTが、新人研修にあえて自力で考える時間を設けた。生成AIで仕事の進め方が変わる中、新人に何を学ばせ、どこまでをAIに任せるのか。企業の",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/090300115/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "不測の事態でも半歩早く動ける自律的な組織をつくる ［インタビュー］トップの意思決定と現場の判断をいかに両立するか",
+      "summary": "半世紀以上にわたる経営者人生で、オイルショックや自然災害、バブル崩壊など数々の難局を乗り越えてきたアイリスオーヤマ代表取締役会長の大山健太郎氏。とりわけ本社や工",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14779"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "プロダクトマネジメントで企業の収益力を高める プロジェクトマネジメントの課題を克服せよ",
+      "summary": "IT分野では長らく、「プロジェクトマネジメント」のアプローチが基本とされてきた。この手法では特定の技術ソリューションを開発した時点でプロジェクトが終了するため、",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14776"
+    },
     {
       "date": "2026-09-03",
       "title": "リンクアンドモチベーション小笹会長「日本発の人的資本経営を世界へ」 (有訓無訓)",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14118"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "AIの進化によって従業員の業績評価はどう変わるのか 台頭するパフォーマンス評価",
-      "summary": "AIの急速な進化によってスキルの価値が激変する中、従来の固定的な人事評価制度は限界を迎えている。そこで台頭したのが、実際の業務シグナルをリアルタイムで測定・分析",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14295"
-    },
-    {
-      "date": "2026-08-20",
-      "title": "なぜ優秀なメンバーが集うチームが機能不全に陥ってしまうのか 原因は能力不足ややる気の欠如ではない",
-      "summary": "現代のチームは、非常に有能でありながらも深刻なコミュニケーションの崩壊に陥りやすい。その理由は、情報処理や意思決定のアプローチ、ストレス下での対話方法がまったく",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14292"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75306.html"
     }
   ]
 }
