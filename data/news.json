@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-06T00:22:03+09:00",
+  "last_updated": "2026-09-07T00:28:16+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-06",
+      "title": "迷いながらも方向性を示すのがリーダーの役割 ［インタビュー］ソニーグループ会長が語る",
+      "summary": "ソニーグループは2000年代後半からの経営危機を乗り越え、エレクトロニクスからエンタテインメントを主軸とする企業へと劇的な変貌を遂げた。この変革をCFO、CEO",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14782"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "編集部が厳選、今週の必読記事7選：2026年8月29日〜9月4日公開 複雑さが増すほどに、マネジメント能力で差がつく",
+      "summary": "AI時代の企業には、知識の明文化、人材育成や管理の再設計、ブランド・顧客戦略、投資判断の刷新などが求められる。競争優位からサステナビリティ投資、マネジメントまで",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14809"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "【ビジネスの基本を3分でおさらい】リーダーシップ理論の変遷と、昨今注目される理論 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "リーダーシップ理論はどのように発展してきたのでしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロー",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14800"
+    },
     {
       "date": "2026-09-05",
       "title": "マネジメントは、人を交換可能なパーツにしてしまうのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第3回",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/10936"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "採用情報（非常勤職員（人材開発統括官） )募集情報",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan03.html"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "エンゲージメント向上を組織の成果に　業績・企業価値を高める3つの活用法 (人的資本経営のキホン)",
-      "summary": "エンゲージメントを開示する企業は多いが、業績や企業価値に結び付けることが課題だ。組織の成果を創出するためのエンゲージメントの活用方法を紹介する。",
-      "cat": "policy",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/073100031/"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "AI導入による中間管理職への過度な負担にどう対処すべきか 3つの機能不全とその対応策",
-      "summary": "AIの導入はITの課題ではなく、組織の課題である。ジュニア層の生産性向上と経営陣の戦略的野心は、いずれも中間管理職への負荷として集中している。彼らはAIの誤りを",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14389"
     }
   ]
 }
