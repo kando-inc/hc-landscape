@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-07T00:28:16+09:00",
+  "last_updated": "2026-09-08T00:47:31+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-07",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76050.html"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "センスメイキングとは、正解なき世界で前進するための「地図をつくること」である ［インタビュー］目の前の現実に意味を与える",
+      "summary": "不確実性が高まり、前例や過去の成功法則が通用しなくなった今日、人々は「自分たちはどこへ向かっているのか」「なぜその方向を目指す必要があるのか」という意味づけを、",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14781"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "イノベーションを起こすべきか、模倣すべきか",
+      "summary": "",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14772"
+    },
     {
       "date": "2026-09-06",
       "title": "迷いながらも方向性を示すのがリーダーの役割 ［インタビュー］ソニーグループ会長が語る",
@@ -115,14 +139,6 @@
       "url": "https://dhbr.diamond.jp/articles/-/3783"
     },
     {
-      "date": "2026-09-01",
-      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75946.html"
-    },
-    {
       "date": "2026-09-02",
       "title": "「優れた戦略」に求められる3つの条件とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
       "summary": "「優れた戦略」に求められる3つの条件とは何でしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロービ",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/082600112/"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "なぜリーダーに現場の真実が届かないのか ダッシュボードに映らない組織の実態",
-      "summary": "成熟した企業には、経営陣が資料を通じて把握する「決算書類上の組織」と、従業員が日々経験する「実態組織」が併存する。両者の構造的な乖離は、戦略判断の誤りや問題発見",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14387"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "ワーク・ライフ・バランスの実践法 仕事も私生活も犠牲にしない",
-      "summary": "仕事のせいで私生活が犠牲にされていると感じる人が少なくない。しかし、仕事と私生活を分けて考えるのではなく、どちらも両立させ、しかもこれまで以上にうまくやれる自分",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/10936"
     }
   ]
 }
