@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-09T00:50:00+09:00",
+  "last_updated": "2026-09-10T00:42:51+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-09",
+      "title": "｢リッツ脱衣所でYouTube撮影→批判殺到｣｢ホテル側と見解が相違｣　令和の辻希美？板野友美が炎上タレントと化した背景 | ライフ | 東洋経済オンライン",
+      "summary": "元AKB48の板野友美がリッツ･カールトン日光の脱衣所でYouTube撮影を行い､炎上。加えてSNSでの子育てやファッション投稿も批判を招き､｢令和の辻希美｣と",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "企業永続の理論 「事業の定義」を創造的に破壊する",
+      "summary": "今まで成功を収めてきた組織の多くが、現在困難に陥っている。それは前提としてきた「事業の定義」が、新しい現実とそぐわなくなったのである。「事業の定義」は、常に見直",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13329"
+    },
     {
       "date": "2026-09-08",
       "title": "NEC「無人部署」の衝撃　35体のAIエージェント、「人件費」は月35万円 (人的資本の現場から)",
@@ -51,20 +67,20 @@
       "url": "https://dhbr.diamond.jp/articles/-/11885"
     },
     {
-      "date": "2026-09-08",
-      "title": "【ビジネスの基本を3分でおさらい】人を動かす「パワー」「影響力」とはどのようなものか 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "人を動かす「パワー」「影響力」とはどのようなものでしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14801"
-    },
-    {
       "date": "2026-09-07",
       "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
       "summary": "",
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/newpage_76050.html"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "【ビジネスの基本を3分でおさらい】人を動かす「パワー」「影響力」とはどのようなものか 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "人を動かす「パワー」「影響力」とはどのようなものでしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14801"
     },
     {
       "date": "2026-09-07",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/12201"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "顧客から新製品開発アイデアを引き出す戦略",
-      "summary": "新製品開発に当たって、メーカーはユーザーを巻き込んだ組織的なアプローチ法を開発することができる。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14301"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "編集部が厳選、今週の必読記事9選：2026年8月22日〜8月28日公開 リーダーが「認識できていない部分」を知る",
-      "summary": "生成AIを競争力につなげるには、情報設計や自社の強みを生かす投資、エージェントの適切な組み合わせが欠かせない。経営と現場の認識差や管理職の負担にも目を向け、持続",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14786"
     }
   ]
 }
