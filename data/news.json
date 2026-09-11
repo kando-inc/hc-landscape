@@ -1,14 +1,38 @@
 {
-  "last_updated": "2026-09-10T00:42:51+09:00",
+  "last_updated": "2026-09-11T00:39:18+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-09-09",
-      "title": "｢リッツ脱衣所でYouTube撮影→批判殺到｣｢ホテル側と見解が相違｣　令和の辻希美？板野友美が炎上タレントと化した背景 | ライフ | 東洋経済オンライン",
-      "summary": "元AKB48の板野友美がリッツ･カールトン日光の脱衣所でYouTube撮影を行い､炎上。加えてSNSでの子育てやファッション投稿も批判を招き､｢令和の辻希美｣と",
+      "date": "2026-09-10",
+      "title": "P＆Gは入社6日でプロジェクト責任者に　ホワイト退職防ぐ「あまりに大きな」裁量権 (人的資本の現場から)",
+      "summary": "成長実感を求め、「ゆるい」職場を去る若者が後を絶たない。そんな中、大きな裁量を与える企業に注目した。P＆Gでは入社6日目からプロジェクトリーダーに就任するケース",
       "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/090800118/"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "｢ロートルはテレビをやらないほうがいい｣…民放連･早河会長が語るテレビ局の人材論･組織論（後編） | ビジネス | 東洋経済オンライン",
+      "summary": "大きな変化の波が押し寄せるテレビ業界。動画配信やSNSの台頭､生成AIの普及､働き方改革の流れの中で､対応に必要な人材登用や組織改革とは？民放連会長（テレビ朝日",
+      "cat": "tech",
       "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "url": "https://toyokeizai.net/articles/-/956795?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "リーダーがAI導入を成功させるための3つのステップ 「緊急性の罠」に陥らない",
+      "summary": "巨額の投資にもかかわらず、生成AIプロジェクトの多くが失敗に終わっている。その根本的な原因は、技術の未熟さではなく、スピードや目先の課題解決を優先する「緊急性の",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14393"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "【ビジネスの基本を3分でおさらい】行動を喚起するモチベーションの「内容説」とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "人々の行動を動機づける「モチベーション」によって、その貢献度合いは大きく左右されます。そのモチベーションの研究は数多ありますが「内容説」とはどのようなものでしょ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14802"
     },
     {
       "date": "2026-09-09",
@@ -17,6 +41,38 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13329"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "経営戦略50年の進化を10の視座から読み解く 知の系譜をたどり、未来を照らす",
+      "summary": "近代経営学が急速な発展を遂げたこの半世紀は、世界中の経営学者がさまざまな課題と向き合い、乗り越えるべく、叡智を積み重ねてきた歴史にほかならない。新たな理論は既存",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14777"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "60年のデータで明らかになる男女のリーダーシップ経験の違い 水面下で進む懸念すべき新たな変化",
+      "summary": "1965年の初調査から約60年。女性リーダーに対する意識は改善したとされるが、評価や機会、昇進基準をめぐる男女の認識のずれは、水面下でむしろ深刻化している。女性",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14519"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76050.html"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "｢リッツ脱衣所でYouTube撮影→批判殺到｣｢ホテル側と見解が相違｣　令和の辻希美？板野友美が炎上タレントと化した背景 | ライフ | 東洋経済オンライン",
+      "summary": "元AKB48の板野友美がリッツ･カールトン日光の脱衣所でYouTube撮影を行い､炎上。加えてSNSでの子育てやファッション投稿も批判を招き､｢令和の辻希美｣と",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-08",
@@ -36,22 +92,6 @@
     },
     {
       "date": "2026-09-08",
-      "title": "経営戦略50年の進化を10の視座から読み解く 知の系譜をたどり、未来を照らす",
-      "summary": "近代経営学が急速な発展を遂げたこの半世紀は、世界中の経営学者がさまざまな課題と向き合い、乗り越えるべく、叡智を積み重ねてきた歴史にほかならない。新たな理論は既存",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14777"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "60年のデータで明らかになる男女のリーダーシップ経験の違い 水面下で進む懸念すべき新たな変化",
-      "summary": "1965年の初調査から約60年。女性リーダーに対する意識は改善したとされるが、評価や機会、昇進基準をめぐる男女の認識のずれは、水面下でむしろ深刻化している。女性",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14519"
-    },
-    {
-      "date": "2026-09-08",
       "title": "学習する組織へのブレークスルー コミュニケーション手法への過信こそが大敵",
       "summary": "MBWA、意識調査などの手法は、表面的には企業内のコミュニケーションを活性化させるように見えても、ダブル・ループ学習を阻害し、防衛的思考を放置して、学習する組織",
       "cat": "deep",
@@ -65,14 +105,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11885"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76050.html"
     },
     {
       "date": "2026-09-08",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/3783"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "「優れた戦略」に求められる3つの条件とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "「優れた戦略」に求められる3つの条件とは何でしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グロービ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14797"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "AI導入で「新人」を減らす企業は、次世代リーダーを失う 自動化と人材戦略を切り離さないための3つのアプローチ",
-      "summary": "新人などが担うエントリーレベルの業務削減やAI導入は目先のコスト削減をもたらす一方、現場での実践機会や暗黙知の伝達を奪い、将来のリーダー不足を招く。AI変革を進",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14388"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "イノベーションのジレンマ ［名著論文再掲］大企業が陥る「破壊的技術」の罠",
-      "summary": "顧客の声に従って製品や技術を改善することは、顧客満足の点からも、収益性や資源配分の効率性からも理にかなっている。しかし、ここにこそ落とし穴がある。主要顧客が価値",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/6540"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "行動するマネジャーの心得 言い訳や泣き言は何の解決にもならない",
-      "summary": "ほとんどのマネジャーや社員たちが、時間も足りなければ、資源にも人材にも乏しいとこぼす。一見正当に思えるこの発言を裏返すと、そこには、行動を起こすことへのためらい",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12201"
     }
   ]
 }
