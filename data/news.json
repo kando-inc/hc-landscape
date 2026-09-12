@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-11T00:39:18+09:00",
+  "last_updated": "2026-09-12T00:46:49+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-11",
+      "title": "【ビジネスの基本を3分でおさらい】行動を喚起するモチベーションの「過程説」とインセンティブの要諦 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
+      "summary": "人々の行動を動機づける「モチベーション」によって、組織への貢献度合いは大きく左右されます。そのモチベーションの研究は数多ありますが「過程説」とはどのようなもので",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14817"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "デジタル時代のM&Aは「エコシステムシナジー」が成否を左右する サードパーティとの補完関係がカギに",
+      "summary": "伝統的なM&Aは、市場支配力や組織能力の獲得に焦点を当ててきた。しかし、現在のデジタル時代においては、補完業者との関係を強化する「エコシステムシナジー」が競争優",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14390"
+    },
     {
       "date": "2026-09-10",
       "title": "P＆Gは入社6日でプロジェクト責任者に　ホワイト退職防ぐ「あまりに大きな」裁量権 (人的資本の現場から)",
@@ -12,27 +28,11 @@
     },
     {
       "date": "2026-09-10",
-      "title": "｢ロートルはテレビをやらないほうがいい｣…民放連･早河会長が語るテレビ局の人材論･組織論（後編） | ビジネス | 東洋経済オンライン",
-      "summary": "大きな変化の波が押し寄せるテレビ業界。動画配信やSNSの台頭､生成AIの普及､働き方改革の流れの中で､対応に必要な人材登用や組織改革とは？民放連会長（テレビ朝日",
-      "cat": "tech",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956795?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-10",
       "title": "リーダーがAI導入を成功させるための3つのステップ 「緊急性の罠」に陥らない",
       "summary": "巨額の投資にもかかわらず、生成AIプロジェクトの多くが失敗に終わっている。その根本的な原因は、技術の未熟さではなく、スピードや目先の課題解決を優先する「緊急性の",
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14393"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "【ビジネスの基本を3分でおさらい】行動を喚起するモチベーションの「内容説」とは何か 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "人々の行動を動機づける「モチベーション」によって、その貢献度合いは大きく左右されます。そのモチベーションの研究は数多ありますが「内容説」とはどのようなものでしょ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14802"
     },
     {
       "date": "2026-09-09",
@@ -41,6 +41,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13329"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "｢ロートルはテレビをやらないほうがいい｣…民放連･早河会長が語るテレビ局の人材論･組織論（後編） | ビジネス | 東洋経済オンライン",
+      "summary": "大きな変化の波が押し寄せるテレビ業界。動画配信やSNSの台頭､生成AIの普及､働き方改革の流れの中で､対応に必要な人材登用や組織改革とは？民放連会長（テレビ朝日",
+      "cat": "tech",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/956795?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-08",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14798"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "バーチャル組織：“見えない人たち”をどう管理するか 情報をベースとしたネットワーク時代のマネジメント",
-      "summary": "",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/3783"
     }
   ]
 }
