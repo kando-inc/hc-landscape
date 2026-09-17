@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-16T00:53:06+09:00",
+  "last_updated": "2026-09-17T00:57:18+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-16",
+      "title": "AI時代に試練を迎えるモジュラー型企業 勝ち残る組織は「再結合」に長けている",
+      "summary": "組織のモジュール化は柔軟性やスピードを高めた一方、AI導入や部門横断の資源再配置には時間を要する。企業は組織を分解する力に比べ、環境変化に応じて再結合する力が不",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14513"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "ものまね組織を市場リーダーに変える",
+      "summary": "",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14465"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "「学習する組織」の実践プロセス 【1993年度マッキンゼー賞受賞論文】3つのＭから始まる",
+      "summary": "いくら変革や改善、イノベーションを訴えたところで、社員と組織に「学習」という習慣が備わっていなければ一時的なものにとどまり、またその効果のほども知れている。本稿",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12498"
+    },
     {
       "date": "2026-09-15",
       "title": "【ビジネスの基本を3分でおさらい】状況を踏まえて選ぶべき組織形態とその設計ポイントとは 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14781"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "イノベーションを起こすべきか、模倣すべきか",
-      "summary": "",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14772"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "迷いながらも方向性を示すのがリーダーの役割 ［インタビュー］ソニーグループ会長が語る",
-      "summary": "ソニーグループは2000年代後半からの経営危機を乗り越え、エレクトロニクスからエンタテインメントを主軸とする企業へと劇的な変貌を遂げた。この変革をCFO、CEO",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14782"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "編集部が厳選、今週の必読記事7選：2026年8月29日〜9月4日公開 複雑さが増すほどに、マネジメント能力で差がつく",
-      "summary": "AI時代の企業には、知識の明文化、人材育成や管理の再設計、ブランド・顧客戦略、投資判断の刷新などが求められる。競争優位からサステナビリティ投資、マネジメントまで",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14809"
     }
   ]
 }
