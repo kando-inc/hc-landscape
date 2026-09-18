@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-09-17T00:57:18+09:00",
+  "last_updated": "2026-09-18T00:53:18+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-17",
+      "title": "第78回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76036.html"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "いすゞ･山口新社長が語る｢新規事業1兆円｣の道筋…｢自動運転とコネクテッドサービスで物流自動化を実現したい｣ | ビジネス | 東洋経済オンライン",
+      "summary": "いすゞ自動車は､国内商用車シェアトップとして､2030年度に売上高6兆円を掲げる新たな成長戦略に挑みます。不透明な国際情勢と技術革新の波の中､同社は現場力と\"仲",
+      "cat": "explore",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958101?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "学際的コラボレーションのジレンマ",
+      "summary": "1万7000件におよぶ特許の調査がコラボレーションと発明の価値との関係性を明らかにした。メンバーの専門性が高く、多様性に富んだコラボレーションが価値の高いイノベ",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14428"
+    },
     {
       "date": "2026-09-16",
       "title": "AI時代に試練を迎えるモジュラー型企業 勝ち残る組織は「再結合」に長けている",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/090700116/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "学習する組織へのブレークスルー コミュニケーション手法への過信こそが大敵",
-      "summary": "MBWA、意識調査などの手法は、表面的には企業内のコミュニケーションを活性化させるように見えても、ダブル・ループ学習を阻害し、防衛的思考を放置して、学習する組織",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/4812"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "リーダーシップ：至高の瞬間 「リーダーシップの根源的状態」がつくる",
-      "summary": "組織の業績は、リーダーの技量に大きく左右される。ほとんどのリーダーシップ研修やビジネス書が、偉大なリーダーに学び、これを模倣することを奨励する。実は、このアプロ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11885"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "【ビジネスの基本を3分でおさらい】人を動かす「パワー」「影響力」とはどのようなものか 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "人を動かす「パワー」「影響力」とはどのようなものでしょうか。MBAのエッセンスを手軽に学べる本として人気を博し、累計発行部数47万部を超えるロングセラー書籍『グ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14801"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "センスメイキングとは、正解なき世界で前進するための「地図をつくること」である ［インタビュー］目の前の現実に意味を与える",
-      "summary": "不確実性が高まり、前例や過去の成功法則が通用しなくなった今日、人々は「自分たちはどこへ向かっているのか」「なぜその方向を目指す必要があるのか」という意味づけを、",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14781"
     }
   ]
 }
