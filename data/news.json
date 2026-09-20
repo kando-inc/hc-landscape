@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-19T00:45:58+09:00",
+  "last_updated": "2026-09-20T00:29:17+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-19",
+      "title": "リーダーシップの最初のステップは「計画の策定」ではない 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第5回",
+      "summary": "人を巻き込んで動かすには、まず計画が必要だと考えがちだ。しかし、物事を変えていくリーダーシップにおいて、最初に行うべきは計画の策定ではなく、「方向性の設定」（ビ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14807"
+    },
     {
       "date": "2026-09-18",
       "title": "AIによる業務加速に追い立てられるマネジャーに必要なこと 新たな5つのアプローチ",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "NEC「無人部署」の衝撃　35体のAIエージェント、「人件費」は月35万円 (人的資本の現場から)",
-      "summary": "人工知能（AI)だけで組織される「無人部署」がNECに誕生した。部門長も現場社員も、全員がAIエージェントだ。1カ月のトークン費用35万円という破格のコストで、",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/090700117/"
     }
   ]
 }
