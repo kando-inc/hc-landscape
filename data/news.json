@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-20T00:29:17+09:00",
+  "last_updated": "2026-09-21T00:38:38+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-20",
+      "title": "リーダーが従業員の意欲を最大限に引き出す方法 希望と現実をすり合わせる",
+      "summary": "不確実な時代に、リーダーがビジョンを掲げるだけでは組織は動かない。従業員の意欲を左右するのは、示された未来が「実現可能か」と思えるかという希望だ。希望は楽観主義",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14293"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "編集部が厳選、今週の必読記事13選：2026年9月12日〜9月18日公開",
+      "summary": "AIの浸透は、人材評価や組織設計、戦略実行のあり方を変えつつある。AI時代に求められる評価制度や職場環境、人材採用、リスキリング、戦略実行、M&Aなど、企業が変",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14876"
+    },
     {
       "date": "2026-09-19",
       "title": "リーダーシップの最初のステップは「計画の策定」ではない 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第5回",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14519"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76050.html"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "｢リッツ脱衣所でYouTube撮影→批判殺到｣｢ホテル側と見解が相違｣　令和の辻希美？板野友美が炎上タレントと化した背景 | ライフ | 東洋経済オンライン",
-      "summary": "元AKB48の板野友美がリッツ･カールトン日光の脱衣所でYouTube撮影を行い､炎上。加えてSNSでの子育てやファッション投稿も批判を招き､｢令和の辻希美｣と",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
