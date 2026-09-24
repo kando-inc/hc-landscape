@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-09-23T01:01:57+09:00",
+  "last_updated": "2026-09-24T00:57:34+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-23",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解 | ビジネス | 東洋経済オンライン",
+      "summary": "国連をはじめグローバルに活躍した蓮見祥子氏の経験から､変化対応や人材育成､経営課題としてのセキュリティの本質に迫ります。あなたの組織の未来を守るヒントとは？",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958188?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "修羅場を経験するだけでは「器の大きいリーダー」になれない理由 連載『成人発達理論で考える部下の育て方とリーダーの成長』第31回",
+      "summary": "組織が拡大すると、それまで成長を牽引してきたリーダーのやり方が通用しなくなる局面が訪れる。こうした状況を打破するためには、スキルや知識を増やすだけでは不十分で、",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14808"
+    },
     {
       "date": "2026-09-21",
       "title": "AIの普及で変化する、採用される人材の条件 専門性だけでは成果を挙げられない",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13329"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "｢ロートルはテレビをやらないほうがいい｣…民放連･早河会長が語るテレビ局の人材論･組織論（後編） | ビジネス | 東洋経済オンライン",
-      "summary": "大きな変化の波が押し寄せるテレビ業界。動画配信やSNSの台頭､生成AIの普及､働き方改革の流れの中で､対応に必要な人材登用や組織改革とは？民放連会長（テレビ朝日",
-      "cat": "tech",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/956795?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "経営戦略50年の進化を10の視座から読み解く 知の系譜をたどり、未来を照らす",
-      "summary": "近代経営学が急速な発展を遂げたこの半世紀は、世界中の経営学者がさまざまな課題と向き合い、乗り越えるべく、叡智を積み重ねてきた歴史にほかならない。新たな理論は既存",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14777"
     }
   ]
 }
