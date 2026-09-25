@@ -1,14 +1,30 @@
 {
-  "last_updated": "2026-09-24T00:57:34+09:00",
+  "last_updated": "2026-09-25T01:00:36+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-09-23",
-      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解 | ビジネス | 東洋経済オンライン",
-      "summary": "国連をはじめグローバルに活躍した蓮見祥子氏の経験から､変化対応や人材育成､経営課題としてのセキュリティの本質に迫ります。あなたの組織の未来を守るヒントとは？",
+      "date": "2026-09-24",
+      "title": "顧客エンゲージメントを変える「AI＋人」方程式 (グローバルインテリジェンス)",
+      "summary": "人工知能（AI）を活用した顧客エンゲージメントの仕組みが急速に普及する中、チェタン・デュベ氏は、「AI＋人」方程式が顧客との良質な関係を長期にわたり構築するため",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00351/091800243/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "｢タイプロは失敗だった｣ timelesz･猪俣周杜の逮捕で菊池風磨らに飛び火…《タレント審査員が背負う責任》という理不尽 | ライフ | 東洋経済オンライン",
+      "summary": "人気グループ｢timelesz｣の新メンバー･猪俣周杜の逮捕が波紋を広げています。斬新なオーディションの成功の陰で､選抜したメンバーへのバッシングやSNSでの批",
       "cat": "deep",
       "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958188?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+      "url": "https://toyokeizai.net/articles/-/959061?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "リーダーは、従業員に期待する変革をみずから体現せよ 自身に問うべき3つの質問",
+      "summary": "「従業員は変化に抵抗する」という通説は、変革に失敗したリーダーの言い訳にすぎない。企業改革の成否を分ける最大のボトルネックは、従業員ではなく、みずから行動で模範",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14581"
     },
     {
       "date": "2026-09-23",
@@ -41,6 +57,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14876"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解 | ビジネス | 東洋経済オンライン",
+      "summary": "国連をはじめグローバルに活躍した蓮見祥子氏の経験から､変化対応や人材育成､経営課題としてのセキュリティの本質に迫ります。あなたの組織の未来を守るヒントとは？",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/958188?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-19",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00636/090800118/"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "デジタル時代のM&Aは「エコシステムシナジー」が成否を左右する サードパーティとの補完関係がカギに",
-      "summary": "伝統的なM&Aは、市場支配力や組織能力の獲得に焦点を当ててきた。しかし、現在のデジタル時代においては、補完業者との関係を強化する「エコシステムシナジー」が競争優",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14390"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "リーダーがAI導入を成功させるための3つのステップ 「緊急性の罠」に陥らない",
-      "summary": "巨額の投資にもかかわらず、生成AIプロジェクトの多くが失敗に終わっている。その根本的な原因は、技術の未熟さではなく、スピードや目先の課題解決を優先する「緊急性の",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14393"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "企業永続の理論 「事業の定義」を創造的に破壊する",
-      "summary": "今まで成功を収めてきた組織の多くが、現在困難に陥っている。それは前提としてきた「事業の定義」が、新しい現実とそぐわなくなったのである。「事業の定義」は、常に見直",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13329"
     }
   ]
 }
