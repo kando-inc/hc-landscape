@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-25T01:00:36+09:00",
+  "last_updated": "2026-09-26T01:03:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-09-25",
+      "title": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から)",
+      "summary": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだ",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "小さな国の大きな力",
+      "summary": "アメリカや日本でのイノベーションはいまや大同小異である。デンマークやフィンランド、キューバやチリ、モンゴルなど、「小国」にこそイノベーションの種が埋もれている。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14457"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "エマソン・エレクトリックの「超」着実経営 【1992年マッキンゼー賞受賞論文】長期的な増益増配を支える2つの原則",
+      "summary": "エマソン・エレクトリックは1950年代半ばから34年連続増益、35年連続増配という輝かしい業績を挙げていた。本稿は『ハーバード・ビジネス・レビュー』（HBR）1",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11584"
+    },
     {
       "date": "2026-09-24",
       "title": "顧客エンゲージメントを変える「AI＋人」方程式 (グローバルインテリジェンス)",
@@ -9,14 +33,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00351/091800243/"
-    },
-    {
-      "date": "2026-09-24",
-      "title": "｢タイプロは失敗だった｣ timelesz･猪俣周杜の逮捕で菊池風磨らに飛び火…《タレント審査員が背負う責任》という理不尽 | ライフ | 東洋経済オンライン",
-      "summary": "人気グループ｢timelesz｣の新メンバー･猪俣周杜の逮捕が波紋を広げています。斬新なオーディションの成功の陰で､選抜したメンバーへのバッシングやSNSでの批",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/959061?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-24",
@@ -41,6 +57,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14444"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "｢タイプロは失敗だった｣ timelesz･猪俣周杜の逮捕で菊池風磨らに飛び火…《タレント審査員が背負う責任》という理不尽 | ライフ | 東洋経済オンライン",
+      "summary": "人気グループ｢timelesz｣の新メンバー･猪俣周杜の逮捕が波紋を広げています。斬新なオーディションの成功の陰で､選抜したメンバーへのバッシングやSNSでの批",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/959061?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-20",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14436"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "編集部が厳選、今週の必読記事5選：2026年9月9日〜9月11日公開 自社の「当たり前」を疑う",
-      "summary": "AIやデジタル技術をビジネスの成果につなげるには、営業モデルとの適合性や組織の存在意義、長期的な価値創造を設計し直す必要がある。営業のデジタル戦略や哲学の経営へ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14845"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "【ビジネスの基本を3分でおさらい】行動を喚起するモチベーションの「過程説」とインセンティブの要諦 連載『グロービスMBA マネジメント・ブック』でビジネスの基本を学ぶ",
-      "summary": "人々の行動を動機づける「モチベーション」によって、組織への貢献度合いは大きく左右されます。そのモチベーションの研究は数多ありますが「過程説」とはどのようなもので",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14817"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "P＆Gは入社6日でプロジェクト責任者に　ホワイト退職防ぐ「あまりに大きな」裁量権 (人的資本の現場から)",
-      "summary": "成長実感を求め、「ゆるい」職場を去る若者が後を絶たない。そんな中、大きな裁量を与える企業に注目した。P＆Gでは入社6日目からプロジェクトリーダーに就任するケース",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/090800118/"
     }
   ]
 }
