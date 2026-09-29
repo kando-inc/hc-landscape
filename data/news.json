@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T01:17:14+09:00",
+  "last_updated": "2026-09-29T02:23:06+09:00",
   "total": 30,
   "articles": [
     {
@@ -9,14 +9,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00614/091500032/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "SSBJ基準対応にGHG排出量算定や報告プロセス整備も必要､2027年から大きく変わるサステナビリティ法定開示の実務対応① | ビジネス | 東洋経済オンライン",
-      "summary": "2027年から時価総額3兆円以上の企業に義務化されるSSBJ基準によるサステナビリティ情報開示。気候変動や人的資本など非財務情報の透明性が問われ､今や全企業が無",
-      "cat": "policy",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953614?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-27",
@@ -57,6 +49,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14829"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "SSBJ基準対応にGHG排出量算定や報告プロセス整備も必要､2027年から大きく変わるサステナビリティ法定開示の実務対応① | ビジネス | 東洋経済オンライン",
+      "summary": "2027年から時価総額3兆円以上の企業に義務化されるSSBJ基準によるサステナビリティ情報開示。気候変動や人的資本など非財務情報の透明性が問われ､今や全企業が無",
+      "cat": "policy",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/953614?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-09-25",
