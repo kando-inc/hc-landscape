@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-29T02:23:06+09:00",
+  "last_updated": "2026-09-30T01:43:50+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-09-27",
-      "title": "AIで差が開く人材育成　「パラシュート型」で難問からの学びを成長に (人的資本経営のキホン)",
-      "summary": "AIが定型業務や反復作業を代替するようになり、従来の育成方法が通用しなくなっている。最初から難問に向き合わせ、理想と現実の差分から学びを得る形への転換が必要だ。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/091500032/"
+      "date": "2026-09-29",
+      "title": "ビジョナリー・カンパニーへの道 Part Ⅲ【HBR名著論文30選】　どのような未来を切り開いていくのか",
+      "summary": "1994年に刊行された『ビジョナリー カンパニー』は、25カ語に翻訳され、世界的なベストセラーとなった。同書においてコリンズとポラスは独創的な「ペア分析」という",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11662"
     },
     {
       "date": "2026-09-27",
@@ -41,6 +41,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14892"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "AIで差が開く人材育成　「パラシュート型」で難問からの学びを成長に (人的資本経営のキホン)",
+      "summary": "AIが定型業務や反復作業を代替するようになり、従来の育成方法が通用しなくなっている。最初から難問に向き合わせ、理想と現実の差分から学びを得る形への転換が必要だ。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/091500032/"
     },
     {
       "date": "2026-09-26",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14819"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "イノベーションは最後の手段",
-      "summary": "ホームランのような画期的なイノベーションの魅惑には抗いがたい。しかし、成長戦略としては、最後まで手を出すべきではない。確実なヒットの積み重ねて成長を遂げるべきだ",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14424"
     }
   ]
 }
