@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-01T01:40:19+09:00",
+  "last_updated": "2026-10-02T01:52:23+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-01",
+      "title": "クラウドワークス、AIで祖業苦戦　吉田社長「専門人材マッチングに活路」 (人的資本の現場から)",
+      "summary": "AIの台頭でクラウドワークスが大打撃を受けている。特に祖業のマッチング事業は利益率が大きく低下した。それでも吉田浩一郎社長は強気な姿勢を崩さない。その理由を探っ",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/092500120/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "AIエージェントの本当の価値は「時短」ではない 人間の役割は、タスクの実行から委任と監督へシフトする",
+      "summary": "AIエージェントは、情報提供に留まるAIアシスタントと異なり、自律的に行動して完成した成果物を提供する。この変化は単なる既存タスクの効率化に留まらず、人が取り組",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14664"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Cスイートを目指す人のキャリア戦略 トップチームに選ばれる人材の共通点とは",
+      "summary": "Cスイートへの道は、これまで以上に険しくなっている。求められるのは専門知識だけではなく、全社的な視点や協働力、変化への適応力、人を率いる力だ。本稿では、S&P5",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14169"
+    },
     {
       "date": "2026-09-30",
       "title": "カスハラ対策義務化、SNS誹謗中傷も対象　「正当なクレーム」との線引き難題 (人的資本の現場から)",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14465"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "「学習する組織」の実践プロセス 【1993年度マッキンゼー賞受賞論文】3つのＭから始まる",
-      "summary": "いくら変革や改善、イノベーションを訴えたところで、社員と組織に「学習」という習慣が備わっていなければ一時的なものにとどまり、またその効果のほども知れている。本稿",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12498"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "第78回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76036.html"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
     }
   ]
 }
