@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-10-03T01:32:34+09:00",
+  "last_updated": "2026-10-04T02:13:34+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-03",
+      "title": "正しさだけでは人は動かないのかビジョンに必要な2つの要素 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第7回",
+      "summary": "リーダーシップは方向性の設定、すなわちビジョンづくりから始まる。しかし、たいていのビジョンは抽象的でふわっとしているように見えがちだ。人を動かす力を持つビジョン",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14851"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "意思決定のルールを定めても組織が動かない4つの要因 役割だけでなく責任まで委ねているか",
+      "summary": "組織運営を円滑に行ううえでは、意思決定権の所在を明確にすることが欠かせない。意思決定において誰がどの役割を担うかを明示するために、RACIなどのフレームワークも",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14900"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "意思決定を阻む人間関係という障害 経営幹部の言行不一致はなぜ起きるのか",
+      "summary": "クリス・アージリスは経営行動学の立場から、組織における学習やコミュニケーションの問題を論じてきたが、本稿は265を超える実際の企業の意思決定会議の観察から、その",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14897"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "暫定CEOの起用を成功に導く条件 突然の退任にどう備えるか",
+      "summary": "業績不振やスキャンダル、あるいは本人の事情などでCEOが退任してしまった……このような時に暫定CEOが任命されることが多いが、この選択が市場の信頼や業績に悪影響",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14898"
+    },
     {
       "date": "2026-10-02",
       "title": "革新的なアイデアをスケールさせるために必要なこと 「橋渡し役」のリーダーシップが成否を握る",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/958188?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "リーダーシップの最初のステップは「計画の策定」ではない 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第5回",
-      "summary": "人を巻き込んで動かすには、まず計画が必要だと考えがちだ。しかし、物事を変えていくリーダーシップにおいて、最初に行うべきは計画の策定ではなく、「方向性の設定」（ビ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14807"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "AIによる業務加速に追い立てられるマネジャーに必要なこと 新たな5つのアプローチ",
-      "summary": "AIにより部下の業務が劇的に加速する中、確認作業に追われるマネジャーが新たなボトルネックと化している。成果物が次々と生み出されるいま、従来の管理手法のままでは上",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14166"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "学際的コラボレーションのジレンマ",
-      "summary": "1万7000件におよぶ特許の調査がコラボレーションと発明の価値との関係性を明らかにした。メンバーの専門性が高く、多様性に富んだコラボレーションが価値の高いイノベ",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14428"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "AI時代に試練を迎えるモジュラー型企業 勝ち残る組織は「再結合」に長けている",
-      "summary": "組織のモジュール化は柔軟性やスピードを高めた一方、AI導入や部門横断の資源再配置には時間を要する。企業は組織を分解する力に比べ、環境変化に応じて再結合する力が不",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14513"
     }
   ]
 }
