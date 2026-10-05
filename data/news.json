@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-04T02:13:34+09:00",
+  "last_updated": "2026-10-05T01:23:01+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-04",
+      "title": "自分事として仕事と向き合う人に、適切な場を与える ［インタビュー］トップを任せる人間は「性格」で見極める",
+      "summary": "キヤノンをグローバル企業へと導き、社長就任から30年余りで売上高を2.2倍、営業利益を3.0倍に成長させた御手洗冨士夫会長CEO。同氏が実践する「任せる技術」の",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14903"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "編集部が厳選、今週の必読記事6選：2026年9月26日〜10月2日公開 人間とテクノロジーの役割を再設計する",
+      "summary": "AIは業務効率化に留まらず、働き方やキャリア、リーダーシップを変えつつある。AIへの委任が進むほど、人間には適切に任せ、成果を見極める力が求められる。同時に、多",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14940"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "内部人材市場の効果的な活用法",
+      "summary": "",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14895"
+    },
     {
       "date": "2026-10-03",
       "title": "正しさだけでは人は動かないのかビジョンに必要な2つの要素 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第7回",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/959061?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "リーダーが従業員の意欲を最大限に引き出す方法 希望と現実をすり合わせる",
-      "summary": "不確実な時代に、リーダーがビジョンを掲げるだけでは組織は動かない。従業員の意欲を左右するのは、示された未来が「実現可能か」と思えるかという希望だ。希望は楽観主義",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14293"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "編集部が厳選、今週の必読記事13選：2026年9月12日〜9月18日公開",
-      "summary": "AIの浸透は、人材評価や組織設計、戦略実行のあり方を変えつつある。AI時代に求められる評価制度や職場環境、人材採用、リスキリング、戦略実行、M&Aなど、企業が変",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14876"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "｢人を変えて守るセキュリティはうまくいかない｣､元国連CISOが壮絶な経験を経て辿り着いた組織防衛の解 | ビジネス | 東洋経済オンライン",
-      "summary": "国連をはじめグローバルに活躍した蓮見祥子氏の経験から､変化対応や人材育成､経営課題としてのセキュリティの本質に迫ります。あなたの組織の未来を守るヒントとは？",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/958188?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
