@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-07T01:53:33+09:00",
+  "last_updated": "2026-10-08T02:21:43+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-07",
+      "title": "多様化するリーダーシップ論はビジネスに実践知を与えうるか  DHBR創刊50周年：識者が示すマネジメントのこれから［第5回］研究は「3つの波」のその先へ",
+      "summary": "リーダーシップ論はここ50年で飛躍的に広がり多様化してきたが、その膨大な蓄積が実務に十分に活かされているとは言いがたい。時代とともにその定義は変遷し、すでに否定",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14896"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "AIチームとITチームが考え方の違いを乗り越え、連携する方法 両者の分断は適切なマネジメントで競争力の源泉になる",
+      "summary": "多くの企業でIT部門とAI部門は同じ枠組みで扱われがちだが、両者の視点は根本的に異なる。ITが統制や標準化を重視する一方、AIは柔軟性や迅速な実験を追求するため",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14669"
+    },
     {
       "date": "2026-10-06",
       "title": "リーダーは権限委譲の難しさをどうすれば乗り越えられるのか 誰もが直面しうる4つの課題",
@@ -225,22 +241,6 @@
       "cat": "policy",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/953614?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から)",
-      "summary": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだ",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/092400119/"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "優れたリーダーはフィードバックが引き起こす感情を理解している 実践すべき6つのアプローチ",
-      "summary": "フィードバックは単なる情報の伝達ではなく、相手に強烈な心理的インパクトを与える「感情的な出来事」である。いかに正論であっても、伝え方次第で「自己防衛」や「萎縮」",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14518"
     }
   ]
 }
