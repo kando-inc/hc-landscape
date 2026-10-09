@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-10-08T02:21:43+09:00",
+  "last_updated": "2026-10-09T02:39:12+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-08",
+      "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76663.html"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "グローバルチームの成否を左右する7つの要素 うまくいかない原因は「文化の違い」ではない",
+      "summary": "国境を越えた協働を阻む主因は、文化の違いよりも組織の仕組みにある。筆者らが行った研究では、協働の成否を左右する7つの要素が判明した。リーダーは、制御しにくい摩擦",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14583"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "任せる技術：みずから考え、行動する人を育てる 編集長ブログ",
+      "summary": "『DIAMOND ハーバード・ビジネス・レビュー』（DHBR）2026年11月号の特集は「任せる技術：みずから考え、行動する人を育てる」です。権限委譲はリーダー",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14872"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "AIで若手の成長機会が失われるいま、企業は何をすべきか 次世代リーダーを育てる「メンタリング」の再設計",
+      "summary": "AIによる業務の自動化が進む中、若手従業員が実務を通じて判断力やプロとしての直観、暗黙知を培う経験の場が失われつつある。これは将来のリーダーシップパイプラインの",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14665"
+    },
     {
       "date": "2026-10-07",
       "title": "多様化するリーダーシップ論はビジネスに実践知を与えうるか  DHBR創刊50周年：識者が示すマネジメントのこれから［第5回］研究は「3つの波」のその先へ",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14666"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "編集部が厳選、今週の必読記事9選：2026年9月19日〜9月25日公開",
-      "summary": "AIの普及は競争環境や人材に必要な能力を変えた。それに伴い、リーダーの役割も問い直す必要がある。変革には経営層の行動変容と現場の声の活用が欠かせない。今回は、A",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14892"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "AIで差が開く人材育成　「パラシュート型」で難問からの学びを成長に (人的資本経営のキホン)",
-      "summary": "AIが定型業務や反復作業を代替するようになり、従来の育成方法が通用しなくなっている。最初から難問に向き合わせ、理想と現実の差分から学びを得る形への転換が必要だ。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/091500032/"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "ビジョンを描くうえで必要なのは、想像力より情報収集である 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第6回",
-      "summary": "ビジョンづくりとは、皆で目指す「ありたい姿」、つまり、ゴールそのものを自分たちでつくる作業である。これまでと違うことをゼロベースで始めるため、経験も手がかりもな",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14829"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "SSBJ基準対応にGHG排出量算定や報告プロセス整備も必要､2027年から大きく変わるサステナビリティ法定開示の実務対応① | ビジネス | 東洋経済オンライン",
-      "summary": "2027年から時価総額3兆円以上の企業に義務化されるSSBJ基準によるサステナビリティ情報開示。気候変動や人的資本など非財務情報の透明性が問われ､今や全企業が無",
-      "cat": "policy",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/953614?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
