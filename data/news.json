@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-10-10T01:58:47+09:00",
+  "last_updated": "2026-10-11T01:24:36+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-11",
+      "title": "編集部が厳選、今週の必読記事8選：2026年10月5日〜10月9日公開 リーダーが判断の質を高め続けるには",
+      "summary": "AIの浸透や働き方の多様化に伴い、マネジメントの課題は広がっている。今回は、AIによる意思決定の説明責任や若手育成、AI・ITチームの連携、AIが経済にもたらす",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14994"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "リーダーは優秀な社員を追い詰める「見えない負荷」にどう対応すべきか メンタルロードを軽減する具体的方法",
+      "summary": "優秀な社員ほど、仕事と私生活の調整に追われる「メンタルロード」（認知的・感情的労働）によってひそかに疲弊している。従来の指標では見えにくいこの負荷は、集中力を低",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14662"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "ビジョンへ「人の向き」を揃えるための説得力の3要素 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第8回",
+      "summary": "ビジョンが決まれば、あとは計画を立て、役割を分担し、明確な指示を出せばよい――マネジメントに慣れていると、ついそれでうまくいくと思いがちだ。しかし、物事を変えて",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14873"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "創造的な才能を引き出す「人材の組み合わせ」の科学 3つの資本を補って成果を最大化する",
+      "summary": "組織において創造的な成果を生み出すには、個人の才能に依存するだけでなく、人材同士を戦略的に組み合わせることが重要だ。「経済資本」「社会関係資本」「文化資本」とい",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14788"
+    },
     {
       "date": "2026-10-09",
       "title": "三州製菓、パートにも賞与「年3回」　同一労働同一賃金で離職率低下 (人的資本の現場から)",
@@ -19,20 +51,20 @@
       "url": "https://dhbr.diamond.jp/articles/-/14586"
     },
     {
-      "date": "2026-10-09",
-      "title": "エコノミストはR&Dをどうみているか",
-      "summary": "エコノミストの研究は、イノベーションの技術面の成否と営業面の成否を決定づける要因に焦点を当てている。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14324"
-    },
-    {
       "date": "2026-10-08",
       "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
       "summary": "",
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/newpage_76663.html"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "エコノミストはR&Dをどうみているか",
+      "summary": "エコノミストの研究は、イノベーションの技術面の成否と営業面の成否を決定づける要因に焦点を当てている。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14324"
     },
     {
       "date": "2026-10-08",
@@ -209,38 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14664"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Cスイートを目指す人のキャリア戦略 トップチームに選ばれる人材の共通点とは",
-      "summary": "Cスイートへの道は、これまで以上に険しくなっている。求められるのは専門知識だけではなく、全社的な視点や協働力、変化への適応力、人を率いる力だ。本稿では、S&P5",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14169"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "研修後も変わらない新任マネジャーを成長させる、効果的な支援の進め方 連載『成人発達理論で考える部下の育て方とリーダーの成長』第32回",
-      "summary": "従来からの年次や役職別で行う一律の研修や人材育成は、個々人の成長課題が異なるため限界がある。一人ひとりの成長を促すには、業務遂行に必要な「スキル」と物事の意味づ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14850"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "ビジョナリー・カンパニーへの道 Part Ⅲ【HBR名著論文30選】　どのような未来を切り開いていくのか",
-      "summary": "1994年に刊行された『ビジョナリー カンパニー』は、25カ語に翻訳され、世界的なベストセラーとなった。同書においてコリンズとポラスは独創的な「ペア分析」という",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11662"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "カスハラ対策義務化、SNS誹謗中傷も対象　「正当なクレーム」との線引き難題 (人的資本の現場から)",
-      "summary": "10月1日、カスタマーハラスメント（カスハラ）対策を義務化する改正労働施策総合推進法が施行された。SNS上の被害も見過ごせない。社内インフルエンサーを多く抱える",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/092900121/"
     }
   ]
 }
