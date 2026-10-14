@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-10-13T03:15:54+09:00",
+  "last_updated": "2026-10-14T01:28:20+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-13",
+      "title": "あなたの会社は大丈夫？　サイバー攻撃、「有事」「平時」の対策チェックリスト (もう一度読みたい)",
+      "summary": "ランサムウエア攻撃は、もはや「防げるか」ではなく「被害をいかに最小化するか」が問われる時代に入った。企業に求められるのは、身代金要求に屈しない原則と、平時からの",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/seminar/19/00059/100900409/"
+    },
     {
       "date": "2026-10-12",
       "title": "優秀なAIエンジニアを引きつける3つの採用戦略 どうすれば巨大企業に負けず、自社に呼び込めるか",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14897"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "暫定CEOの起用を成功に導く条件 突然の退任にどう備えるか",
-      "summary": "業績不振やスキャンダル、あるいは本人の事情などでCEOが退任してしまった……このような時に暫定CEOが任命されることが多いが、この選択が市場の信頼や業績に悪影響",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14898"
     }
   ]
 }
