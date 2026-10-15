@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-14T01:28:20+09:00",
+  "last_updated": "2026-10-15T01:04:16+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-14",
+      "title": "まやかしの人手不足　シニアの気高き「最後の仕事」が企業を救う (河合薫　上司と部下の力学)",
+      "summary": "人手が足りていないのではなく、人手になるはずの「人材」を、企業が戦力として組み込んでいないだけではないか。どこの企業も他社との熾烈な賃上げ競争・採用コスト増に喘",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/seminar/19/00118/00428/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "AIの尻ぬぐいに追われる「ボットシッティング」を減らす方法 従業員ではなく、リーダーの仕事",
+      "summary": "生成AIの導入が進む中、企業ではAIの出力を人間が補正・監視する「ボットシッティング」の隠れた負担が増大している。背景には、管理コストや組織特有の文脈情報の不足",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14676"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "本当に部下を成長させるOJTの設計に欠かせない3つの目標 連載『成人発達理論で考える部下の育て方とリーダーの成長』第33回",
+      "summary": "実際の業務を通じて知識やスキルを身につけるOJTは、多くの企業で導入されている人材育成の手法だ。しかしOJTを成功させるには、単に仕事を任せるだけではなく、大き",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14875"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "コア・コンピタンス経営 【1990年度マッキンゼー賞受賞論文】未来の競争力を組織的に構築する",
+      "summary": "1980年代の経営者は、いかに企業をスリム化させるかで評価された。90年代の経営者は、いかに企業を成長させるかで評価されるだろう──。そのカギを握るのが「コア・",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/11573"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "戦略実行力の本質 報酬制度や組織構造を変えても効果は薄い",
+      "summary": "50カ国1000を超える組織の12万5000人が回答したオンライン調査によると、「自社の戦略実行力は低い」と評価する社員が全体の6割に上るという。戦略実行力は、",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/10996"
+    },
     {
       "date": "2026-10-13",
       "title": "あなたの会社は大丈夫？　サイバー攻撃、「有事」「平時」の対策チェックリスト (もう一度読みたい)",
@@ -201,46 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14903"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "編集部が厳選、今週の必読記事6選：2026年9月26日〜10月2日公開 人間とテクノロジーの役割を再設計する",
-      "summary": "AIは業務効率化に留まらず、働き方やキャリア、リーダーシップを変えつつある。AIへの委任が進むほど、人間には適切に任せ、成果を見極める力が求められる。同時に、多",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14940"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "内部人材市場の効果的な活用法",
-      "summary": "",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14895"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "正しさだけでは人は動かないのかビジョンに必要な2つの要素 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第7回",
-      "summary": "リーダーシップは方向性の設定、すなわちビジョンづくりから始まる。しかし、たいていのビジョンは抽象的でふわっとしているように見えがちだ。人を動かす力を持つビジョン",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14851"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "意思決定のルールを定めても組織が動かない4つの要因 役割だけでなく責任まで委ねているか",
-      "summary": "組織運営を円滑に行ううえでは、意思決定権の所在を明確にすることが欠かせない。意思決定において誰がどの役割を担うかを明示するために、RACIなどのフレームワークも",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14900"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "意思決定を阻む人間関係という障害 経営幹部の言行不一致はなぜ起きるのか",
-      "summary": "クリス・アージリスは経営行動学の立場から、組織における学習やコミュニケーションの問題を論じてきたが、本稿は265を超える実際の企業の意思決定会議の観察から、その",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14897"
     }
   ]
 }
