@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-16T00:53:13+09:00",
+  "last_updated": "2026-10-17T00:53:53+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-16",
+      "title": "AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点)",
+      "summary": "AIで仕事を減らすだけでは、管理部門は変わらない。浮いた時間を経営課題の発見や組織を動かす力に振り向け、自社の「勝ち筋」をつくるには何が必要か。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "【後輩にいら立ちやすい人の特徴】「〜すべき」が強い人は要注意／後輩を育てたいと思う人が減った理由／人間は「ラクダ」→「ライオン」→「赤ちゃん」と変化？／きしたかのの実体験をもとに議論！ | ビジネス | 東洋経済オンライン",
+      "summary": "【前編】https://youtu.be/cL7BVOi2OFEきしたかのさんが持ってきた相談は「後輩との上手な付き合い方がわからない」。ビジネスパーソン共通と",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961533?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
     {
       "date": "2026-10-15",
       "title": "塩野義、シニアでも同一労働同一賃金　全社員「ゼロベース」評価が出発点 (人的資本の現場から)",
@@ -225,22 +241,6 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14587"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "モトローラ大学物語 【1990年度マッキンゼー賞受賞論文】全社に「共通言語」を浸透させた",
-      "summary": "モトローラ大学の軌跡は、トップと次代のリーダーが人材育成を考えるうえで、多くの示唆に富んだベスト・プラクティスである。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12552"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "リーダーが「やらないこと」を決めるための3つの問い 本当に重要な仕事をどう見極めるか",
-      "summary": "経験豊富なリーダーでも、次々と重要課題が生じる環境では緊急対応に追われ、人材育成など本来優先すべき仕事に手を回せなくなる。原因は時間管理の稚拙さではなく、すべて",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14667"
     }
   ]
 }
