@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-17T00:53:53+09:00",
+  "last_updated": "2026-10-18T00:29:09+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-17",
+      "title": "生成AIの実験を続けられる組織、頓挫する組織の決定的な違い 成功するための「4つの足場」とは",
+      "summary": "生成AIで全社的な成果を生むには、ドメイン専門家による継続的な共同実験が不可欠である。しかし、共同実験に伴う隠れた負担が増大すれば、専門家は静かに離脱してしまう",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14713"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "部下が「ついていきたい」上司のIQやカリスマ性を超える魅力とは 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第9回",
+      "summary": "部下がついていきたくなるマネジャーの人間的魅力とは、どういうものか。ビジネス理解や戦略性、地頭の良さもさることながら、もっと大きな要因がある。それがEQ（心の知",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14905"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "編集部が厳選、今週の必読記事12選：2026年10月10日〜10月16日公開",
+      "summary": "AIの急速な普及で、意思決定や人材獲得、キャリア形成、サプライチェーンなど、従来の「計画」が通用しにくくなっている。変化の激しい時代に、リーダーはいかにAIを活",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15022"
+    },
     {
       "date": "2026-10-16",
       "title": "AI時代の管理部門は「意思決定のコックピット」　3つの力を身に付けよ (人的資本、プロの視点)",
@@ -9,14 +33,6 @@
       "cat": "tech",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00795/100800014/"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "【後輩にいら立ちやすい人の特徴】「〜すべき」が強い人は要注意／後輩を育てたいと思う人が減った理由／人間は「ラクダ」→「ライオン」→「赤ちゃん」と変化？／きしたかのの実体験をもとに議論！ | ビジネス | 東洋経済オンライン",
-      "summary": "【前編】https://youtu.be/cL7BVOi2OFEきしたかのさんが持ってきた相談は「後輩との上手な付き合い方がわからない」。ビジネスパーソン共通と",
-      "cat": "deep",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/961533?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-10-15",
@@ -57,6 +73,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14676"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "【後輩にいら立ちやすい人の特徴】「〜すべき」が強い人は要注意／後輩を育てたいと思う人が減った理由／人間は「ラクダ」→「ライオン」→「赤ちゃん」と変化？／きしたかのの実体験をもとに議論！ | ビジネス | 東洋経済オンライン",
+      "summary": "【前編】https://youtu.be/cL7BVOi2OFEきしたかのさんが持ってきた相談は「後輩との上手な付き合い方がわからない」。ビジネスパーソン共通と",
+      "cat": "deep",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/961533?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-10-14",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14896"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "AIチームとITチームが考え方の違いを乗り越え、連携する方法 両者の分断は適切なマネジメントで競争力の源泉になる",
-      "summary": "多くの企業でIT部門とAI部門は同じ枠組みで扱われがちだが、両者の視点は根本的に異なる。ITが統制や標準化を重視する一方、AIは柔軟性や迅速な実験を追求するため",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14669"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "リーダーは権限委譲の難しさをどうすれば乗り越えられるのか 誰もが直面しうる4つの課題",
-      "summary": "権限委譲はリーダーが学ぶべき最も重要なスキルの一つである。ただ、その必要性を理解していたとしても、何を任せるかの判断は難しく、さらに4つの課題が立ちふさがる。し",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14901"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "AIによる意思決定に説明責任を負う従業員は、どのような反応を示しているか 現場の葛藤から導く3つの教訓",
-      "summary": "企業がAIによる意思決定の導入を進める中、従業員はその判断の説明や正当化を求められている。研究によれば、従業員は自身の専門性や信用を守るため、AIの判断を再解釈",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14587"
     }
   ]
 }
