@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-23T01:04:33+09:00",
+  "last_updated": "2026-10-24T01:14:42+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-23",
+      "title": "「キャリア相談はAIで十分」若手の1on1離れ　レバレジーズは指名制を導入 (人的資本の現場から)",
+      "summary": "「相談はAIで十分」。そんな若手社員が少なくない中、形骸化が指摘される1on1を企業はどう見直すのか。レバレジーズや三井化学ICTマテリアの施策を追った。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/102100126/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "AI時代に、リーダーが「人間にしかできない仕事」を守る方法 ありきたりな思考に陥っていないか",
+      "summary": "AIは既存知識の整理や分析を大幅に高速化する一方、過度に依存すると組織の発想が無難で画一的になりやすい。前提を疑い、曖昧さに向き合って新たな方向性を示すには、人",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14677"
+    },
     {
       "date": "2026-10-22",
       "title": "「罰ゲーム」状態の管理職が人的資本経営の壁に　カギは情報のコックピット化 (人的資本経営のキホン)",
@@ -36,6 +52,14 @@
     },
     {
       "date": "2026-10-20",
+      "title": "社外から採用した即戦力リーダーがCEOになれない理由 能力不足が原因ではない",
+      "summary": "CEOの後継者候補として社外から採用されたシニアリーダー（ラテラル採用者）の多くは、実際のところ、十分な成果を出しながらもCEOへの昇格を果たせていない。その原",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14675"
+    },
+    {
+      "date": "2026-10-20",
       "title": "第79回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
       "summary": "",
       "cat": "policy",
@@ -49,14 +73,6 @@
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "社外から採用した即戦力リーダーがCEOになれない理由 能力不足が原因ではない",
-      "summary": "CEOの後継者候補として社外から採用されたシニアリーダー（ラテラル採用者）の多くは、実際のところ、十分な成果を出しながらもCEOへの昇格を果たせていない。その原",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14675"
     },
     {
       "date": "2026-10-20",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/NBD/19/special/02677/"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "ストラテジック・インテント 【1989年度マッキンゼー賞受賞論文】「組織の志」こそ競争力の源",
-      "summary": "ハメルとプラハラッドは、競争におけるポジショニングは、外部要因よりも、むしろ内部要因に大きく左右されるという仮説を立て、1980年代の欧米コングロマリットと国際",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11155"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "AIの尻ぬぐいに追われる「ボットシッティング」を減らす方法 従業員ではなく、リーダーの仕事",
-      "summary": "生成AIの導入が進む中、企業ではAIの出力を人間が補正・監視する「ボットシッティング」の隠れた負担が増大している。背景には、管理コストや組織特有の文脈情報の不足",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14676"
     }
   ]
 }
