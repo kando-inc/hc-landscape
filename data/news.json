@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-27T01:41:48+09:00",
+  "last_updated": "2026-10-28T01:54:36+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-27",
+      "title": "競争原理を働かせるアウトソーシング戦略 ブリティッシュ・ペトロリアム社IT部門長が語る",
+      "summary": "BP社は、IT部門のアウトソーシング化を成功させるためには、マルチ・サプライヤーをいかにマネジメントするかにかかっていると判断した。彼らはどのような戦略でマルチ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/13383"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "時間を武器とする競争戦略 FMS時代の競争優位の源泉",
+      "summary": "時間は最も現代的な競争優位の源泉である。イノベーション企業はこれに着目し、最先端を走り続け、ライバルを引き離していく。",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/9556"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "ストラテジック・プリンシプル 全社員に戦略の神髄を浸透させる",
+      "summary": "状況に応じて、前線の社員が迅速に意思決定を下せる組織。今日のような著しい変化の時代には、理想的な組織であろう。しかし、その実践は容易ではない。このような問題を克",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/12759"
+    },
     {
       "date": "2026-10-26",
       "title": "米企業の役員報酬指標、環境やDEIが後退　ガバナンス重視が鮮明に (グローバルインテリジェンス)",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14706"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "リーダーが「よい人」になろうとする組織文化の落とし穴 パフォーマンスの低迷を打破する3つのアプローチ",
-      "summary": "多くの組織で「感じのよさ」を優先するあまり、業績や成長が停滞する「よい人文化」の弊害が顕在化している。背景には、対立や厳しいフィードバックを避ける心理と、波風を",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14755"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "実店舗への投資で「成果を出す企業」と「伸び悩む企業」の違い ECを含めた「顧客への総合的な価値」で評価せよ",
-      "summary": "実店舗の衰退が語られる一方、成長企業は出店を加速している。重要なのは店舗の有無ではなく、戦略的役割の設計だ。店舗形式や商品、在庫、人員を最適化し、店舗単体ではな",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14757"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "戦略が頓挫している時、リーダーが確認すべき3つの条件 意欲、キャパシティ、スキルセットが成否を分ける",
-      "summary": "優れた戦略を立てても、実行の準備が整っていなければ組織変革は頓挫する。変革を成功に導くカギは、成果への責任を持つ「意欲」、実行を支える組織の「キャパシティ」、業",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14710"
     }
   ]
 }
