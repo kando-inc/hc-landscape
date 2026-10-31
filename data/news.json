@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-10-30T02:15:40+09:00",
+  "last_updated": "2026-10-31T01:55:11+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-10-30",
+      "title": "11月は｢人材開発促進月間｣です",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "私たちの存亡も繁栄もイノベーションにかかっている 連載『経営は何をすべきか』第4回",
+      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
+      "cat": "explore",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14998"
+    },
     {
       "date": "2026-10-29",
       "title": "悩み深き管理職、部下育成の相棒はAI　活用模索するオムロン、JTB、セガサミー (人的資本の現場から)",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13663"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "アステラス、9000億円の特許切れへ　「スタートアップ集合体」で創薬力再建 (テーマ別まとめ記事)",
-      "summary": "年商9000億円規模の主力薬が特許切れを迎える。アステラス製薬は売上収益と利益で過去最高を更新しながら、本社の縮小、管理職の削減、人事制度の刷新などの業務変革を",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00081/081700970/"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "バランス・スコアカードによる戦略的マネジメントの構築 企業ビジョンと戦略を全社員に浸透させる経営ツール",
-      "summary": "バランス・スコアカードは、有機的かつ戦略的に「現在と未来」を結び付け、企業ビジョンを全社的に浸透させていく。そして、個人には規律と能動的な行動を、組織には高いケ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13230"
     }
   ]
 }
