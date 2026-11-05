@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-04T02:49:08+09:00",
+  "last_updated": "2026-11-05T02:57:10+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-04",
+      "title": "経営者は覚悟を持って決断し、責任を持って実行せよ ［インタビュー］直観は決めるための道具にすぎない",
+      "summary": "ファーストリテイリングの柳井正氏は、過去の成功体験や業界の常識にとらわれず、数々の革新的な事業に挑み、圧倒的な成果を挙げ続けてきた。前例がなく、先の読めない状況",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15056"
+    },
     {
       "date": "2026-11-03",
       "title": "あなたの組織は適応するか、躓くか──「先例なき変化」の時代の選択肢 連載『経営は何をすべきか』第6回",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14675"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "第79回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76548.html"
     }
   ]
 }
