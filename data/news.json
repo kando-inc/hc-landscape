@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-07T02:26:51+09:00",
+  "last_updated": "2026-11-08T01:56:33+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-07",
+      "title": "どうすれば部下のやる気に火を点けられるのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第12回",
+      "summary": "どうすれば人のモチベーションに火をつけられるのか。リーダーシップ論の大家、ジョン・コッター教授いわく、マネジメントが人を正しい方向へ押すのとは対照的に、動機づけ",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15036"
+    },
     {
       "date": "2026-11-04",
       "title": "経営者は覚悟を持って決断し、責任を持って実行せよ ［インタビュー］直観は決めるための道具にすぎない",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13682"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "社外から採用した即戦力リーダーがCEOになれない理由 能力不足が原因ではない",
-      "summary": "CEOの後継者候補として社外から採用されたシニアリーダー（ラテラル採用者）の多くは、実際のところ、十分な成果を出しながらもCEOへの昇格を果たせていない。その原",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14675"
     }
   ]
 }
