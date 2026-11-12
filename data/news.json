@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-11-11T02:21:25+09:00",
+  "last_updated": "2026-11-12T03:29:03+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-12",
+      "title": "採用情報（期間業務職員（人材開発統括官）)募集情報",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "AIによって曖昧になる営業とマーケティングの境界線 「分業」から「統合」へ",
+      "summary": "マーケティングと営業の連携は長年の課題だが、エージェント型AIが変革を促している。顧客は両部門を区別せず、すべての接点を一つの関係として捉えるため、AIを部門別",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14855"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "新事業開発の渦中で学んだ組織改善へのステップ 混乱と相互不信からグッド・マネジメントへ",
+      "summary": "私の任務は、ビジネス上のいくつかの課題に取り組んでいくことだった。当時は、さらに挑戦を必要とする人間にかかわる問題が、私にふりかかってくるとは予想もしなかった。",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/9534"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "適応力の高い企業が、これから先の大きな繁栄を手にする 連載『経営は何をすべきか』第7回",
+      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15001"
+    },
     {
       "date": "2026-11-10",
       "title": "AIを理由に人員削減する企業が犯している根本的な間違い 業務プロセスの再設計から始めよ",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/12759"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "米企業の役員報酬指標、環境やDEIが後退　ガバナンス重視が鮮明に (グローバルインテリジェンス)",
-      "summary": "ESG旋風の揺り戻しを背景に、米大手企業の役員ボーナス計画において「環境（E）」や「人的資本（DEI含む）」関連指標を採用する企業が減少し、代わりに「ガバナンス",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00351/102000246/"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "情報開示ありきで始まった人的資本経営の現在地 大妻女子大学・鶴光太郎教授に聞く",
-      "summary": "上場企業の有価証券報告書で人的資本開示が義務化されて3年以上が経過したが、単なる開示に留まり形式化・形骸化に試行錯誤する企業は少なくない。投資促進や中長期的な企",
-      "cat": "policy",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15032"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "今日の経営者には、これまでにない模範的な倫理観が求められる理由 連載『経営は何をすべきか』第2回",
-      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14996"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "調達部門がエージェント型AIの導入を急ぐべき理由 「実験」で終わらせないための7つの原則",
-      "summary": "調達部門は、プロセスの構造化や財務成果の可視性からエージェント型AIの恩恵を最も享受しやすい領域であるにもかかわらず、導入率はわずか9％に留まる。他部門に後れを",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14760"
     }
   ]
 }
