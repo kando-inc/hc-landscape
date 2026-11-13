@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T03:29:03+09:00",
+  "last_updated": "2026-11-13T03:01:22+09:00",
   "total": 30,
   "articles": [
     {
@@ -9,6 +9,22 @@
       "cat": "policy",
       "source": "厚生労働省",
       "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "情報開示をドライバーに人事戦略を磨く、エーザイの人的資本経営 エーザイ執行役チーフHRオフィサー 真坂晃之氏に聞く",
+      "summary": "エーザイの真坂晃之チーフHRオフィサーは、人的資本の情報開示を「人事戦略を磨くドライバー」と捉え、開示と社内外との対話、施策改善を回すサイクルを重視する。中期経",
+      "cat": "policy",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15108"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "誰もがAIを使う時代に、なぜチームでの活用は進まないのか 協働を成功に導く2つの条件",
+      "summary": "AIは個人の業務で日常的に使われている一方、チームでの活用は進んでいない。多くの組織が導入状況を個人レベルで測定するため、共同作業への浸透を見落とし、効果を過大",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14856"
     },
     {
       "date": "2026-11-11",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13383"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "時間を武器とする競争戦略 FMS時代の競争優位の源泉",
-      "summary": "時間は最も現代的な競争優位の源泉である。イノベーション企業はこれに着目し、最先端を走り続け、ライバルを引き離していく。",
-      "cat": "explore",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/9556"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "ストラテジック・プリンシプル 全社員に戦略の神髄を浸透させる",
-      "summary": "状況に応じて、前線の社員が迅速に意思決定を下せる組織。今日のような著しい変化の時代には、理想的な組織であろう。しかし、その実践は容易ではない。このような問題を克",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/12759"
     }
   ]
 }
