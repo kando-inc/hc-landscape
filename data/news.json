@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-11-13T03:01:22+09:00",
+  "last_updated": "2026-11-14T02:47:25+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-13",
+      "title": "チームを疲弊させる「有害なリーダー」を採用前に見極める方法 表面的な魅力に惑わされないための6つのステップ",
+      "summary": "面接でカリスマ性や実績を示し魅力的に映るリーダー候補が、採用後にチームを疲弊させる「有害なリーダー」であるケースは少なくない。短時間の面接では彼らの自己防衛や手",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14793"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "4割の社員はやる気がないのに、経営者が何もしない3つの理由 連載『経営は何をすべきか』第8回",
+      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15002"
+    },
     {
       "date": "2026-11-12",
       "title": "採用情報（期間業務職員（人材開発統括官）)募集情報",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/13480"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "21世紀の複雑な課題に立ち向かうには、根本的な理念が必要である 連載『経営は何をすべきか』第3回",
-      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14997"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "競争原理を働かせるアウトソーシング戦略 ブリティッシュ・ペトロリアム社IT部門長が語る",
-      "summary": "BP社は、IT部門のアウトソーシング化を成功させるためには、マルチ・サプライヤーをいかにマネジメントするかにかかっていると判断した。彼らはどのような戦略でマルチ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/13383"
     }
   ]
 }
