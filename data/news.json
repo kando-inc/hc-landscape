@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-11-19T03:54:23+09:00",
+  "last_updated": "2026-11-20T03:46:44+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-19",
+      "title": "KDDIが示す勤務間インターバル定着の道筋　導入義務化にはなお高いハードル (人的資本の現場から)",
+      "summary": "勤務終了から次の勤務開始まで一定の休息時間を確保する「勤務間インターバル制度」をめぐる議論が新たな局面を迎えている。導入は義務化する方向に向かうと見られている中",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/111800131/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "限られたメンバーで増え続ける仕事に対処する方法 リーダーが自滅せず、チームを動かす実践的なアプローチ",
+      "summary": "多くのリーダーが過剰な仕事量に押し潰されそうになっている。すべてを自分で抱え込めば燃え尽き、チームに無理を強いれば優秀な人材を失うおそれがある。仕事が増加する一",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14879"
+    },
     {
       "date": "2026-11-18",
       "title": "あなたは自分が思うほど「協働が得意なリーダー」ではない 対処に役立つ4つの戦略",
@@ -20,22 +36,6 @@
     },
     {
       "date": "2026-11-17",
-      "title": "「全世代型リ・スキリング国民運動」（あなたのリスキリングアクション）を推進します",
-      "summary": "",
-      "cat": "policy",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_77386.html"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "AIの進化で問い直される「新卒採用」　価値創造につながる3大パターン (人的資本経営のキホン)",
-      "summary": "企業の戦略の根幹といえる採用を見直す時が来ている。新卒採用が特に効果を発揮する3つのケースを見る。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00614/111000034/"
-    },
-    {
-      "date": "2026-11-17",
       "title": "戦略の野心レベルを適切に設定する方法 適切な目標を設定するための8つの問い",
       "summary": "新規事業や新規参入の戦略を策定するうえで、どのレベルの野心を盛り込むべきか。目標を低すぎず高すぎず、適切に設定するためには、解決すべき課題、利用可能なリソースや",
       "cat": "explore",
@@ -49,6 +49,22 @@
       "cat": "explore",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/9531"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "「全世代型リ・スキリング国民運動」（あなたのリスキリングアクション）を推進します",
+      "summary": "",
+      "cat": "policy",
+      "source": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77386.html"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "AIの進化で問い直される「新卒採用」　価値創造につながる3大パターン (人的資本経営のキホン)",
+      "summary": "企業の戦略の根幹といえる採用を見直す時が来ている。新卒採用が特に効果を発揮する3つのケースを見る。",
+      "cat": "tech",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00614/111000034/"
     },
     {
       "date": "2026-11-17",
@@ -225,22 +241,6 @@
       "cat": "explore",
       "source": "東洋経済オンライン",
       "url": "https://toyokeizai.net/articles/-/963996?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "予算や人員の差ではなかった… 新規事業が成果を出せない本当の理由と立ちはだかる｢4つの壁｣ | キャリア・教育 | 東洋経済オンライン",
-      "summary": "新規事業やオープンイノベーションの取り組みが増える中､多くの企業が｢予算や人員はあるのに成果につながらない｣という壁に直面しています。資源投入だけでは乗り越えら",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963995?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "開催迫る11/11から3日間開催　ソフトバンク、MUFGのCHROが登壇の人的資本LIVE (日経ビジネスLIVE)",
-      "summary": "ソフトバンク、MUFGのCHROが登壇！AIエージェント時代の人的資本経営を3日間で徹底議論。11/11～13オンライン開催、参加無料です。",
-      "cat": "tech",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00584/102100106/"
     }
   ]
 }
