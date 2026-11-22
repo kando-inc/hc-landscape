@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-21T03:37:49+09:00",
+  "last_updated": "2026-11-22T02:44:08+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-21",
+      "title": "なぜ中間管理職にもリーダーシップが求められるのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第14回",
+      "summary": "中間管理職にもリーダーシップは本当に必要なのか。マネジメントを差し置いて変革ばかりに注力していたら、既存のシステムが機能しなくなり、ビジネスが立ちいかなくなるの",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15094"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "株式報酬を与えるだけでは、従業員の行動は変わらない 日々の「仕事の価値」をどう伝えるべきか",
+      "summary": "従業員に株式報酬を与えるだけでは、主体的な行動は生まれない。ハーバード・ビジネス・スクール（HBS）の研究によると、日々の業務が企業価値を高め、それが自身の利益",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14906"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "人事部長は将来の経営者人材 出世のステップ",
+      "summary": "",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14536"
+    },
     {
       "date": "2026-11-19",
       "title": "KDDIが示す勤務間インターバル定着の道筋　導入義務化にはなお高いハードル (人的資本の現場から)",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/11792"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "仕事上のストレスは業務量だけが原因ではない 3つの要因とその影響",
-      "summary": "業務量の増加や環境変化に伴い、多くの組織で従業員のストレスが深刻化している。背景には、ストレスの原因をすべて「過重労働」と一くくりにし、表面的な対策に留まってし",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14907"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "編集部が厳選、今週の必読記事5選：2026年10月31日〜11月6日公開 安易な前例の踏襲は仇となる",
-      "summary": "優れた商品やサービスも、その価値が顧客に伝わらなければ競争優位にはつながらない。組織内では、従業員の行動変容を促す仕組みや本音を引き出す対話も重要だ。今回は、A",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15107"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "｢PoCで自然消滅｣｢経営を巻き込めない｣… 新規事業担当者の悲鳴と《4つの壁》を越えるヒント | キャリア・教育 | 東洋経済オンライン",
-      "summary": "新規事業やオープンイノベーションに挑む企業がぶつかる｢4つの壁｣。なぜ多くのプロジェクトが成果に結びつかないのか。情報接点､仮説立案､実行､継承､それぞれの壁を",
-      "cat": "explore",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/963996?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     }
   ]
 }
