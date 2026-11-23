@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-22T02:44:08+09:00",
+  "last_updated": "2026-11-23T03:20:51+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-23",
+      "title": "激動のディズニーを2度率いた元CEOボブ・アイガーのリーダーシップ 後継者選びの教訓と企業文化の再構築",
+      "summary": "ウォルト・ディズニーの元CEOであるボブ・アイガーは、激動の時代に100年超の歴史を持つ名門企業をいかに率いてきたのか。ピクサー買収による創造力の再生、稀少な資",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14941"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
+      "summary": "2026年の米中間選挙で民主党が議会を掌握し､アメリカのサイバーセキュリティ政策は大きな転機を迎えた。トランプ政権の組織改革やAIをめぐる米中競争といった激変の",
+      "cat": "tech",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965133?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "編集部が厳選、今週の必読記事13選：2026年11月14日〜11月20日公開 リーダーに求められる「構想力」と「実行力」の両輪",
+      "summary": "AIの進化は、企業の競争環境や経営戦略、組織運営を大きく変えつつある。一方で、人手不足への対応や組織文化の醸成、従業員への支援など、人間に関わる課題も重要性を増",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15215"
+    },
     {
       "date": "2026-11-21",
       "title": "なぜ中間管理職にもリーダーシップが求められるのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第14回",
@@ -217,30 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/15001"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "AIを理由に人員削減する企業が犯している根本的な間違い 業務プロセスの再設計から始めよ",
-      "summary": "AIによる雇用への影響は現時点では限定的だが、多くの企業がAI導入を理由に拙速な人員削減を進め、後に判断ミスを認めている。重要なのは人員数から考えるのではなく、",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14828"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "生成AI導入の成否を左右するマネジャーの5つのタイプと対応策 一律の施策はうまくいかない",
-      "summary": "生成AIの導入が進む中、多くの組織で現場への定着が停滞する問題が生じている。背景には、経営陣の野心を日々の業務へ橋渡しする中間管理職の存在を軽視し、一律の施策に",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14822"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "意思決定のRAPIDモデル 役割を明確にすれば、組織能力が上がる",
-      "summary": "優れた意思決定を素早く安定して行えることが高業績企業の特徴だが、そうした組織においても、意思決定権の所在があいまいになる時がある。「グローバル対ローカル」「本社",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/11792"
     }
   ]
 }
