@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-11-23T03:20:51+09:00",
+  "last_updated": "2026-11-24T06:34:36+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-23",
+      "title": "不祥事による最大の代償は優れた人材の流出である 罰金を支払って終わりではない",
+      "summary": "企業の不正行為による損失は、罰金や株価への影響だけではない。規制当局による制裁は、従業員に企業への帰属意識や自身の評判を問い直させ、優秀な人材の自主退職を引き起",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14912"
+    },
     {
       "date": "2026-11-23",
       "title": "激動のディズニーを2度率いた元CEOボブ・アイガーのリーダーシップ 後継者選びの教訓と企業文化の再構築",
@@ -9,14 +17,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14941"
-    },
-    {
-      "date": "2026-11-22",
-      "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
-      "summary": "2026年の米中間選挙で民主党が議会を掌握し､アメリカのサイバーセキュリティ政策は大きな転機を迎えた。トランプ政権の組織改革やAIをめぐる米中競争といった激変の",
-      "cat": "tech",
-      "source": "東洋経済オンライン",
-      "url": "https://toyokeizai.net/articles/-/965133?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-11-22",
@@ -41,6 +41,14 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14906"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
+      "summary": "2026年の米中間選挙で民主党が議会を掌握し､アメリカのサイバーセキュリティ政策は大きな転機を迎えた。トランプ政権の組織改革やAIをめぐる米中競争といった激変の",
+      "cat": "tech",
+      "source": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/articles/-/965133?utm_source=rss&utm_medium=http&utm_campaign=link_back"
     },
     {
       "date": "2026-11-21",
@@ -233,14 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/9534"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "適応力の高い企業が、これから先の大きな繁栄を手にする 連載『経営は何をすべきか』第7回",
-      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15001"
     }
   ]
 }
