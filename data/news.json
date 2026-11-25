@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-11-24T06:34:36+09:00",
+  "last_updated": "2026-11-25T05:08:02+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-24",
+      "title": "AI投資で財務リターンを着実に得る方法 問題はテクノロジーや人材でなく戦略にある",
+      "summary": "AI投資が過熱する一方、多くの企業で財務的リターンが測定できない「価値ギャップ」が深刻化している。背景には、技術や人材ではなく戦略の不在がある。本稿では、投資を",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14910"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "人を動かすために本当に必要なのは、話術ではなく敬意である 駆け引きに頼っていないか",
+      "summary": "従来の説得術は、お世辞や感情への訴えかけ、社会的圧力などによって相手を心理的に操作する傾向があった。哲学者のコリン・マーシャルは、こうした手法に異を唱え、相手を",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14883"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "エヌビディアを例に考える「CEO復帰が成功する時、失敗する時」 ジェンスン・フアン「第二幕」の行方",
+      "summary": "不適切な関係の発覚により辞任したエヌビディアのジェンスン・フアンが、わずか11日後に異例のCEOへの復職を果たした。米国には再起に寛容な文化があるものの、過去の",
+      "cat": "deep",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/15218"
+    },
     {
       "date": "2026-11-23",
       "title": "不祥事による最大の代償は優れた人材の流出である 罰金を支払って終わりではない",
@@ -217,30 +241,6 @@
       "cat": "policy",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/15108"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "誰もがAIを使う時代に、なぜチームでの活用は進まないのか 協働を成功に導く2つの条件",
-      "summary": "AIは個人の業務で日常的に使われている一方、チームでの活用は進んでいない。多くの組織が導入状況を個人レベルで測定するため、共同作業への浸透を見落とし、効果を過大",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14856"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "AIによって曖昧になる営業とマーケティングの境界線 「分業」から「統合」へ",
-      "summary": "マーケティングと営業の連携は長年の課題だが、エージェント型AIが変革を促している。顧客は両部門を区別せず、すべての接点を一つの関係として捉えるため、AIを部門別",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14855"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "新事業開発の渦中で学んだ組織改善へのステップ 混乱と相互不信からグッド・マネジメントへ",
-      "summary": "私の任務は、ビジネス上のいくつかの課題に取り組んでいくことだった。当時は、さらに挑戦を必要とする人間にかかわる問題が、私にふりかかってくるとは予想もしなかった。",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/9534"
     }
   ]
 }
