@@ -1,22 +1,38 @@
 {
-  "last_updated": "2026-11-26T04:34:43+09:00",
+  "last_updated": "2026-11-27T04:38:49+09:00",
   "total": 30,
   "articles": [
     {
-      "date": "2026-11-25",
-      "title": "初任給33万円、その先の昇給額も可視化　Plan・Do・Seeの「見える賃金表」 (Plan・Do・Seeの人的資本経営)",
-      "summary": "ブライダル、飲食、ホテル事業を運営するPlan・Do・Seeは人的資本経営を武器に成長してきた。同社独自の賃金テーブルは、従業員のスキルマップとしてだけでなく、",
+      "date": "2026-11-27",
+      "title": "ダウ コーニング社の多次元組織成功への条件",
+      "summary": "意思決定が下部に下され、コミュニケーションが改善され、革新に多くの重点がおかれる。",
       "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00965/112400002/"
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14434"
     },
     {
-      "date": "2026-11-25",
-      "title": "［新連載］旅館再生請負人Plan・Do・See　破綻の老舗がミシュランの対象に (Plan・Do・Seeの人的資本経営)",
-      "summary": "ブライダル、飲食、ホテル事業を運営するPlan・Do・See。不動産に頼らず、サービスを強みとするアセットライトのビジネスモデルで急成長した。そのサービス力に経",
+      "date": "2026-11-26",
+      "title": "Plan・Do・Seeが海外人材育成で脚光　1700人輩出、八芳園や三井不が頼る (Plan・Do・Seeの人的資本経営)",
+      "summary": "ホテルやレストランを手掛けるPlan・Do・Seeは海外人材の育成に秀でた企業としても知られ、八芳園や三井不動産などサービスを強みとする多くの企業に頼られている",
       "cat": "deep",
       "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00965/112000001/"
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112500004/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "海外研修に2億円、子ども1人に4万円　Plan・Do・Seeの戦略的福利厚生 (Plan・Do・Seeの人的資本経営)",
+      "summary": "Plan・Do・Seeは社員のサービス力を高めるため研修費に惜しまず予算を投じる。今年はゼネラルマネジャーやマネジャーなどを対象に、予算1人150万円の海外研修",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112400003/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "情報にアクセスしやすくなることと引き換えに生じるリスク 「覚える価値がある」ものが変わる",
+      "summary": "社内SNSやAIツールの普及に伴い、情報へのアクセスが容易になった現在、知識の「所在」ばかりを記憶する「つながりのトレードオフ」が存在する。本稿では、情報検索が",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14911"
     },
     {
       "date": "2026-11-25",
@@ -41,6 +57,22 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14883"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "初任給33万円、その先の昇給額も可視化　Plan・Do・Seeの「見える賃金表」 (Plan・Do・Seeの人的資本経営)",
+      "summary": "ブライダル、飲食、ホテル事業を運営するPlan・Do・Seeは人的資本経営を武器に成長してきた。同社独自の賃金テーブルは、従業員のスキルマップとしてだけでなく、",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112400002/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "［新連載］旅館再生請負人Plan・Do・See　破綻の老舗がミシュランの対象に (Plan・Do・Seeの人的資本経営)",
+      "summary": "ブライダル、飲食、ホテル事業を運営するPlan・Do・See。不動産に頼らず、サービスを強みとするアセットライトのビジネスモデルで急成長した。そのサービス力に経",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112000001/"
     },
     {
       "date": "2026-11-24",
@@ -209,38 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14827"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "編集部が厳選、今週の必読記事7選：2026年11月7日〜11月13日公開 カリスマ経営者も人間である",
-      "summary": "AIの進化に伴い、企業には既存の業務プロセスや組織の壁を見直し、人間とAIの役割を再定義することが求められている。同時に、リーダーへの信頼や従業員のウェルビーイ",
-      "cat": "tech",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15167"
-    },
-    {
-      "date": "2026-11-15",
-      "title": "社員に本来の情熱が見られないなら、それは経営者の失態である 連載『経営は何をすべきか』第9回",
-      "summary": "『ウォール・ストリート・ジャーナル』誌で「世界ナンバー1の経営思想家」に選ばれ、『コア・コンピタンス経営』や『経営の未来』でも知られるロンドン・ビジネススクール",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15003"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "多忙なマネジャーは自身のやる気をどうやって上げるのか 『なぜあのマネジャーには人がついてくるのか 「北風と太陽」のリーダーシップ論』第13回",
-      "summary": "マネジャーはただでさえ多忙を極めている。そんな疲れ切っている現状の中、自分自身のモチベーションをどのように上げていけばいいのか。そこで有用なのが、オーセンティッ",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/15079"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "チームを疲弊させる「有害なリーダー」を採用前に見極める方法 表面的な魅力に惑わされないための6つのステップ",
-      "summary": "面接でカリスマ性や実績を示し魅力的に映るリーダー候補が、採用後にチームを疲弊させる「有害なリーダー」であるケースは少なくない。短時間の面接では彼らの自己防衛や手",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14793"
     }
   ]
 }
