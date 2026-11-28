@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-11-27T04:38:49+09:00",
+  "last_updated": "2026-11-28T04:23:28+09:00",
   "total": 30,
   "articles": [
+    {
+      "date": "2026-11-27",
+      "title": "Plan・Do・See高収益の理由　浅葉社長「新規出店は全席を毎日埋めてから」  (Plan・Do・Seeの人的資本経営)",
+      "summary": "独自の人的資本経営で成長してきたPlan・Do・See。海外人材の育成にも力を入れ、地銀にも出資する。非上場企業であることも手伝って、同社の実態はつかみづらい。",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112600005/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "安価で安易なAIによる監視が従業員の不信感や離職を招く 「管理の罠」に陥っていないか",
+      "summary": "AI技術の進化により、企業は従業員や顧客を安価かつ容易に監視できるようになった。しかし、過度な管理には、目に見える運用コストだけでなく、従業員の不信感や離職を招",
+      "cat": "tech",
+      "source": "Harvard Business Review 日本版",
+      "url": "https://dhbr.diamond.jp/articles/-/14908"
+    },
     {
       "date": "2026-11-27",
       "title": "ダウ コーニング社の多次元組織成功への条件",
@@ -17,14 +33,6 @@
       "cat": "deep",
       "source": "日経ビジネス",
       "url": "https://business.nikkei.com/atcl/gen/19/00965/112500004/"
-    },
-    {
-      "date": "2026-11-26",
-      "title": "海外研修に2億円、子ども1人に4万円　Plan・Do・Seeの戦略的福利厚生 (Plan・Do・Seeの人的資本経営)",
-      "summary": "Plan・Do・Seeは社員のサービス力を高めるため研修費に惜しまず予算を投じる。今年はゼネラルマネジャーやマネジャーなどを対象に、予算1人150万円の海外研修",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00965/112400003/"
     },
     {
       "date": "2026-11-26",
@@ -49,6 +57,14 @@
       "cat": "tech",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/14910"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "海外研修に2億円、子ども1人に4万円　Plan・Do・Seeの戦略的福利厚生 (Plan・Do・Seeの人的資本経営)",
+      "summary": "Plan・Do・Seeは社員のサービス力を高めるため研修費に惜しまず予算を投じる。今年はゼネラルマネジャーやマネジャーなどを対象に、予算1人150万円の海外研修",
+      "cat": "deep",
+      "source": "日経ビジネス",
+      "url": "https://business.nikkei.com/atcl/gen/19/00965/112400003/"
     },
     {
       "date": "2026-11-24",
@@ -225,22 +241,6 @@
       "cat": "deep",
       "source": "Harvard Business Review 日本版",
       "url": "https://dhbr.diamond.jp/articles/-/15004"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "年300万円で下請けの人材採用・育成支援　日本コムシス“大盤振る舞い”の真意 (人的資本の現場から)",
-      "summary": "工事を担う協力会社の人手不足が、元請け企業の将来の成長を左右しかねない。日本コムシスと積水ハウス建設HDは、採用や資材調達支援を通じて協力会社の経営基盤を強化す",
-      "cat": "deep",
-      "source": "日経ビジネス",
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/111200130/"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "従業員の7割がケア労働を担う時代に、企業が見落としていること 離職につながる前に可視化せよ",
-      "summary": "世界の従業員の71％が育児や介護などのケア労働を担っているが、多くの企業はその実態を把握していない。従業員はキャリア上の不利益を恐れて負担を隠し、それがストレス",
-      "cat": "deep",
-      "source": "Harvard Business Review 日本版",
-      "url": "https://dhbr.diamond.jp/articles/-/14827"
     }
   ]
 }
